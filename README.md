@@ -5,5 +5,5 @@
 
 ## 2021
 ### 五月
-*  第 1 期: Notion也能做博客？ 
+*  第 1 期: [Notion也能做博客？](https://github.com/ljinkai/weekly/blob/main/2021/issue-1.md) 
 

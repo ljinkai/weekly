@@ -85,7 +85,7 @@ Twitter原文链接：[https://twitter.com/d__raptis/status/1385572926200688641?
 100+工具官网：[https://landingpage.fyi/landing-page-checklist.html](https://landingpage.fyi/landing-page-checklist.html)
 
 ---
-
+<center>
 以上内容会同步更新在：
 
 Indie Maker Start: [http://www.indiemakerstart.com/](http://www.indiemakerstart.com/)
@@ -93,3 +93,9 @@ Indie Maker Start: [http://www.indiemakerstart.com/](http://www.indiemakerstart.
 Github: [https://github.com/ljinkai/weekly](https://github.com/ljinkai/weekly)
 
 微信公众号：凯凯而谈
+
+
+![](http://qiniu.gafata.com/2019-03-17-web-bear.jpg?imageView2/2/w/200)
+
+扫码订阅
+</center>
