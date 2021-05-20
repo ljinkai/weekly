@@ -75,8 +75,24 @@ Githu仓库：[https://github.com/slidevjs/slidev](https://github.com/slidevjs/s
 
 ## 8、Patchwork: 更漂亮的整理你的收藏
 
-帮助你从网络上收集和整理一些信息，可以将视频，音频，网站和文字注释保存到您自己的收藏夹中，整理成精美的主题集合。方便自己日后的查找和分类整理。有Chrome浏览器插件和网站结合使用效果更加。插件负责采集，网站负责展示。
+帮助你从网络上收集和整理一些信息，可以将视频，音频，网站和文字注释保存到您自己的收藏夹中，整理成精美的主题集合。方便自己日后的查找和分类整理。有Chrome浏览器插件和网站结合使用效果更佳。插件负责采集，网站负责展示。
 
 ![](http://qiniu.gafata.com/2021-05-20-Untitled%209.png?imageView2/2/w/600)
 
 介绍产品: [https://www.producthunt.com/posts/patchwork](https://www.producthunt.com/posts/patchwork)
+
+---
+<center>
+以上内容会同步更新在：
+
+Indie Maker Start: [http://www.indiemakerstart.com/](http://www.indiemakerstart.com/)
+
+Github: [https://github.com/ljinkai/weekly](https://github.com/ljinkai/weekly)
+
+微信公众号：凯凯而谈
+
+
+![](http://qiniu.gafata.com/2019-03-17-web-bear.jpg?imageView2/2/w/200)
+
+扫码订阅
+</center>
