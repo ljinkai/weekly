@@ -18,7 +18,7 @@
     * [Slidev: 轻松用Markdown写出幻灯片](https://github.com/ljinkai/weekly/blob/main/2021/issue-3.md#7slidev-%E8%BD%BB%E6%9D%BE%E7%94%A8markdown%E5%86%99%E5%87%BA%E5%B9%BB%E7%81%AF%E7%89%87)
     * [Patchwork: 更漂亮的整理你的收藏](https://github.com/ljinkai/weekly/blob/main/2021/issue-3.md#8patchwork-%E6%9B%B4%E6%BC%82%E4%BA%AE%E7%9A%84%E6%95%B4%E7%90%86%E4%BD%A0%E7%9A%84%E6%94%B6%E8%97%8F)
 
-*  第 2 期: [挑战100天获取100个付费用户](https://github.com/ljinkai/weekly/blob/main/2021/issue-2.md) 
+*  [第 2 期](https://github.com/ljinkai/weekly/blob/main/2021/issue-2.md) 
 
     * [Termux：Android终端模拟器](https://github.com/ljinkai/weekly/blob/main/2021/issue-2.md#1termuxandroid%E7%BB%88%E7%AB%AF%E6%A8%A1%E6%8B%9F%E5%99%A8)
     * [Lottie动画](https://github.com/ljinkai/weekly/blob/main/2021/issue-2.md#2lottie%E5%8A%A8%E7%94%BB)
