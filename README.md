@@ -40,3 +40,17 @@
     * [nobelium: Next.js+Notion的静态博客系统](https://github.com/ljinkai/weekly/blob/main/2021/issue-1.md#3nobelium-nextjsnotion%E7%9A%84%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F) 
     * [卡片设计的7个小技巧](https://github.com/ljinkai/weekly/blob/main/2021/issue-1.md#4%E5%8D%A1%E7%89%87%E8%AE%BE%E8%AE%A1%E7%9A%847%E4%B8%AA%E5%B0%8F%E6%8A%80%E5%B7%A7)
     * [Landing Page检查列表](https://github.com/ljinkai/weekly/blob/main/2021/issue-1.md#5landing-page%E6%A3%80%E6%9F%A5%E5%88%97%E8%A1%A8)
+
+
+---
+<center>
+以上内容会同步更新在：
+
+
+微信公众号：凯凯而谈
+
+
+![](http://qiniu.gafata.com/2019-03-17-web-bear.jpg?imageView2/2/w/200)
+
+扫码订阅
+</center>
