@@ -7,11 +7,12 @@
 
 ### 六月
 
-*  [第 5 期](https://github.com/ljinkai/weekly/blob/main/2021/issue-5.md) 
+*  [第 6 期: 一个Telegram机器人卖了32万美金](https://github.com/ljinkai/weekly/blob/main/2021/issue-6.md) 
+*  [第 5 期: Notion Api 终于开放公测啦](https://github.com/ljinkai/weekly/blob/main/2021/issue-5.md) 
 
 ### 五月
 
-*  [第 4 期](https://github.com/ljinkai/weekly/blob/main/2021/issue-4.md) 
+*  [第 4 期: Friendly月收入1万美金学到10件重要的事](https://github.com/ljinkai/weekly/blob/main/2021/issue-4.md) 
 *  [第 3 期](https://github.com/ljinkai/weekly/blob/main/2021/issue-3.md) 
     
     * [3个不错的体验优化](https://github.com/ljinkai/weekly/blob/main/2021/issue-3.md#13%E4%B8%AA%E4%B8%8D%E9%94%99%E7%9A%84%E4%BD%93%E9%AA%8C%E4%BC%98%E5%8C%96)
