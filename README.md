@@ -7,6 +7,7 @@
 
 ### 六月
 
+*  [第 8 期: 实操从$0开始通过Notion模板一个月内赚到$1000](https://github.com/ljinkai/weekly/blob/main/2021/issue-8.md) 
 *  [第 7 期: 面包多，让创作者的支付更简单](https://github.com/ljinkai/weekly/blob/main/2021/issue-7.md) 
 *  [第 6 期: 一个Telegram机器人卖了32万美金](https://github.com/ljinkai/weekly/blob/main/2021/issue-6.md) 
 *  [第 5 期: Notion Api 终于开放公测啦](https://github.com/ljinkai/weekly/blob/main/2021/issue-5.md) 
