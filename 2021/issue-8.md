@@ -8,7 +8,7 @@
 - `4、Pixiko: 一个在线视频动画编辑器`
 - `5、长期做1小时1万美金的工作是有魔法的`
 
-# 1、iPhone和iPad上也可以用浏览器扩展插件了
+## 1、iPhone和iPad上也可以用浏览器扩展插件了
 
 苹果在2021年的WWDC大会上宣布，可以在移动设备的Safari上使用浏览器扩展，从iOS15开始的iPhone和iPad上就可以使用了。发布日期大约在今年的秋季。我们知道，Chrome浏览器扩展插件大家用的比较多，但是Safari上的扩展插件并没有很多，这也是很多人不愿意使用Safari的原因。这次Apple是一次宣传可以在手机浏览器上使用插件的，未来在手机上的体验还是值得期待的。
 
@@ -16,7 +16,7 @@
 
 [IH介绍](https://www.indiehackers.com/post/acquisition-channel-opportunities-browser-extensions-facebook-log-in-tiktok-20e9444379)
 
-# 2、Extensionpay: 浏览器插件支付集成
+## 2、Extensionpay: 浏览器插件支付集成
 
 extensionpay是一个面向浏览器插件的产品，主要是可以集成Stripe的支付，引入其.js文件，配置好Stripe的账号，就可以快速的在插件里集成支付，让你的浏览器插件可以快速的具有支付能力。支付类型有订阅、免费体验、高级会员支付等。当然它是要收取一定的流水交易费用，每笔费用为：5%+Stripe Fee。
 
@@ -24,7 +24,7 @@ extensionpay是一个面向浏览器插件的产品，主要是可以集成Strip
 
 [Extensionpay官网](https://extensionpay.com/)
 
-# 3、Easlo: 实操从$0开始通过Notion模板一个月内赚到$1000
+## 3、Easlo: 实操从$0开始通过Notion模板一个月内赚到$1000
 
 这个案例很有意思，作者Easlo是一个19岁的学生，通过Notion模板售卖的方式，从5月份开始，到6月份的时候已经赚到了$1000，他的操作步骤比较简单，其实每个人都可以做到。
 
@@ -54,7 +54,7 @@ extensionpay是一个面向浏览器插件的产品，主要是可以集成Strip
 
 [Easlo一个月后的帖子](https://twitter.com/heyeaslo/status/1407322485914103809)
 
-# 4、Pixiko: 一个在线视频动画编辑器
+## 4、Pixiko: 一个在线视频动画编辑器
 
 这是一个完全在线的视频动画编辑器，可以将生成短小的视频动画，对于生成图片动画和文字动画类的内容操作也非常简单。用于创造宣传类的动画很方便。作者之一Vadim介绍了这款产品的产生过程，从一开始的技术方案困难，到后来MVP的发布，有第一个付费用户，然后又进行了重写，不断的迭代，才有了今天这个版本。他和团队也经历了很多的困难才有了今天的办法。我们通过最早版本和最新版本的对比，进步就非常的明显了。每一个产品的迭代都是必不可少的步骤，也是通向伟大的阶梯。
 
@@ -70,7 +70,7 @@ extensionpay是一个面向浏览器插件的产品，主要是可以集成Strip
 
 [Pixiko产生历史介绍](https://pixiko.com/blog/the-online-video-editor-and-maker-that-could-a-brief-history-of-pixiko)
 
-# 5、长期做1小时1万美金的工作是有魔法的
+## 5、长期做1小时1万美金的工作是有魔法的
 
 作者提出了一个$10k/h工作的概念，可以从另外的角度来思考下我们的人生。如果对我们每天遇到的问题进行分类的话，一般会分为四种，对应的价值我们也做个关联：
 
