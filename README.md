@@ -5,6 +5,11 @@
 
 ## 2021
 
+### 七月
+
+*  [第 9 期: 创造者领域融资13亿美元，开发者有机会吗?](https://github.com/ljinkai/weekly/blob/main/2021/issue-9.md) 
+
+
 ### 六月
 
 *  [第 8 期: 实操从$0开始通过Notion模板一个月内赚到$1000](https://github.com/ljinkai/weekly/blob/main/2021/issue-8.md) 
