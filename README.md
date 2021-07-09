@@ -7,6 +7,7 @@
 
 ### 七月
 
+*  [第 10 期: uTools, 一款极简、插件化效率工具](https://github.com/ljinkai/weekly/blob/main/2021/issue-10.md) 
 *  [第 9 期: 创造者领域融资13亿美元，开发者有机会吗?](https://github.com/ljinkai/weekly/blob/main/2021/issue-9.md) 
 
 
