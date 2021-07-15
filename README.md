@@ -7,6 +7,7 @@
 
 ### 七月
 
+*  [第 11 期: 独立开发者管理一千万用户的感受](https://github.com/ljinkai/weekly/blob/main/2021/issue-11.md) 
 *  [第 10 期: uTools, 一款极简、插件化效率工具](https://github.com/ljinkai/weekly/blob/main/2021/issue-10.md) 
 *  [第 9 期: 创造者领域融资13亿美元，开发者有机会吗?](https://github.com/ljinkai/weekly/blob/main/2021/issue-9.md) 
 
