@@ -7,6 +7,7 @@
 
 ### 七月
 
+*  [第 12 期: No Code实现从一个群到一个网站月收入3千美金](https://github.com/ljinkai/weekly/blob/main/2021/issue-13.md) 
 *  [第 12 期: VS Code插件可以赚到钱吗？](https://github.com/ljinkai/weekly/blob/main/2021/issue-12.md) 
 *  [第 11 期: 独立开发者管理一千万用户的感受](https://github.com/ljinkai/weekly/blob/main/2021/issue-11.md) 
 *  [第 10 期: uTools, 一款极简、插件化效率工具](https://github.com/ljinkai/weekly/blob/main/2021/issue-10.md) 
