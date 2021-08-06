@@ -5,6 +5,10 @@
 
 ## 2021
 
+### 八月
+
+*  [第 14 期: 获取前1000个用户的3个策略](https://github.com/ljinkai/weekly/blob/main/2021/issue-14.md) 
+
 ### 七月
 
 *  [第 13 期: No Code实现从一个群到一个网站月收入3千美金](https://github.com/ljinkai/weekly/blob/main/2021/issue-13.md) 
