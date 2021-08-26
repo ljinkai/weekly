@@ -7,6 +7,7 @@
 
 ### 八月
 
+*  [第 17 期: 为了活下去，如何获取前200个付费用户？](https://github.com/ljinkai/weekly/blob/main/2021/issue-17.md) 
 *  [第 16 期: 让你的网站养只可爱的宠物吧](https://github.com/ljinkai/weekly/blob/main/2021/issue-16.md) 
 *  [第 15 期: 独立开发者做小产品，要善用平台价值](https://github.com/ljinkai/weekly/blob/main/2021/issue-15.md) 
 *  [第 14 期: 获取前1000个用户的3个策略](https://github.com/ljinkai/weekly/blob/main/2021/issue-14.md) 
