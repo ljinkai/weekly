@@ -5,6 +5,10 @@
 
 ## 2021
 
+### 九月
+
+*  [第 18 期: 一个通过短信进行购物的网站平台](https://github.com/ljinkai/weekly/blob/main/2021/issue-18.md) 
+
 ### 八月
 
 *  [第 17 期: 为了活下去，如何获取前200个付费用户？](https://github.com/ljinkai/weekly/blob/main/2021/issue-17.md) 
