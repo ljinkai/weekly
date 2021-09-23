@@ -7,6 +7,7 @@
 
 ### 九月
 
+*  [第 21 期: 辞职后做了3个产品，终于不用回去上班了](https://github.com/ljinkai/weekly/blob/main/2021/issue-21.md) 
 *  [第 20 期: 和2个朋友做的产品以8位数美金的价格卖给了微软](https://github.com/ljinkai/weekly/blob/main/2021/issue-20.md) 
 *  [第 19 期: 基于Gmail的CRM浏览器插件，年收入1000万美金](https://github.com/ljinkai/weekly/blob/main/2021/issue-19.md) 
 *  [第 18 期: 一个通过短信进行购物的网站平台](https://github.com/ljinkai/weekly/blob/main/2021/issue-18.md) 
