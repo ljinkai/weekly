@@ -167,7 +167,7 @@ Github推出了GitHub Copilot，一个通过AI辅助编程的工具。安装VS C
 <center>
 以上内容会同步更新在：
 
-Indie Maker Start: [http://www.indiemakerstart.com/](http://www.indiemakerstart.com/)
+Indie Maker Start: [https://www.ezindie.com/](https://www.ezindie.com/)
 
 Github: [https://github.com/ljinkai/weekly](https://github.com/ljinkai/weekly)
 

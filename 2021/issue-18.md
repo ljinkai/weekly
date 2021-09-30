@@ -110,7 +110,7 @@ Color Thief是一个开源库，有JS端和Node端的模块可用。可以将图
 Github: [https://github.com/ljinkai/weekly](https://github.com/ljinkai/weekly)
 
 
-Indie Maker Start: [http://www.indiemakerstart.com/](http://www.indiemakerstart.com/)
+Indie Maker Start: [https://www.ezindie.com/](https://www.ezindie.com/)
 
 微信公众号：凯凯而谈
 

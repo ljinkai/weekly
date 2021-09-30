@@ -94,7 +94,7 @@ Chrome 团队前几天发布了一套新的学习 CSS 的教程，非常推荐 W
 <center>
 以上内容会同步更新在：
 
-Indie Maker Start: [http://www.indiemakerstart.com/](http://www.indiemakerstart.com/)
+Indie Maker Start: [https://www.ezindie.com/](https://www.ezindie.com/)
 
 Github: [https://github.com/ljinkai/weekly](https://github.com/ljinkai/weekly)
 

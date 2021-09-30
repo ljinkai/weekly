@@ -88,7 +88,7 @@ SVGator是一种简单的在线SVG动画工具，可以创建需要的SVG动画�
 Github: [https://github.com/ljinkai/weekly](https://github.com/ljinkai/weekly)
 
 
-Indie Maker Start: [http://www.indiemakerstart.com/](http://www.indiemakerstart.com/)
+Indie Maker Start: [https://www.ezindie.com/](https://www.ezindie.com/)
 
 微信公众号：凯凯而谈
 

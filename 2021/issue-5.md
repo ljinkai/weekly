@@ -81,7 +81,7 @@ signals是一个基于订阅的服务。每周提供一个角度的创业趋势�
 <center>
 以上内容会同步更新在：
 
-Indie Maker Start: [http://www.indiemakerstart.com/](http://www.indiemakerstart.com/)
+Indie Maker Start: [https://www.ezindie.com/](https://www.ezindie.com/)
 
 Github: [https://github.com/ljinkai/weekly](https://github.com/ljinkai/weekly)
 

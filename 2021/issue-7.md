@@ -83,7 +83,7 @@ Auto.js是一款自动化软件，根据脚本内容便可以自动地执行相�
 <center>
 以上内容会同步更新在：
 
-Indie Maker Start: [http://www.indiemakerstart.com/](http://www.indiemakerstart.com/)
+Indie Maker Start: [https://www.ezindie.com/](https://www.ezindie.com/)
 
 Github: [https://github.com/ljinkai/weekly](https://github.com/ljinkai/weekly)
 

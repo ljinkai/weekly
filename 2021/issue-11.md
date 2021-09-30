@@ -127,7 +127,7 @@ Typedream一个在线编辑生成产品介绍类的在线网站，一般的产�
 Github: [https://github.com/ljinkai/weekly](https://github.com/ljinkai/weekly)
 
 
-Indie Maker Start: [http://www.indiemakerstart.com/](http://www.indiemakerstart.com/)
+Indie Maker Start: [https://www.ezindie.com/](https://www.ezindie.com/)
 
 微信公众号：凯凯而谈
 

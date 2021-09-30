@@ -5,6 +5,10 @@
 
 ## 2021
 
+### 十月
+
+*  [第 22 期: 回复消息来辨别鞋子真假，年收入20万美金？](https://github.com/ljinkai/weekly/blob/main/2021/issue-22.md) 
+
 ### 九月
 
 *  [第 21 期: 辞职后做了3个产品，终于不用回去上班了](https://github.com/ljinkai/weekly/blob/main/2021/issue-21.md) 

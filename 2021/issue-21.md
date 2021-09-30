@@ -137,7 +137,7 @@ Landbot收购了印度的Morph.AI是一种基于聊天的营销自动化工具�
 Github: [https://github.com/ljinkai/weekly](https://github.com/ljinkai/weekly)
 
 
-Indie Maker Start: [http://www.indiemakerstart.com/](http://www.indiemakerstart.com/)
+Indie Maker Start: [https://www.ezindie.com/](https://www.ezindie.com/)
 
 微信公众号：凯凯而谈
 

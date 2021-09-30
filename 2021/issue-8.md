@@ -94,7 +94,7 @@ extensionpay是一个面向浏览器插件的产品，主要是可以集成Strip
 <center>
 以上内容会同步更新在：
 
-Indie Maker Start: [http://www.indiemakerstart.com/](http://www.indiemakerstart.com/)
+Indie Maker Start: [https://www.ezindie.com/](https://www.ezindie.com/)
 
 Github: [https://github.com/ljinkai/weekly](https://github.com/ljinkai/weekly)
 

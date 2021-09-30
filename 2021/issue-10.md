@@ -160,7 +160,7 @@ uTools在2018年发布，看作者介绍的开发经历，感慨太难了，至�
 Github: [https://github.com/ljinkai/weekly](https://github.com/ljinkai/weekly)
 
 
-Indie Maker Start: [http://www.indiemakerstart.com/](http://www.indiemakerstart.com/)
+Indie Maker Start: [https://www.ezindie.com/](https://www.ezindie.com/)
 
 微信公众号：凯凯而谈
 
