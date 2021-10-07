@@ -7,6 +7,7 @@
 
 ### 十月
 
+*  [第 23 期: ezindie.com小产品开发变现网站改版2.0](https://github.com/ljinkai/weekly/blob/main/2021/issue-23.md) 
 *  [第 22 期: 回复消息来辨别鞋子真假，年收入20万美金？](https://github.com/ljinkai/weekly/blob/main/2021/issue-22.md) 
 
 ### 九月
