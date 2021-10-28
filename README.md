@@ -7,6 +7,7 @@
 
 ### 十月
 
+*  [第 26 期: 短链浏览器插件，从1个想法到35万活跃用户](https://github.com/ljinkai/weekly/blob/main/2021/issue-26.md) 
 *  [第 25 期: 免费表单生成工具，月收入5千美金](https://github.com/ljinkai/weekly/blob/main/2021/issue-25.md) 
 *  [第 24 期: 2021全球范围内数字游民的用户画像是什么？](https://github.com/ljinkai/weekly/blob/main/2021/issue-24.md) 
 *  [第 23 期: ezindie.com小产品开发变现网站改版2.0](https://github.com/ljinkai/weekly/blob/main/2021/issue-23.md) 
