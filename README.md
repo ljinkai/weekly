@@ -5,6 +5,10 @@
 
 ## 2021
 
+### 十一月
+
+*  [第 27 期: 15年独立创业的宝贵经验，从0开始到1千万用户](https://github.com/ljinkai/weekly/blob/main/2021/issue-27.md) 
+
 ### 十月
 
 *  [第 26 期: 短链浏览器插件，从1个想法到35万活跃用户](https://github.com/ljinkai/weekly/blob/main/2021/issue-26.md) 
