@@ -7,6 +7,7 @@
 
 ### 十一月
 
+*  [第 28 期: 一个JavaScript组件做到了150万美金收入](https://github.com/ljinkai/weekly/blob/main/2021/issue-28.md) 
 *  [第 27 期: 15年独立创业的宝贵经验，从0开始到1千万用户](https://github.com/ljinkai/weekly/blob/main/2021/issue-27.md) 
 
 ### 十月
