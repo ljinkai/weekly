@@ -122,10 +122,9 @@ Maxence从Play Store和App Store上的评论中发现了这一点。越来越多
 
 Github: [https://github.com/ljinkai/weekly](https://github.com/ljinkai/weekly)
 
-Easy Indie: [https://www.ezindie.com/](https://www.ezindie.com/)
+往期内容合集: [https://www.ezindie.com/weekly](https://www.ezindie.com/weekly)
 
 微信公众号：凯凯而谈
-
 
 ![](http://qiniu.gafata.com/2019-03-17-web-bear.jpg?imageView2/2/w/200)
 

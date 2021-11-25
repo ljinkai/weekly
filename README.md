@@ -7,6 +7,7 @@
 
 ### 十一月
 
+*  [第 30 期: 免费漂亮的插画](https://github.com/ljinkai/weekly/blob/main/2021/issue-30.md) 
 *  [第 29 期: 只需3步，一张纸生成一个网站](https://github.com/ljinkai/weekly/blob/main/2021/issue-29.md) 
 *  [第 28 期: 一个JavaScript组件做到了150万美金收入](https://github.com/ljinkai/weekly/blob/main/2021/issue-28.md) 
 *  [第 27 期: 15年独立创业的宝贵经验，从0开始到1千万用户](https://github.com/ljinkai/weekly/blob/main/2021/issue-27.md) 
