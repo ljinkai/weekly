@@ -5,6 +5,10 @@
 
 ## 2021
 
+### 十二月
+
+*  [第 31 期: 如何通过复制别人成功的产品来实现月收入1万美金？](https://github.com/ljinkai/weekly/blob/main/2021/issue-31.md) 
+
 ### 十一月
 
 *  [第 30 期: 免费漂亮的插画](https://github.com/ljinkai/weekly/blob/main/2021/issue-30.md) 
