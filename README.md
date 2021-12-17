@@ -7,7 +7,7 @@
 
 ### 十二月
 
-
+*  [第 33 期: 2021年每周发布1个产品，同年达到月收入2.5万美元？ ](https://github.com/ljinkai/weekly/blob/main/2021/issue-33.md) 
 *  [第 32 期: 快速创建NFT的在线工具 ](https://github.com/ljinkai/weekly/blob/main/2021/issue-32.md) 
 *  [第 31 期: 如何通过复制别人成功的产品来实现月收入1万美金？](https://github.com/ljinkai/weekly/blob/main/2021/issue-31.md) 
 
