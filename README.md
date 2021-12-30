@@ -7,6 +7,8 @@
 
 ### 十二月
 
+
+*  [第 35 期: 独立开发变现周刊（第35期）：网页自动化工具，月收入2千美金 ](https://github.com/ljinkai/weekly/blob/main/2021/issue-35.md) 
 *  [第 34 期: 拒绝了4万美金的报价，60天后如何把产品做到月入2千美金 ](https://github.com/ljinkai/weekly/blob/main/2021/issue-34.md) 
 *  [第 33 期: 2021年每周发布1个产品，同年达到月收入2.5万美元？ ](https://github.com/ljinkai/weekly/blob/main/2021/issue-33.md) 
 *  [第 32 期: 快速创建NFT的在线工具 ](https://github.com/ljinkai/weekly/blob/main/2021/issue-32.md) 
