@@ -3,10 +3,15 @@
 
 欢迎投稿，推荐或自荐
 
+## 2022
+
+### 一月
+
+*  [第 36 期: 最好的播客搜索引擎，从副业到被投资经历了什么？ ](https://github.com/ljinkai/weekly/blob/main/2022/issue-36.md) 
+
 ## 2021
 
 ### 十二月
-
 
 *  [第 35 期: 网页自动化工具，月收入2千美金 ](https://github.com/ljinkai/weekly/blob/main/2021/issue-35.md) 
 *  [第 34 期: 拒绝了4万美金的报价，60天后如何把产品做到月入2千美金 ](https://github.com/ljinkai/weekly/blob/main/2021/issue-34.md) 
