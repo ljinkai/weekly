@@ -7,6 +7,7 @@
 
 ### 一月
 
+*  [第 38 期: 1个简单寻找高需求、低竞争产品的方法 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-38.md) 
 *  [第 37 期: 一个博客网站，2年后卖了1亿美金 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-37.md) 
 *  [第 36 期: 最好的播客搜索引擎，从副业到被投资经历了什么？ ](https://github.com/ljinkai/weekly/blob/main/2022/issue-36.md) 
 
