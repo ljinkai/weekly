@@ -5,6 +5,9 @@
 
 ## 2022
 
+### 二月
+*  [第 40 期: 如何将我的副业产品变成月收入2万美元？ ](https://github.com/ljinkai/weekly/blob/main/2022/issue-40.md) 
+
 ### 一月
 
 *  [第 39 期: 在线表情包生成器，月流览量1千2百万 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-39.md) 
