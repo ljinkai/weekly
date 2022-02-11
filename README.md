@@ -6,6 +6,8 @@
 ## 2022
 
 ### 二月
+
+*  [第 41 期: 一个开源项目一个人每月收入8万美金 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-41.md) 
 *  [第 40 期: 如何将我的副业产品变成月收入2万美元？ ](https://github.com/ljinkai/weekly/blob/main/2022/issue-40.md) 
 
 ### 一月
