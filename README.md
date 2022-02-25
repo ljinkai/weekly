@@ -7,6 +7,7 @@
 
 ### 二月
 
+*  [第 43 期: 业余项目成功的秘密 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-43.md) 
 *  [第 42 期: 将爱好变成一个能赚钱的副业产品 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-42.md) 
 *  [第 41 期: 一个开源项目一个人每月收入8万美金 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-41.md) 
 *  [第 40 期: 如何将我的副业产品变成月收入2万美元？ ](https://github.com/ljinkai/weekly/blob/main/2022/issue-40.md) 
