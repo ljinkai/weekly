@@ -5,6 +5,10 @@
 
 ## 2022
 
+### 三月
+
+*  [第 44 期: 12岁的小男孩在9个小时内NFT卖了40万美元! ](https://github.com/ljinkai/weekly/blob/main/2022/issue-44.md) 
+
 ### 二月
 
 *  [第 43 期: 业余项目成功的秘密 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-43.md) 
