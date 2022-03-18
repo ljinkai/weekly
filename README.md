@@ -7,6 +7,7 @@
 
 ### 三月
 
+*  [第 45 期: 通过“Chrome 即服务”每月赚取4000美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-46.md) 
 *  [第 45 期: 通过卖Notion模板，11个月在网上赚了6万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-45.md) 
 *  [第 44 期: 12岁的小男孩在9个小时内NFT卖了40万美元! ](https://github.com/ljinkai/weekly/blob/main/2022/issue-44.md) 
 
