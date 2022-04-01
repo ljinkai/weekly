@@ -7,6 +7,7 @@
 
 ### 三月
 
+*  [第 48 期: 疫情下的转变，将新产品做到月收入2.3万美金 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-48.md) 
 *  [第 47 期: Tailwind CSS 从副业产品到2百万美元的故事 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-47.md) 
 *  [第 46 期: 通过“Chrome 即服务”每月赚取4000美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-46.md) 
 *  [第 45 期: 通过卖Notion模板，11个月在网上赚了6万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-45.md) 
