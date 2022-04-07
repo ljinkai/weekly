@@ -5,6 +5,10 @@
 
 ## 2022
 
+### 四月
+
+*  [第 49 期: 如何在18个月内做7个小产品？ ](https://github.com/ljinkai/weekly/blob/main/2022/issue-49.md) 
+
 ### 三月
 
 *  [第 48 期: 疫情下的转变，将新产品做到月收入2.3万美金 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-48.md) 
