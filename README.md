@@ -7,6 +7,7 @@
 
 ### 四月
 
+*  [第 51 期: 辞去普通程序员工作，独立开发产品年收入20万美金 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-51.md) 
 *  [第 50 期: 写在周刊第50期，各自努力，顶峰相见 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-50.md) 
 *  [第 49 期: 如何在18个月内做7个小产品？ ](https://github.com/ljinkai/weekly/blob/main/2022/issue-49.md) 
 
