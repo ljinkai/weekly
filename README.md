@@ -5,6 +5,10 @@
 
 ## 2022
 
+### 五月
+
+*  [第 53 期: “失败的推文”促使我开发了一个年收入49万美元的增长工具 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-53.md) 
+
 ### 四月
 
 *  [第 52 期: 在Shopify上开发一个月收入2万美元的APP ](https://github.com/ljinkai/weekly/blob/main/2022/issue-52.md) 
