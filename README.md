@@ -7,6 +7,7 @@
 
 ### 五月
 
+*  [第 55 期: 构建Ruby on Rails课程平台月收入6万美金 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-54.md) 
 *  [第 54 期: 开始的失败没关系，新想法SaaS产品月收入5.5万美金 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-54.md) 
 *  [第 53 期: “失败的推文”促使我开发了一个年收入49万美元的增长工具 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-53.md) 
 
