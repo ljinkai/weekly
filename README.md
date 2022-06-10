@@ -7,7 +7,7 @@
 
 ### 六月
 
-
+*  [第 58 期: 预售CSS课程，卖出55万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-58.md) 
 *  [第 57 期: 开发一个免费照片编辑器，一个人每月收入10万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-57.md) 
 
 ### 五月
