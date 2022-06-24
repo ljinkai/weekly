@@ -7,6 +7,7 @@
 
 ### 六月
 
+*  [第 60 期: 如何在30多个国家建立150万美元的年收入产品 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-60.md) 
 *  [第 59 期: 习惯追踪应用Habitify的故事，6个月从0到每月收入2.1万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-59.md) 
 *  [第 58 期: 预售CSS课程，卖出55万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-58.md) 
 *  [第 57 期: 开发一个免费照片编辑器，一个人每月收入10万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-57.md) 
