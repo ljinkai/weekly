@@ -5,6 +5,10 @@
 
 ## 2022
 
+### 七月
+
+*  [第 61 期: 如何构建一个100万美元年收入开源SaaS？ ](https://github.com/ljinkai/weekly/blob/main/2022/issue-61.md) 
+
 ### 六月
 
 *  [第 60 期: 如何在30多个国家建立150万美元的年收入产品 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-60.md) 
