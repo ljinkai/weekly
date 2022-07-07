@@ -7,6 +7,7 @@
 
 ### 七月
 
+*  [第 62 期: 我是如何开发一个年收入30万美金的Vue.js开源组件库的？ ](https://github.com/ljinkai/weekly/blob/main/2022/issue-62.md) 
 *  [第 61 期: 如何构建一个100万美元年收入开源SaaS？ ](https://github.com/ljinkai/weekly/blob/main/2022/issue-61.md) 
 
 ### 六月
@@ -17,7 +18,6 @@
 *  [第 57 期: 开发一个免费照片编辑器，一个人每月收入10万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-57.md) 
 
 ### 五月
-
 
 *  [第 56 期: 一个基于Notion的项目管理小产品 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-56.md) 
 *  [第 55 期: 构建Ruby on Rails课程平台月收入6万美金 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-55.md) 
