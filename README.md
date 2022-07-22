@@ -7,6 +7,7 @@
 
 ### 七月
 
+*  [第 64 期: 一套图标，6天6位数收入 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-64.md) 
 *  [第 63 期: 一个爬虫类产品，4个月做到月收入3000美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-63.md) 
 *  [第 62 期: 我是如何开发一个年收入30万美金的Vue.js开源组件库的？ ](https://github.com/ljinkai/weekly/blob/main/2022/issue-62.md) 
 *  [第 61 期: 如何构建一个100万美元年收入开源SaaS？ ](https://github.com/ljinkai/weekly/blob/main/2022/issue-61.md) 
