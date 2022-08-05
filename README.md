@@ -5,6 +5,10 @@
 
 ## 2022
 
+### 八月
+
+*  [第 66 期: 如何把一个短链接生成工具变成一个可持续盈利的产品？ ](https://github.com/ljinkai/weekly/blob/main/2022/issue-66.md) 
+
 ### 七月
 
 *  [第 65 期: 个人爱好发展成一项36万美元/年的NFTs业务 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-65.md) 
