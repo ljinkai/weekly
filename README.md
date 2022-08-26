@@ -7,6 +7,7 @@
 
 ### 八月
 
+*  [第 69 期: 语音转录浏览器扩展插件，一年获取20倍增长 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-69.md) 
 *  [第 68 期: 建立了一个Reddit搜索工具，第一年就赚了6万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-68.md) 
 *  [第 67 期: 如何建立了一个年收入42万美元的业务，将播客转化为文章 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-67.md) 
 *  [第 66 期: 如何把一个短链接生成工具变成一个可持续盈利的产品？ ](https://github.com/ljinkai/weekly/blob/main/2022/issue-66.md) 
