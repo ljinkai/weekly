@@ -5,6 +5,10 @@
 
 ## 2022
 
+### 九月
+
+*  [第 70 期: 一年内将NotionForm的月收入从0到1万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-70.md) 
+
 ### 八月
 
 *  [第 69 期: 语音转录浏览器扩展插件，一年获取20倍增长 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-69.md) 
