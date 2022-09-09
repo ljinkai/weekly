@@ -7,6 +7,7 @@
 
 ### 九月
 
+*  [第 71 期: 全力投入副业项目中，网络小工具获得了250万用户](https://github.com/ljinkai/weekly/blob/main/2022/issue-71.md) 
 *  [第 70 期: 一年内将NotionForm的月收入从0到1万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-70.md) 
 
 ### 八月
