@@ -7,6 +7,7 @@
 
 ### 九月
 
+*  [第 74 期: 我的业余项目在3个月内月收入2500美元](https://github.com/ljinkai/weekly/blob/main/2022/issue-74.md) 
 *  [第 73 期: 0美元营销预算创建年收入7.2万美元的产品交易市场](https://github.com/ljinkai/weekly/blob/main/2022/issue-73.md) 
 *  [第 72 期: 在Reddit上验证想法，建立年收入18万美元的自动化求职平台](https://github.com/ljinkai/weekly/blob/main/2022/issue-72.md) 
 *  [第 71 期: 全力投入副业项目中，网络小工具获得了250万用户](https://github.com/ljinkai/weekly/blob/main/2022/issue-71.md) 
