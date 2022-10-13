@@ -5,6 +5,10 @@
 
 ## 2022
 
+### 十月
+
+*  [第 75 期: 我的SaaS模板代码库每月赚4千美元](https://github.com/ljinkai/weekly/blob/main/2022/issue-75.md) 
+
 ### 九月
 
 *  [第 74 期: 我的业余项目在3个月内月收入2500美元](https://github.com/ljinkai/weekly/blob/main/2022/issue-74.md) 
