@@ -149,10 +149,7 @@
 
 微信公众号：凯凯而谈
 
-
 ![](http://qiniu.gafata.com/2019-03-17-web-bear.jpg?imageView2/2/w/200)
-
-扫码订阅
 </center>
 
 订阅Telegram频道：https://t.me/ezindie
