@@ -140,6 +140,9 @@
 *  [第 1 期: Notion也能做博客？](https://github.com/ljinkai/weekly/blob/main/2021/issue-1.md) 
 
 ---
+
+
+
 <center>
 以上内容会同步更新在：
 
@@ -151,3 +154,7 @@
 
 扫码订阅
 </center>
+
+订阅Telegram频道：https://t.me/ezindie
+
+B站频道：https://space.bilibili.com/395127673
