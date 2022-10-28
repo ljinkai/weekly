@@ -7,6 +7,7 @@
 
 ### 十月
 
+*  [第 77 期: 文章转短视频工具短短5个月内达到月收入6000美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-77.md) 
 *  [第 76 期: 一款两性关系治愈类iPhone应用是如何盈利的？](https://github.com/ljinkai/weekly/blob/main/2022/issue-76.md) 
 *  [第 75 期: 我的SaaS模板代码库每月赚4千美元](https://github.com/ljinkai/weekly/blob/main/2022/issue-75.md) 
 
