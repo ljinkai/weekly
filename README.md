@@ -5,6 +5,10 @@
 
 ## 2022
 
+### 十一月
+
+*  [第 78 期: 建立一个佣金网站，每月赚4万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-78.md) 
+
 ### 十月
 
 *  [第 77 期: 文章转短视频工具短短5个月内达到月收入6000美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-77.md) 
