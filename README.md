@@ -7,6 +7,7 @@
 
 ### 十一月
 
+*  [第 79 期: 一个产品页面流灵感网站，每月4.5K美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-79.md) 
 *  [第 78 期: 建立一个佣金网站，每月赚4万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-78.md) 
 
 ### 十月
