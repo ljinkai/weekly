@@ -5,6 +5,10 @@
 
 ## 2022
 
+### 十二月
+
+*  [第 82 期: 开发一个在线PDF编辑器，年收入50万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-82.md) 
+
 ### 十一月
 
 *  [第 81 期: 开发一个应用来减少屏幕使用时间，月收入2万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-81.md) 
