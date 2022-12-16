@@ -7,6 +7,7 @@
 
 ### 十二月
 
+*  [第 84 期: 一个地理位置API服务，月收入1.5万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-84.md)
 *  [第 83 期: 建在Stripe上的应用，年收入70万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-83.md) 
 *  [第 82 期: 开发一个在线PDF编辑器，年收入50万美元 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-82.md) 
 
