@@ -18,7 +18,7 @@
 
 ⛅️ 什么是云协同工作空间?这是一个为远程工作而设计的协作工具:部分是云浏览器，部分是会议室，部分是视频通话。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1xrgn9of6j21ei0r078s.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1xrgn9of6j21ei0r078s.jpg)
 
 👆每个人都应该有自己的声音(和光标)。
 其他的“协作”平台要求我们成为主机或参与者。我们可以看到和听到对方，但很难真正一起做事。
@@ -30,7 +30,7 @@
 
 无论你使用的是concept还是Coda, Trello还是Monday, Figma还是Canva，所有的应用程序都可以在Switchboard上运行。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1xrgphz22j20yq0ku782.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1xrgphz22j20yq0ku782.jpg)
 
 [Switchboard官网](https://www.switchboard.app/)
 
@@ -38,7 +38,7 @@
 
 Web Visual Bookmark是一款可以将任意网页变成可视化的网页书签的在线工具，有浏览器插件可以配合使用，生成类似 Twitter Card 或者 Notion 的 Web Bookmark ，用于拷贝带有二维码的图片分享给他人，或者嵌入博文、推文，可以调整背景色、渐变角度、圆角等，也支持Chrome Extension（chrome扩展）。有开源代码可以参考。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1xrgpa7bmj21fj0u0430.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1xrgpa7bmj21fj0u0430.jpg)
 
 [bookmark开源代码](https://github.com/one-tab-group/bookmark.style)
 
@@ -51,13 +51,13 @@ Web Visual Bookmark是一款可以将任意网页变成可视化的网页书签�
 
 这个应用花了1天的时间来制作——有时从你的“常规”项目中休息一下，即兴创作一些东西是很好的。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1xrgozwvej21hc0u0dlg.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1xrgozwvej21hc0u0dlg.jpg)
 
 [产品介绍视频](https://www.youtube.com/watch?v=-e62Jo7HXag)
 
 ## 4、“失败的推文”促使我开发了一个年收入49万美元的增长工具
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1xrgor2r1j218g0tm0y4.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1xrgor2r1j218g0tm0y4.jpg)
 
 嘿!我叫Tom，是个32岁的法国人。
 
@@ -101,7 +101,7 @@ Web Visual Bookmark是一款可以将任意网页变成可视化的网页书签�
 
 而这个特别的例子发展得很快。几天之内，我们就有了10个客户，然后是50个，然后是100个。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1xrgobtk8j20xc0hiq5c.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1xrgobtk8j20xc0hiq5c.jpg)
 
 **描述下启动业务的过程**
 Tweet Hunter有两个发布阶段。
@@ -110,7 +110,7 @@ Tweet Hunter有两个发布阶段。
 
 我们的登陆页面是这样的。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1xrgo7m47j218g0oon05.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1xrgo7m47j218g0oon05.jpg)
 
 人们甚至不能注册，他们必须请求访问。但我认为这是一个很好的营销策略。我知道我更愿意“获得”一些东西，而不是“注册”它。从Reddit上的一个帖子，我们就收到了大约300个访问请求。
 
@@ -122,7 +122,7 @@ Tweet Hunter有两个发布阶段。
 
 他精心策划了一场面向观众的发布会。在30天内，我们的MRR从3500美元涨到了15000美元。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1xrgo2zsoj20w80i0q5g.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1xrgo2zsoj20w80i0q5g.jpg)
 
 **自推出以来，哪些措施有效地吸引了客户?**
 
@@ -130,7 +130,7 @@ Tweet Hunter有两个发布阶段。
 
 我们推出了免费的副产品。这是一种非常有趣的营销方式。我们创造了免费的产品，这些产品与Tweet Hunter帮助解决的问题有关。例如，我们推出了一个工具，可以取消你转发过的所有内容。另一个是告诉你一天中最好的发推特时间。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1xrgntndgj20ro0l4dhb.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1xrgntndgj20ro0l4dhb.jpg)
 
 我们在Product Hunt上发布了其中一些免费小工具，其中一些今天仍然带来了流量。
 
@@ -148,7 +148,7 @@ Tweet Hunter有两个发布阶段。
 
 我们从一个推特数据库变成了一个功能齐全、功能齐全的推特增长工具。我们添加了AI编写、日程安排、自动化、与他人互动、分析等功能。所有这些都让我们的产品物有所值，现在我们有超过1200个付费客户。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1xrgnmnqzj20w20hk75l.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1xrgnmnqzj20w20hk75l.jpg)
 
 **未来会怎样?**
 我们做的很好!我们现在有一个非常有利可图的SaaS业务，ARR接近60万美元，今年的目标也很高。我们的目标是年收入达到100万美元。
@@ -175,7 +175,7 @@ Tweet Hunter有两个发布阶段。
 
 **对其他想要创业或刚刚起步的开发者有什么建议?**
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1xrgnif55j20r00uf77s.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1xrgnif55j20r00uf77s.jpg)
 
 我第一次创业失败的原因是:我对目标用户一无所知。
 

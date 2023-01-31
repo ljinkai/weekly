@@ -14,9 +14,9 @@ Microverse World Builder是一个开放元宇宙的开发环境，允许web和we
 
 平台包括示例世界、一个灵活的化身系统、与大多数3D对象的兼容性以及与外部数据系统的连接器。此外，JavaScript开发人员可以在世界内扩展功能，以创建与其他封闭平台不可能实现的交互。Microverse World Builder 已经开源，期待着合作构建一个支持开放元宇宙的生态系统。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7z55lzxr3j31c00u0gu0.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7z55lzxr3j31c00u0gu0.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7z55pkillj31e60u0agf.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7z55pkillj31e60u0agf.jpg)
 
 [Microverse World Builder 官网](https://croquet.io/index.html)
 
@@ -26,7 +26,7 @@ Pake使用Rust写的一个开源项目，底层使用 Tauri，支持微信读书
 
 Pake 比较特别的是，相比传统的 Electron 套壳打包，大小要小将近 40 倍，一般 2M 左右，此外由于底层使用的，Rust Tauri 框架，性能体验较 JS 框架要轻快不少，内存小很多；此外实现了通用快捷键的透传、容器通信、样式改写注入、沉浸式的窗口、拖动、简化使用流程优化等功能，有一点点可玩性，你可以 Fork 自己打包喜欢的。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7z55p59dsj314p0u0jyw.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7z55p59dsj314p0u0jyw.jpg)
 
 [Pake开源项目地址](https://github.com/tw93/Pake)
 
@@ -38,25 +38,25 @@ Crisp Widget是一个完全的重新设计，是新一代的网站小部件，�
 
 支持文本、Gif&视频预览、用户评分、交互式问答、文件分享、在线视频通话等功能。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7z55ov96uj31pc0s4grf.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7z55ov96uj31pc0s4grf.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7z55op9dkj31vy0nojx6.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7z55op9dkj31vy0nojx6.jpg)
 
 [Crisp官网](https://crisp.chat/en/)
 
 ## 4、一个产品页面流灵感网站，每月4.5K美元
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7z55ojof8j30b40b40ta.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7z55ojof8j30b40b40ta.jpg)
 
 我是Ramy Khuffash，我经营着一家名为Page Flows的小公司，这是一个为在线产品设计者提供灵感视频的仓库。客户为访问付费。我经营这个生意已经有几年了，每个月的收入大约是4500美元。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7z55ofzqbj30nm0f440k.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7z55ofzqbj30nm0f440k.jpg)
 
 ### 你是怎么想到这个想法的?
 
 我在大学里学的是会计和信息系统，但当我毕业的时候，我意识到我不想成为一名会计或在信息系统工作。几年来，我做过各种各样的工作，尝试使用WordPress，并与人合伙创建了一家失败的消费者初创公司，之后我开始了自己的网页开发之路。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7z55nzwo5j31x20u0n3r.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7z55nzwo5j31x20u0n3r.jpg)
 
 在我的整个职业生涯中，我建立了一些业余项目来提高我的技能，并朝着开创自己的事业前进。其中一个项目是名为UI Movement的通讯，这是一个设计灵感通讯。这是我迄今为止最成功的业余项目，在Product Hunt上发布后迅速获得了数千名订阅者。
 
@@ -64,7 +64,7 @@ Crisp Widget是一个完全的重新设计，是新一代的网站小部件，�
 
 大约一年之后，我准备开始做一些新的事情。我想创造一种可以直接向顾客收费的产品或服务。我与一些UI Movement的订阅用户建立了电话联系，以了解他们注册的原因，他们从通讯中获得了什么价值，以及我是否能够创造出他们愿意为之付费的内容。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7z55ncnyhj30nm0cl74y.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7z55ncnyhj30nm0cl74y.jpg)
 
 谢天谢地，从中还是得出了一些有用的见解。不断出现的一个主题是，人们喜欢渴望的UI设计灵感，但更直观的设计灵感会更有帮助。
 
@@ -78,7 +78,7 @@ Crisp Widget是一个完全的重新设计，是新一代的网站小部件，�
 
 我的录制和添加视频的过程没有改变，除了一些小的调整。我短暂地将视频录制和注释外包了出去，但很快就发现，如果没有良好的流程记录，这是行不通的。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7z55n98a3j30nm0dzwgs.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7z55n98a3j30nm0dzwgs.jpg)
 
 我使用Stripe处理支付，并设定了每月14美元的价格。
 
@@ -92,7 +92,7 @@ Crisp Widget是一个完全的重新设计，是新一代的网站小部件，�
 
 几周后，当只有一个付费客户时，我决定是时候离开了。我退款给客户，并使所有的用户流程视频免费供任何人访问。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7z55n08gmj31sq0u0gug.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7z55n08gmj31sq0u0gug.jpg)
 
 大约一年后，我注意到谷歌Analytics的视频获得了相当大的流量。没什么特别的，但足以表明人们对此感兴趣。我想试试我的运气，重新引入付费。这一次，我将收取少量一次性费用，而不是每月订阅。我用一个伪造的支付表单快速创建了一个登陆页面，然后等着看人们是否会尝试付费。令我惊讶的是，有几个人这样做了。这就是我所需要的证明。
 
@@ -104,7 +104,7 @@ UI Movement 从一开始就是流量的关键驱动因素。对于如此相似�
 
 多次发布也很有帮助。Product Hunt推出了各种迭代版本的Page Flows，每一次都带来了良好的流量提升，并在设计社区和博客中被更多提及。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7z55mo412j30nm0ez0ur.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7z55mo412j30nm0ez0ur.jpg)
 
 除此之外，SEO也逐渐变得更加重要。人们通过搜索非常特定的来发现Page Flows，但更知名的品牌(特别是设计良好的品牌)往往会带来更多的流量。例如Slack, Dropbox, Spotify等。所有这些长尾关键字搜索加在一起。一开始我并没有过多地考虑SEO，但现在我在决定下一步，会先研究哪些产品可能会带来流量。
 
@@ -112,7 +112,7 @@ UI Movement 从一开始就是流量的关键驱动因素。对于如此相似�
 
 增长缓慢而稳定，这可能会让人失去动力，但我总体上对事情的进展感到满意，因为我没有预料到公司能走这么远。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7z55mknedj30nm08a74u.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7z55mknedj30nm08a74u.jpg)
 
 Page Flows多数月的收益介于4000美元至5500美元之间，利润率相当可观。我未来的主要关注点是继续向库中添加视频。这既能确保现有客户满意，又能通过SEO带来新客户。
 
@@ -124,13 +124,13 @@ Page Flows多数月的收益介于4000美元至5500美元之间，利润率相�
 
 在定价模式方面，我还了解到一次性定价比订阅定价更容易销售。相比每月5美元的产品，人们更愿意在29美元的产品上冒险。即使你想建立一个长期的订阅业务，从一次性的价格开始是更容易的。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7z55mg4czj314h0u0n0k.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7z55mg4czj314h0u0n0k.jpg)
 
 ### 对其他刚刚起步的创业者有什么建议?
 
 我最近最大的认识是，仔细考虑应该遵循哪些建议是很重要的。我们都有不同的目标，所以只关注与你的目标一致的建议是很重要的。举个例子，如果你想建立一个生活方式的公司，遵循风投支持的创业公司创始人的建议可能会让你误入歧途。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7z55m82tyj31f20u0jy3.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7z55m82tyj31f20u0jy3.jpg)
 
 话虽如此，我始终需要提醒自己的建议是，从小处着手，快速完成。但是我们中太多的人犯了一个错误，花了几个月的时间在一个产品上，然后才把它呈现在用户面前。
 

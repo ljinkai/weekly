@@ -14,11 +14,11 @@
 
 这是一位微信上向我投稿同学的产品。“小舒同学”是一个浏览器扩展，通过新标签页来整理我们的收藏夹。这个产品从网站到创意上，在一个很细分的领域做到了足够好，这样用心做的产品，我非常愿意推荐给大家。对于那些收藏夹内容很多的人来说，一个赏心悦目的整理工具，是能大大提高效率的，“小舒同学”也很耐看，我放几张图，大家就一目了然。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1hobgi4ylj21se0p0q6l.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1hobgi4ylj21se0p0q6l.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1hobir20jj21gk0nqtd6.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1hobir20jj21gk0nqtd6.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1hobifzhkj21hc0p2go4.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1hobifzhkj21hc0p2go4.jpg)
 
 [小舒同学应用官网](https://xiaoshu.app/)
 
@@ -26,7 +26,7 @@
 
 是一个免费的平面设计编辑器，可以帮助用于社交媒体的图片、视频，有很多在线的模板可以选择，可以免费在线制作并下载到本地。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1hobic49pj21rw0u0wk6.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1hobic49pj21rw0u0wk6.jpg)
 
 [Vistacreate 官网](https://create.vista.com/)
 
@@ -36,7 +36,7 @@
 
 这个插件获得了Chrome网络商店的推荐，并在一周内获得了1.2万名活跃用户。这是一次巨大的验证，极大地帮助消除漏洞并制作出最终产品。现在有30万活跃用户。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1hobi1n65j20hs0b4ab6.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1hobi1n65j20hs0b4ab6.jpg)
 
 [WhatRuns官网](https://www.whatruns.com/)
 
@@ -44,17 +44,17 @@
 
 PixelSnap是一款macOS应用程序，设计师和网页开发者只需点击和拖动光标，就可以轻松地测量屏幕上的任何东西。只需在周围的区域拖动，便会立即自动地找到任何物体的边界，新版本还包括屏幕截图功能。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1hobhvvm6j219m0puwgj.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1hobhvvm6j219m0puwgj.jpg)
 
 [PixelSnap官网](https://getpixelsnap.com/)
 
 ## 5、传统软件行业辞职，做独立开发产品年收入20万美金
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1hobhqjpej20b40b4aal.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1hobhqjpej20b40b4aal.jpg)
 
 Hi，大家好，我是Damon, Testimonial的创作者。这条推特可以知道我是谁。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1hobhl7xuj20sk0t00v7.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1hobhl7xuj20sk0t00v7.jpg)
 
 我在思科做了八年软件工程师!
 我的许多同事去FANG的时候都有更高的待遇;我没有!
@@ -76,20 +76,20 @@ Hi，大家好，我是Damon, Testimonial的创作者。这条推特可以知道
 
 在2020年开发了5个应用，写了一个关于它们的帖子👇
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1hobhgf8oj20q20wadk3.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1hobhgf8oj20q20wadk3.jpg)
 
 永不停止，持续构建!
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1hobhbjzxj20p00fvq64.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1hobhbjzxj20p00fvq64.jpg)
 
 现在，我主要专注于创建Testimonial，一个收集视频形式评价的应用。目前它的月收入为2258美元，有81名活跃用户。四个月前，它还是0美元。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1hobh6xdjj212g0d6jsh.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1hobh6xdjj212g0d6jsh.jpg)
 
 **探索新技术**
 在过去的一年里，我自学了网页开发。我学习了React, Node, REST API, Webhook, Firebase, Stripe等。而在我的工作经历中，我没有办法在一年内探索这些优秀的技术。我只专业了我的Linux内核，操作系统，C, c++，这些我花了8年。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1hobh2voej21900u00vz.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1hobh2voej21900u00vz.jpg)
 
 **身兼数职**
 我开始提升自己的非技术技能，比如市场营销、销售和客户支持。作为一名前思科员工，我从来没有机会直接与思科的客户交谈。我不知道他们是否有任何反馈。我只拿到了支持单和bug报告。现在我每天都和我的顾客交谈。知道他们真正需要什么，这是一种巨大的满足感。
@@ -104,7 +104,7 @@ Hi，大家好，我是Damon, Testimonial的创作者。这条推特可以知道
 
 到2022年4月份，Testimonial的年收入已经达到20万美金。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1hobgpw77j20u00yxjug.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1hobgpw77j20u00yxjug.jpg)
 
 这就是我的故事，现在又开始准备下一个产品的旅程！
 

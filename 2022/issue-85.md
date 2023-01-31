@@ -13,7 +13,7 @@
 
 你可以在画布上放置文本、笔记、图像、pdf文件，甚至交互式网站，在这个无限的空间里展现你的想法。你的Canvas文件使用开源JSON文件格式存储在本地。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h9bnrnqbb5j316v0u07bg.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h9bnrnqbb5j316v0u07bg.jpg)
 
 [Obsidian Canvas官网](https://obsidian.md/canvas)
 
@@ -31,7 +31,7 @@
 - Bark App,
 - WebSocket 客户端
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h9bnrpmcpfj31hc0rj78t.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h9bnrpmcpfj31hc0rj78t.jpg)
 
 [message-pusher开源代码地址](https://github.com/songquanpeng/message-pusher)
 
@@ -43,7 +43,7 @@
 
 你将获得一个从0到100的配置分数，以快速查看配置文件相对于客观最佳实践的好/坏程度(100是最好的)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h9bnrpiec4j31sg0u0tfa.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h9bnrpiec4j31sg0u0tfa.jpg)
 
 [Careerflow LinkedIn官网](https://www.careerflow.ai/linkedin-review)
 
@@ -51,23 +51,23 @@
 
 是一款开源免费且开箱即用的中后台管理系统模版。Vue3+Vite4+Element-Plus+TypeScript编写的（兼容移动端）。实际项目开发提供精简版，有 非国际化 、国际化 两个版本选择
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h9bnrp91tej31hc0u0118.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h9bnrp91tej31hc0u0118.jpg)
 
 [Vue Pure Admin开源代码地址](https://github.com/xiaoxian521/vue-pure-admin)
 
 ## 5、一个提供会员服务的SaaS，月收入2万美金
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h9bnrox091j30b40b4jru.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h9bnrox091j30b40b4jru.jpg)
 
 大家好! 我是Mitch Colleran，Join It的开发者 —— 一个帮助销售和跟踪会员服务的SaaS平台。
 
 在2016年底，我创办了Join It。至2019年3月，它每月赚2万美元，而且还在增长!
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h9bnror1nyj31qk0u00z3.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h9bnror1nyj31qk0u00z3.jpg)
 
 在2021年的时候，已经获得了100万美金的种子轮投资。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h9bnrojf1bj30u00v0gor.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h9bnrojf1bj30u00v0gor.jpg)
 
 ### 你是怎么想到这个想法的?
 
@@ -77,7 +77,7 @@
 
 最初，我尝试与几个现有的会员平台建立联系，因为这是我的主要目标。但在遭到所有人的拒绝后，我决定自己创建Join It。最终在MVP完成和发布之前离开Eventbrite。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h9bnroeib1j30nm0ckq40.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h9bnroeib1j30nm0ckq40.jpg)
 
 ### 带我们了解下构建产品的过程吧
 
@@ -91,7 +91,7 @@
 
 我认为只有当你推出产品，将产品展示在客户面前，并开始获得反馈时，才是你真正了解产品的时候，其他一切都只是猜测。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h9bnro9se2j30vv0mcdi3.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h9bnro9se2j30vv0mcdi3.jpg)
 
 事后看来，我推出MVP是正确的，因为我对最初许多功能的判断是错误的。要想弄清楚这一点，最快的方法就是把产品摆在顾客面前。
 
@@ -124,7 +124,7 @@
 
 我们的价格相对较低(我们最受欢迎的计划是29美元/月)，在这个价格点上，大多数SaaS公司不会直接通过电话/聊天与客户进行交流，因为在这个客户价值上没有利润。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h9bnro4kxsj31r80u0wlz.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h9bnro4kxsj31r80u0wlz.jpg)
 
 到目前为止，我们的收购是相对平均地分布在多个渠道:谷歌广告、自然搜索和口碑营销。
 
@@ -134,7 +134,7 @@
 
 我的目标是建立一个可持续发展的公司，我玩得很开心，感觉我们才刚刚开始。：）
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h9bnrnyev6j30m80b4di0.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h9bnrnyev6j30m80b4di0.jpg)
 
 说到SaaS，产品开发和收入的复合效应是令人难以置信的。
 

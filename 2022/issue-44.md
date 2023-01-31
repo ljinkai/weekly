@@ -12,9 +12,9 @@
 
 这个开源项目通过机器训练的模型，可以将人像生成卡通漫画风格。使用是python、tensorflow等。与夸张的日漫风不同，这种卡通风格更偏写实，要求既有卡通画的简洁Q萌，又有明确的身份信息。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzy0xspp64j216o074gnm.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzy0xspp64j216o074gnm.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzy0xv7tvdj21840jqq6g.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzy0xv7tvdj21840jqq6g.jpg)
 
 [开源代码地址](https://github.com/minivision-ai/photo2cartoon)
 
@@ -36,7 +36,7 @@ Rize是个时间追踪器，能让你更有效率。它能帮助你更好地控�
 
 ✅ 我的会议什么时候会占用我的注意力?
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzy0xv0cmtj20zk0m8q61.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzy0xv0cmtj20zk0m8q61.jpg)
 
 [Rize官网](https://rize.io/)
 
@@ -52,7 +52,7 @@ Rize是个时间追踪器，能让你更有效率。它能帮助你更好地控�
 
 你甚至可以设置不同的显示尺寸，以适应不同的社交媒体平台。一旦你润色了你的录音，就可以通过一个链接直接在线分享它们。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzy0xutjb0j21ii0qsaco.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzy0xutjb0j21ii0qsaco.jpg)
 
 [Typestudio官网](https://typestudio.co/)
 
@@ -60,7 +60,7 @@ Rize是个时间追踪器，能让你更有效率。它能帮助你更好地控�
 
 本雅明·艾哈迈德是一个12岁的小孩
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzy0xumoahj20b40b4t9b.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzy0xumoahj20b40b4t9b.jpg)
 
 这位生活在伦敦的男孩，在2021年他创作并出售三千多个NFT，9个小时内售出，赚了40万美元。
 
@@ -68,29 +68,29 @@ Rize是个时间追踪器，能让你更有效率。它能帮助你更好地控�
 
 艾哈迈德对这项技术感到兴奋，并决定创建一个自己的NFT。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzy0xui13rj21rj0u0q77.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzy0xui13rj21rj0u0q77.jpg)
 
 艾哈迈德的第一个NFT系列是在2021年夏初发布的，包括40个名为《Minecraft Yee Haa》的彩色像素化角色，他自己创作了这些艺术品，并为每一件作品编写了代码。
 
 这个系列没有马上卖出去，艾哈迈德认为这个项目更多的是一个学习经验，而不是“赚钱”，他想继续创造。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzy0xu1q87j21r00u00zn.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzy0xu1q87j21r00u00zn.jpg)
 
 2021年6月，他开始编写第二个NFT系列《Weird whale》，其中包含了3350头像素鲸鱼，每头鲸鱼都有不同的特征。使用鲸鱼的图像，具有类似于标志性的像素化加密朋克的特征。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzy0xtgra3j21n90u0n2o.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzy0xtgra3j21n90u0n2o.jpg)
 
 艾哈迈德说，他从在线视频教程和Discord社区遇到的人们那里学会了如何编写。
 
 7月份，NFT推出后，整个系列在9小时内售罄，艾哈迈德在一天内收获了80个ETH。由于他将利润保存在以太中，按现在的价格计算，他的总收入将超过40万美元。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzy0xt844yj20tq0ug0wi.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzy0xt844yj20tq0ug0wi.jpg)
 
 艾哈迈德说:“我打算保留我所有的以太币，而不是将其兑换成法定货币。”
 
 艾哈迈德能取得这样的成绩，跟他老爸从很小就培养孩子编程有很大关系，艾哈迈德的爸爸在伦敦股票交易所做软件开发，从他 5 岁、他哥哥 6 岁开始，就教他们编程。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzy0xsygrhj20hi09uwf2.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzy0xsygrhj20hi09uwf2.jpg)
 
 当被问及他得到了什么帮助时，他解释道:“我看了很多开放源代码，和开发者一起加入了Discord频道，还让我父亲帮我解决了一些困难的问题。”
 

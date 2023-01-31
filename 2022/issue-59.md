@@ -14,15 +14,15 @@ Data Fetcher的无代码集成让能轻松导入谷歌Analytics数据，Webflow 
 
 目前此产品已经达到了年收入10万美金
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3afilygx4j20gw0coaam.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3afilygx4j20gw0coaam.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3afio7535j20os0ds3z8.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3afio7535j20os0ds3z8.jpg)
 
 [Datafetcher官网](https://datafetcher.com/)
 
 ## 2、Web3开发工具图谱，建议收藏
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3afio15cej21350u00wv.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3afio15cej21350u00wv.jpg)
 
 ## 3、Things: 开发一些有意思的数字玩具
 
@@ -30,9 +30,9 @@ Data Fetcher的无代码集成让能轻松导入谷歌Analytics数据，Webflow 
 
 目前正开始构建一些有意思的数字玩具，后面会一周发布一个。通过网页就可以自己操作。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3afint0jjj20p60ok76s.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3afint0jjj20p60ok76s.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3afinjknmj21tl0u0k1g.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3afinjknmj21tl0u0k1g.jpg)
 
 [Things.inc官网](https://things.inc/)
 
@@ -40,7 +40,7 @@ Data Fetcher的无代码集成让能轻松导入谷歌Analytics数据，Webflow 
 
 嗨，我是Alan, Habitify的增长主管，这是一个多平台的应用程序，可以让你养成习惯，专注于重要的事情。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3afinc1mcj211n0h340z.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3afinc1mcj211n0h340z.jpg)
 
 我加入Habitify的时候，它只有1年的历史，当时它的营销还是一张白纸。从那时起，我便开始制定并执行策略去帮助提高用户获取，转化率和留存率。
 
@@ -52,7 +52,7 @@ Data Fetcher的无代码集成让能轻松导入谷歌Analytics数据，Webflow 
 
 我要讲的是我的联合创始人彼得的故事，他创立了Habitify。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3afin664ij20oo0oo0ug.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3afin664ij20oo0oo0ug.jpg)
 
 彼得是一名iOS开发者，他在加入第一家公司两年后就被提升为项目经理。那时的薪水很有吸引力，而且普遍比大多数同龄人都高。
 
@@ -70,7 +70,7 @@ Data Fetcher的无代码集成让能轻松导入谷歌Analytics数据，Webflow 
 
 在Habitify的头6个月里，销量完全没有增长。人们下载了它，但这个应用程序太原始了，无法吸引销售。一开始只有3个人:Peter (iOS开发者)，Dat(市场营销)和Son(设计师)。在越南的夏天，40华氏度的高温下，他们一起生活和工作在一间空调很差的公寓的5楼。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3afin0f74j20xz0eitac.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3afin0f74j20xz0eitac.jpg)
 
 我加入公司是为了帮助发展应用程序，当时整个公司只有彼得在管理。我们没有办公室，必须每天在一个联合办公空间工作超过6个月。
 
@@ -80,7 +80,7 @@ Mac、iOS和Apple Watch是最初的三大平台，然后在去年我们扩展到
 
 ‍
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3afimrfusj20qo0k0gqr.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3afimrfusj20qo0k0gqr.jpg)
 
 定价策略是一个非常有趣的故事。一开始，我们只将应用的终身增值定价为2.99美元，仅此而已。当我们开始将Habitify扩展到更多平台时，成本增加了，迫使我们改变模式。我们开始向每个平台分别收取10美元(包括iOS、macOS和Android)，这导致了付费同步的问题。
 
@@ -98,7 +98,7 @@ Mac、iOS和Apple Watch是最初的三大平台，然后在去年我们扩展到
 
 我们的营销策略并没有让我们的收入大幅增长，但我们知道我们走在正确的道路上。来自我们内容活动的流量远远超过其他活动，这是一个积极的信号。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3afimkiqbj212w0jgtcm.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3afimkiqbj212w0jgtcm.jpg)
 
 所以内容营销将是我们以可持续的方式发展应用程序的关键重点之一。我们不仅致力于提供市场上最好的应用程序，而且还提供关于习惯跟踪和目标设定的最深入的文章的博客。
 
@@ -111,7 +111,7 @@ Mac、iOS和Apple Watch是最初的三大平台，然后在去年我们扩展到
 Habitify的里程碑，2019年10月，我们的安装量达到80万
 ‍
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3afimftr4j20qo0qo0ub.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3afimftr4j20qo0qo0ub.jpg)
 
 到目前为止，我们正在计划夏天为Habitify做一个重大的转变。我们正处于头脑风暴阶段，看看哪些功能能够真正帮助人们保持正轨并实现目标。
 
@@ -121,7 +121,7 @@ Habitify的里程碑，2019年10月，我们的安装量达到80万
 
 找到正确的渠道是密集实验和分析的结果，所以正如你所猜测的，这是一个平衡你所花的钱与ROI的问题。有时候ROI并不明确，但我还是不得不掏钱，因为我的客户调查表明了这一点。有时ROI会更清晰一些，但是是长期的，所以我必须与眼看着我的钱在几乎没有任何回报的情况下流失的不耐烦作斗争。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3afimc2sqj20ua0jswgh.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3afimc2sqj20ua0jswgh.jpg)
 
 我当时的解决方案是停止做任何事情，重新考虑产品的长期目标。这帮助我优先考虑哪些实验应该首先进行，以及我应该从中得到什么。虽然我在一些短期策略上押注了很多钱，但我仍然支持这个计划，投资于长期解决方案，以防事情不像我想的那样发展。
 

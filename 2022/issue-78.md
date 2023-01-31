@@ -12,11 +12,11 @@
 
 jobboardsearch是一个公开招聘网站，面前全世界的远程工作、独立开发者等等。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7r4dks6mlj31rt0u0dmg.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7r4dks6mlj31rt0u0dmg.jpg)
 
 作者在twitter上发布了它之后，就有很多人对它感兴趣，因为来自NomadList的Pieter Levels还给了一些建议。从4月份发布后，到10月份左右，可以达到月收入1千美金。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7r4do68l2j30wy0l6778.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7r4do68l2j30wy0l6778.jpg)
 
 营销的渠道主要是
 
@@ -28,7 +28,7 @@ jobboardsearch是一个公开招聘网站，面前全世界的远程工作、独
 
 在上个月，收到了一个出价2万美元💰的JobBoardSearch报价，作者拒绝了，尽管还没有准备好出售它，但感觉很好，这是一个好迹象😀。同时网站的赞助商也很给力。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7r4do2d1tj30oi0l40ur.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7r4do2d1tj30oi0l40ur.jpg)
 
 [Jobboardsearch产品时间线](https://twitter.com/rrmdp/status/1582003871786078210)
 
@@ -38,19 +38,19 @@ Hoverify是一个为web开发人员和设计师提供的一体机浏览器扩展
 
 - 检查器，在线查看并修改界面
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7r4dnvluaj31so0rwgrg.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7r4dnvluaj31so0rwgrg.jpg)
 
 - Assets 可以快速下载各种当前资源
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7r4dnlcwbj31sw0puq85.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7r4dnlcwbj31sw0puq85.jpg)
 
 - Build with 可以快速查看当前页面的技术实现
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7r4dneimwj31qq0sutdu.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7r4dneimwj31qq0sutdu.jpg)
 
 - 网页截屏
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7r4dn69n7j31tu0s6juy.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7r4dn69n7j31tu0s6juy.jpg)
 
 [Hoverify官网](https://www.tryhoverify.com/)
 
@@ -60,21 +60,21 @@ AvatarAI.me自上线一天以来已突破1万美元!
 
 从来没有一个项目进展得这么快。Stripe账户甚至还没有验证😂
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7r4dmxyp5j30u00uhwi2.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7r4dmxyp5j30u00uhwi2.jpg)
 
 这是一个通过上传一些头像图片，然后会自动生成AI只能头像的网站。效果非常的好。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7r4dmsw3pj30rs0dpadq.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7r4dmsw3pj30rs0dpadq.jpg)
 
 这些项目背后的技术被称为Dreambooth ，Github上有开源代码，它非常容易运行。目前，基本上是可以在浏览器中运行的面向消费者的应用程序。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7r4dmncbij30xc0irdio.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7r4dmncbij30xc0irdio.jpg)
 
 [关于Dreambooth的介绍](https://twitter.com/AnthonyCastrio/status/1586615948135407616)
 
 ## 4、建立一个佣金网站，每月赚4万美元
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7r4dmi04cj30b30b374t.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7r4dmi04cj30b30b374t.jpg)
 
 嘿!我是Matt Oney，住在加州。我在科技行业工作了大约7年，接触过大多数营销，但最主要的是爱上了SEO。
 
@@ -82,7 +82,7 @@ AvatarAI.me自上线一天以来已突破1万美元!
 
 表面上看，ZenmasterWellness 是一个网站，我在上面发布了心理健康+健康领域的流行产品和品牌的公正评论和比较。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7r4dmeajdj31p20u0djz.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7r4dmeajdj31p20u0djz.jpg)
 
 在幕后，我做了大量的关键词研究，以发现人们在互联网上搜索的究竟是什么。然后，我与数百个品牌建立了合作伙伴关系，因此，当读者点击到某个品牌的网站并进行购买(或成为潜在客户)时，我就能获得回扣。坦率地说，这是一种相当标准的佣金营销商业模式。
 
@@ -116,13 +116,13 @@ AvatarAI.me自上线一天以来已突破1万美元!
 
 从那时起，我投资了一些最有前途的工具: 来自GeneratePress的网站模板(大约40美元/年)，页面构建器element Pro的专业订阅(大约50美元/年)，以及通过Siteground托管一年(大约40美元)，过程有点慢，有点低效。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7r4dm75tkj30nm08umxu.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7r4dm75tkj30nm08umxu.jpg)
 
 ### 描述下启动业务的过程
 
 对于几乎没有HTML经验的人来说，在WordPress中创建站点需要一些学习曲线。但有了Youtube教程和Generatepress强大的支持团队，创建一个看起来足够好看的网站并不难。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7r4dm29nrj31r90u0wlr.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7r4dm29nrj31r90u0wlr.jpg)
 
 一旦有了网站的基本框架，我立即开始写作。在我的例子中，它是这样的:
 
@@ -144,7 +144,7 @@ AvatarAI.me自上线一天以来已突破1万美元!
 
 如果不深入调查我的读者，很难把我的内容的成功归因于任何一个(或两个)特定的因素。但我确实从指标(如平均阅读时间、每节课的页数等)中知道，我的受众喜欢我的内容。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7r4dlpeocj31nj0u07fh.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7r4dlpeocj31nj0u07fh.jpg)
 
 我可以给那些和我处境相似的人一些建议:
 
@@ -154,7 +154,7 @@ AvatarAI.me自上线一天以来已突破1万美元!
 
 ### 未来的计划是什么样的?
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7r4dldxvfj30w00i1abk.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7r4dldxvfj30w00i1abk.jpg)
 
 经过两年多的努力，该网站的月访问量约为5万，其中约90%是通过自然搜索产生的。这意味着该公司每月收入约为1.5万美元，利润率约为85%。
 
@@ -170,7 +170,7 @@ AvatarAI.me自上线一天以来已突破1万美元!
 
 ### 对其他想要起步或刚刚起步的企业家有什么建议?
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7r4dl6oyij31vz0u0dl7.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7r4dl6oyij31vz0u0dl7.jpg)
 
 如果你还在等着一个绝妙的点子突然出现在你的脑海里，或者一个令人兴奋的商业机会从天而降，那就停下来吧。我的第一条建议就是他妈的开始。
 

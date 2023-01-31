@@ -17,7 +17,7 @@ Tauri是一个跨平台应用程序构建工具包，是一个类似electron的�
 - Tauri打包后的执行文件会比electron小100多M。
 - electron使用的chromium内核导致内存占用很庞大，而tauri在windows上使用的是webview2。webview2使用的edge chromium相比chromium有更多的优势。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3pyfbqmzbj21qt0u0jvd.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3pyfbqmzbj21qt0u0jvd.jpg)
 
 [Tauri官网](https://tauri.app/)
 
@@ -27,7 +27,7 @@ Tauri是一个跨平台应用程序构建工具包，是一个类似electron的�
 
 在Github上开源可用，有36K的Star，此数据库通过 JSON 格式分发，可以让你很方便的开始你的项目，有一些很有意思的小产品Demo可以访问。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3pyfcqovpj20ro0dxn26.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3pyfcqovpj20ro0dxn26.jpg)
 
 [中国古诗词开源地址](https://github.com/chinese-poetry/chinese-poetry)
 
@@ -44,13 +44,13 @@ Tauri是一个跨平台应用程序构建工具包，是一个类似electron的�
 
 可以方便的在Vercel上部署Demo
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3pyfclowqj212v0u0acn.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3pyfclowqj212v0u0acn.jpg)
 
 [Next.js Subscription Payments Starter开源地址](https://github.com/vercel/nextjs-subscription-payments)
 
 # 4、我们是如何构建一个100万美元年收入开源SaaS的？
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3pyfcgzbwj20jf0gdjrw.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3pyfcgzbwj20jf0gdjrw.jpg)
 
 我们已经达到了一个里程碑，每年100万美元的收入(ARR)。
 Plausible Analytics,一个简单，轻量,开源、隐私友好的替代谷歌分析的软件。
@@ -63,7 +63,7 @@ Plausible Analytics,一个简单，轻量,开源、隐私友好的替代谷歌�
 
 ### 100万美元的ARR是怎么来的
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3pyfcdrsrj218g0mcjth.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3pyfcdrsrj218g0mcjth.jpg)
 
 我们经历了疯狂的过山车之旅。在我们于2019年5月推出付费订阅SaaS业务后，我们花了324天的时间才实现了第一个每月400美元的经常性收入(MRR)。
 
@@ -87,7 +87,7 @@ Indie Hackers是一个很棒的社区，也是你开始“公开构建”之旅�
 
 直到今天，我们仍然尽可能地保持公开透明。我们定期分享我们的里程碑、经验教训、网站流量等等。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3pyfc9lo6j218g0pj0ut.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3pyfc9lo6j218g0pj0ut.jpg)
 
 ### 2019年5月:推出付费订阅服务(MRR 64美元)
 
@@ -187,7 +187,7 @@ Plausible在MIT许可下完全开源，所有的代码在GitHub上公开。我�
 
 在云中运行高级托管服务，同时保持代码开放以供检查和自行托管，对于像我们这样的开源项目来说，这似乎是一个更好的模式。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3pyfc5frlj20vi0fq0ua.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3pyfc5frlj20vi0fq0ua.jpg)
 
 ### 2021年1月:终于可持续了(11303美元)
 
@@ -294,7 +294,7 @@ Plausible在这个市场处于有利地位，所以在这个消息公布后，�
 
 “我们现在不打算做任何改变。我们不需要强迫任何增长，因为我们不需要对任何投资者负责，我们不需要努力达到他们的目标。我们将继续关注那些对我们有利的事情，并看看它会如何发展。这并不能保证事情会继续发展下去，但我们会尽最大努力。”
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3pyfbuaxfj20tk0gydgz.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h3pyfbuaxfj20tk0gydgz.jpg)
 
 这也是我们今后的计划。对我们来说，在营销和交流中尽可能保持道德是至关重要的，我希望我们能够在不使用任何“最佳营销实践”的情况下继续发展:
 

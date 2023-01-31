@@ -9,7 +9,7 @@
 
 ## 1、7个步骤在24小时内验证你的产品想法
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0d5i3w501j20b40b43yx.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0d5i3w501j20b40b43yx.jpg)
 
 第一步：忘记你的产品想法 - 0分钟
 
@@ -125,12 +125,12 @@
 * 我采访了几位老师。
 * 构建了一个MVP:一个基于web的工作表生成器。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0d5i6mjn2j21t00u0acg.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0d5i6mjn2j21t00u0acg.jpg)
 
 我在7个月的时间里什么都没做，只是希望用户能找到我的产品。我每天有0-5次访问。
 在那之后，我差点就放弃这个产品了。幸运的是，我开始学习SEO和反向链接的重要性。我认为给几个博客作者发邮件是值得一试的，这些博客上有类似的帖子:“构建数字工作表的10种工具。”然后我会问他们是否愿意提及我的产品。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0d5i5y3r8j21tr0u0dke.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0d5i5y3r8j21tr0u0dke.jpg)
 
 三个简单的步骤
 1、我用谷歌搜索我的产品的相关搜索，比如“如何创建数字工作表”或“创建交互式工作表”。
@@ -159,19 +159,19 @@
 
 Joel构建了Browserless，即“chrome即服务”，允许开发者通过编程控制浏览器。凭借他所有的编程知识和经验，他能够构建一个功能强大且外观漂亮的SaaS。在小众社区发帖让他的生意增长到每月4000美元
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0d5i5m4mgj21uc0qetcf.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0d5i5m4mgj21uc0qetcf.jpg)
 
 **嗨,乔!你的背景是什么，你目前在做什么?**
 
 嘿,大家好!我是乔尔·格里菲斯(Joel Griffith)，俄勒冈州波特兰市的一名软件工程师(现在是一名独立创作者)。从本质上讲，Browserless就是我所说的“Chrome即服务”。这意味着，当开发者需要对网页浏览器进行编程控制，将其作为服务的一部分时，他们可以使用我们来提供。我们负责安装浏览器，并在服务器端运行它，以及其他小细节，比如确保字体安装正确。现在，用户使用它的首要原因是从他们的网站生成漂亮的PDF文件，这可能是一件相当困难的事情。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0d5i5cqlwj20q30jkaeb.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0d5i5cqlwj20q30jkaeb.jpg)
 
 Browserless该服务在许多方面都非常有用，比如捕获屏幕截图、生成PDF和收集数据。已经有很多玩家，然而，实际上没有一个提供24/7的按需编程访问。
 
 它目前的收入来源有两种:一种是传统的授权模式，另一种是每月订阅“托管”访问。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0d5i52leaj20q30g3q3m.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0d5i52leaj20q30g3q3m.jpg)
 
 **你的背景故事是什么?你是如何想到这个想法的?**
 
@@ -181,7 +181,7 @@ Browserless该服务在许多方面都非常有用，比如捕获屏幕截图、
 
 在遇到它之后，我开始寻找能让我通过编程访问无头浏览器的东西，这样我就可以用它来开发我的新网页应用程序了。对我来说，这是一个重新关注的事，我转而编写无头浏览器的程序。因为我非常清楚自己想要的是什么，所以它基本上是自己建立起来的(除了我在这个项目上投入的大量时间)。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0d5i4uwavj21uk0u0jwh.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0d5i4uwavj21uk0u0jwh.jpg)
 
 **你是如何构建Browserless的?**
 
@@ -191,13 +191,13 @@ Browserless该服务在许多方面都非常有用，比如捕获屏幕截图、
 
 发布的那天有点平淡无奇。我之前提到的一些核心用户帮助我验证了这个想法，但像Hacker News和Product Hunt这样的网站似乎并不在乎。直到我开始写内容，我才开始获得一些关注，一篇最佳实践的帖子甚至登上了Hacker News的首页。寻找客户和知道下一步去哪里仍然是我正在学习的事情。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0d5i4iin9j20q30j7myy.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0d5i4iin9j20q30j7myy.jpg)
 
 **你遇到的最大挑战和克服的障碍是什么?**
 
 从技术上讲，最大的挑战是调试器。Chrome附带了一个令人难以置信的远程调试器，但要让所有其他部分(如用户提交的脚本、提前输入、检测、错误处理)都能正常工作，则需要很多管理工作。克服这一点对我来说是一个巨大的胜利，因为我现在只使用这个工具来编写任何新的脚本。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0d5i46m8gj20q30iawh2.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0d5i46m8gj20q30iawh2.jpg)
 
 [Browserless官网](https://www.browserless.io/)
 

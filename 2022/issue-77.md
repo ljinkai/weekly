@@ -16,7 +16,7 @@
 2. 呈现单一的迷你课程和集合与链接&嵌入在网页上
 3. 为你的教育产品和服务创造更多的参与，也更容易销售
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7k6xlr3agj31840pugoh.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7k6xlr3agj31840pugoh.jpg)
 
 [minicourse官网](https://minicoursegenerator.com)
 
@@ -24,7 +24,7 @@
 
 这是一个开源代码库，基于知识的社区软件。可以使用它快速构建产品技术支持、客户支持、用户交流等方面的问答社区。用的Go语言进行开发，Github上有2.3K，支持Docker。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7k6xosn0fj30ty0j077d.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7k6xosn0fj30ty0j077d.jpg)
 
 [Answer开源代码库](https://github.com/answerdev/answer)
 
@@ -32,11 +32,11 @@
 
 作者尝试过多种习惯追踪应用，它们有不同的界面和功能，但最终都没能让保持动力，也没能坚持完成习惯。所以，他决定自己做一个。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7k6xop3zuj31lw0se0wn.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7k6xop3zuj31lw0se0wn.jpg)
 
 Lvlup是一个有趣和高效的习惯训练器，系统地帮助你建立改变生活的习惯，让你更接近你的目标。它遵循一个循序渐进的习惯养成过程，伴随着自我反思工具和个性化的习惯提醒，让你在这一过程中保持动力。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7k6xoilvlj30vl0u0acd.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7k6xoilvlj30vl0u0acd.jpg)
 
 主要概念:
 -从一个简单到你无法拒绝的习惯开始，然后慢慢养成。在这个过程中，你的意志力和动力会增强，更容易坚持你的习惯。
@@ -44,13 +44,13 @@ Lvlup是一个有趣和高效的习惯训练器，系统地帮助你建立改变
 -记录和反思你过去的进步和情绪，让自己保持动力，弄清楚为什么你正在打破一些习惯，并与其他习惯斗争。
 -完成你的习惯一致，解锁新的成就，头衔，头像和更多有趣的奖励。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7k6xoep1nj312k0li786.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7k6xoep1nj312k0li786.jpg)
 
 [lvlup官网](https://lvlup.app/#/)
 
 ## 4、短视频AI工具是如何在短短5个月内达到月收入6000美元
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7k6xo7x0aj30b40b43zv.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7k6xo7x0aj30b40b43zv.jpg)
 
 大家好，我是Vidon.ai的创始人Alex。Vidon.ai是一个智能工具，可以立即把你的博客文章生成可分享的视频。这些视频在社交媒体上获得了更好的参与度，也有助于SEO，让你在YouTube或TikTok等纯视频平台上与更广泛的参与你写的内容。
 
@@ -60,19 +60,19 @@ Lvlup是一个有趣和高效的习惯训练器，系统地帮助你建立改变
 
 我的背景是人工智能，但我对心理学和市场营销很感兴趣。这让我在过去几年里推出了一些使用人工智能帮助公司扩大营销规模的产品。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7k6xnx6ajj31c70u0wjn.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7k6xnx6ajj31c70u0wjn.jpg)
 
 关于vidon的想法。我以前创业时就有过这种想法。我们的主要营销渠道是内容营销，这对我们来说非常有效。但是，我们看到内容营销的竞争日益激烈。如果你浏览任何东西，你会发现上百篇文章都是关于完全相同的主题。这让你很难脱颖而出。
 
 我们尝试了视频营销，并取得了惊人的效果。然而，对于我们这个小公司来说，制作视频实在是太费工夫了。这些设备对我们的团队来说太贵太耗时。在看到视频的高粘性后，我想找到一种更容易从我们现有的内容中创建视频内容的方法。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7k6xn4gkwj31us0ro46a.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7k6xn4gkwj31us0ro46a.jpg)
 
 我认真对待这个想法，给自己6个月的时间来构建和验证它的产品。我没有大量的现金，但也不想投资。所以我意识到，我还必须在营销上有所创新。
 
 ### 带我们回顾一下建造MVP的过程。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7k6xmuwhjj30nm0dvab2.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7k6xmuwhjj30nm0dvab2.jpg)
 
 “早发布。经常发布。倾听客户的声音”。
 
@@ -90,7 +90,7 @@ Lvlup是一个有趣和高效的习惯训练器，系统地帮助你建立改变
 
 早期我们会花一周的时间去创造内容，然后再花一周的时间去营销。这让我们不断迭代我们的产品，因为我们与越来越多的人交流。此外，这也让我们的团队完全专注于本周的目标，而不是不断地来回切换。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7k6xmqzj8j30nm0d775g.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7k6xmqzj8j30nm0d775g.jpg)
 
 我们最初的客户来自非常有针对性的推广邮件和内容营销机构。我们的逻辑是，他们创造了大量的内容，并愿意尝试新工具。我们很快发现，你可以通过在邮件中添加视频来获得很高的参与度。
 
@@ -98,11 +98,11 @@ Lvlup是一个有趣和高效的习惯训练器，系统地帮助你建立改变
 
 我们仍然为大客户做一些有针对性的邮件活动。为此，我们找到了该公司最近发布的一篇博客文章，并将其转换为视频，我们将视频发送给他们，并告诉他们可以以自己喜欢的方式使用视频。这通常会激起他们的兴趣，并为他们打开一扇关于如何使用视频的对话之门。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7k6xmmwggj30nm0d7t9q.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7k6xmmwggj30nm0d7t9q.jpg)
 
 SEO是我们用于扩大规模的另一种策略。如果你不熟悉，SEO使用自动化来创建内容，可以大大降低人工。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7k6xmjdpmj30nm0cjwf6.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7k6xmjdpmj30nm0cjwf6.jpg)
 
 使用我们的API为每个页面创建视频。为博客文章添加视频可以帮助他们在谷歌上排名更高。
 
@@ -110,7 +110,7 @@ SEO是我们用于扩大规模的另一种策略。如果你不熟悉，SEO使�
 
 因为我们没有进行任何投资，所以从第一天开始我们就盈利了。我们的主要成本是我们的视频渲染和语音生成AI。到目前为止，我们只使用免费的营销渠道，如电子邮件和内容营销。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7k6xmfvk0j317q0aagmx.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7k6xmfvk0j317q0aagmx.jpg)
 
 我们目前的月收入为6000美元，其中大部分来自与6家内容营销机构签订的大合同。我们的目标是使我们的客户群更加多样化，这样我们就可以减少对少数几个大客户的依赖。
 
@@ -120,7 +120,7 @@ SEO是我们用于扩大规模的另一种策略。如果你不熟悉，SEO使�
 
 早期我们的网站并没有真正转化流量。我们尝试在主页上添加一个精简版的视频编辑器。人们喜欢它!游客们会喜欢玩演示版本，因为它非常有趣，而且它能让他们提前感受到“哇，这很酷”的时刻。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7k6xmb69hj30nm0d73zw.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7k6xmb69hj30nm0d73zw.jpg)
 
 与客户沟通的时间不多，只是埋头做产品。当我们发布一个新功能却发现没有人真正想要它时，这让我们感到沮丧。我们必须学会与客户保持密切联系。
 
@@ -132,7 +132,7 @@ SEO是我们用于扩大规模的另一种策略。如果你不熟悉，SEO使�
 
 我发现很多创业者的故事都很少说创业带来的孤独、不确定和焦虑。我认为重要的是，创业者要明白，这些感觉是正常的，他们不应该因此而气馁。我会建议其他独立开发者找一群有相同经历的人，这样他们就可以互相支持。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h7k6xm042pj31l80sewm9.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h7k6xm042pj31l80sewm9.jpg)
 
 此外，作为创始人，你需要身兼数职。你现在可能在经营一家公司的某一方面是专家，但你需要精通所有领域。学习这一切不是一夜之间发生的。这就是为什么我觉得坚持、耐心和长期是任何创业者的关键。你的第一次创业可能会失败，你的第二次也可能会失败，但如果你不放弃，第三次可能会成功。
 

@@ -13,17 +13,17 @@
 
 几年前，我买了一个硬件跟踪器来改善我的姿势，这需要我把它贴在我的脖子后面，体验并不好，我停止了使用它。当我接触到运动检测API时，我意识到我可以创建同样的姿势跟踪，很多人整天都把AirPods戴在耳朵里，所以他们不需要调整他们的生活方式。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0lajh8l9yj21jc0sm44u.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0lajh8l9yj21jc0sm44u.jpg)
 
 通过手机App 启动一个Posture会话，Posture将跟踪你的颈部倾斜，当检测到不良姿势时，就会发出提醒。
 
 **错误的姿势**
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0lajojxegj210u0kgwi5.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0lajojxegj210u0kgwi5.jpg)
 
 **正确的姿势**
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0lajo8yi6j210u0k8wi8.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0lajo8yi6j210u0k8wi8.jpg)
 
 [应用iOS访问地址](https://apps.apple.com/us/app/posture-pal-improve-stance/id1590316152)
 
@@ -41,19 +41,19 @@ Undock会根据你的空闲时间、偏好和日程安排行为，为你推荐�
 
 无论您是安排一个1对1或一个大规模的小组会议，Undock都有一个令人难以置信的1点击体验，以找到最佳时间。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h0lb7kw2rzj21aq0sigpk.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h0lb7kw2rzj21aq0sigpk.jpg)
 
 **它在哪里起作用?**
 
 任何你输入手机键盘的地方，目前只有iOS。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0lajnq6puj20yq0kagnb.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0lajnq6puj20yq0kagnb.jpg)
 
 Apple 在 iOS 8 里就引入了 Keyboard Extension，Custom Keyboard 要实现起来也非常简单，我们只需要在项目里新建一个 Custom Keyboard Extension 的 Target，Xcode 就自动会给我们创建一个 KeyboardViewController，开发者通过这个类就可以做简单的开发了。
 
 **在网页上，**Undock的Chrome扩展允许你在网页上进行快速的操作和管理。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h0lb8gntvwj20yo0k4q4i.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h0lb8gntvwj20yo0k4q4i.jpg)
 
 在安排会议的时候，我的脑力负担绝对为零，这是无价的。
 
@@ -61,7 +61,7 @@ Apple 在 iOS 8 里就引入了 Keyboard Extension，Custom Keyboard 要实现�
 
 ## 3、****Tailwind CSS****: 从副业产品到2百万美元的故事
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0lajkg89lj20cs0csaak.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0lajkg89lj20cs0csaak.jpg)
 
 我是 Adam Wathan，Tailwind CSS的发明者。
 
@@ -69,7 +69,7 @@ Apple 在 iOS 8 里就引入了 Keyboard Extension，Custom Keyboard 要实现�
 
 我们从Tailwind UI中获得200万美元的收入，这是我们第一个商用的Tailwind CSS产品，是在第一个Tailwind CSS版本发布两年之后。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0lajkaj83j21js0n476m.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0lajkaj83j21js0n476m.jpg)
 
 下面是故事的开始……
 
@@ -78,7 +78,7 @@ Apple 在 iOS 8 里就引入了 Keyboard Extension，Custom Keyboard 要实现�
 
 我们称之为“Digest”。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0lajk3i4vj21dw0sy0ui.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0lajk3i4vj21dw0sy0ui.jpg)
 
 我们对此非常兴奋，于是我决定休假一周去创造最初的产品原型。但按照常规的开发方式，我花了整整一周的时间来决定技术堆栈，在最后一天才开始实现真正的功能。
 
@@ -88,7 +88,7 @@ Apple 在 iOS 8 里就引入了 Keyboard Extension，Custom Keyboard 要实现�
 
 如果你在Tailwind中使用过 @apply，这可能看起来很熟悉……
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0lajjwt5nj213y0nemza.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0lajjwt5nj213y0nemza.jpg)
 
 不管怎样，回到“Digest”，通常我会用Bootstrap，但是Sass的东西把它给毁了。我想继续使用Less，我唯一的选择就是从头开始创作所有的样式。
 
@@ -96,7 +96,7 @@ Apple 在 iOS 8 里就引入了 Keyboard Extension，Custom Keyboard 要实现�
 
 (顺便说一下，这是我们当时最终的结果，我认为即使5年后它仍然看起来很好!)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0lajjpe3pj21a40u041x.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0lajjpe3pj21a40u041x.jpg)
 
 最终，我们忙于其他项目，失去了对这个想法的热情，最终这个副业项目走向了墓地(就像大多数事情一样)。
 
@@ -111,19 +111,19 @@ Apple 在 iOS 8 里就引入了 Keyboard Extension，Custom Keyboard 要实现�
 **放弃了第2个副业项目**
 几年后，Steve和我开始致力于KiteTail，这将是一个专注于开发者，基于webhook的付款平台:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0lajjh7nij21010u0tb0.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0lajjh7nij21010u0tb0.jpg)
 
 我们当时非常认真地对待这个问题，并且以那些旧的Digest样式为起点——我开始构建这个东西，非常努力地使这些样式，并尽可能地“与项目无关”。
 
 在这一点上，我没有维护任何开源CSS框架的想法。我甚至没有想过我所创造的东西会引起任何人的兴趣。但是在一个接一个的信息流中，人们总是在问是否可以开源打包使用CSS:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0lajj7r7bj210o09ujrw.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0lajj7r7bj210o09ujrw.jpg)
 
 这就是公开的好处——如果我没有在另一个被抛弃的项目上直播我的工作，Steve和我永远也不会建立Tailwind Labs的业务(现在在不到2年的时间里已经创造了超过400万美元的收入)。
 
 最终我想“也许可以开源这个小的Less框架?”
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0lajj2e0bj20nu0vw76g.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0lajj2e0bj20nu0vw76g.jpg)
 
 **走向开源**
 
@@ -137,7 +137,7 @@ Apple 在 iOS 8 里就引入了 Keyboard Extension，Custom Keyboard 要实现�
 
 在这一过程中我所面临的一个挑战是，为了让 Tailwind 能够按照我的想法进行配置，我必须真正突破 Less 的极限，并编写一些真正创新的内容:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0lajix1ezj21jj0u042w.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0lajix1ezj21jj0u042w.jpg)
 
 就我所能想到的，为这种东西编写测试套件是不实际的，我只能希望并祈祷解决一个问题不会引入另一个问题。
 
@@ -147,11 +147,11 @@ Apple 在 iOS 8 里就引入了 Keyboard Extension，Custom Keyboard 要实现�
 
 不管怎样，在2017年的万圣节之夜，我们完成了第一次发行的最后润色，并开始着手编写最初的文档:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0lajinqi5j20vc0qy40p.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0lajinqi5j20vc0qy40p.jpg)
 
 我们发布了它，并获得了大量的积极关注，即使是v0.1.0:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0laji92tnj20ut0u0n03.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0laji92tnj20ut0u0n03.jpg)
 
 经过大约一年的新 v0.x 版本，我发布了许多很酷的新功能和一个不断增长的社区时，我宣布我将全职开发Tailwind CSS。
 
@@ -165,17 +165,17 @@ Tailwind CSS是迄今为止我所做过的影响最大的项目——感觉它�
 
 我竭尽全力地整理了这些东西，并将我们所学到的知识应用到一起，组成了一个合适的v1.0版本，于2019年5月13日发布:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0lajhyopcj20u00udadn.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0lajhyopcj20u00udadn.jpg)
 
 在那之后，史蒂夫和我在那一年剩下的时间里都在埋头苦干，试图弄清楚到底什么才是“Tailwind 赚钱业务”。我们创建了原型并抛弃了许多不同的理念，但最终还是决定采用现在的Tailwind UI。
 
 以下是2019年3月对这个想法的第一次一瞥:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0lajhpfbqj20p80wm780.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0lajhpfbqj20p80wm780.jpg)
 
 我们不知疲倦地为”Tailwind UI“ 工作了好几个月，最终在2020年2月发布了我们的早期版本，在我们设定的截止日期之前连续工作了36个小时。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0lajhhekaj20sk0xs0vg.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h0lajhhekaj20sk0xs0vg.jpg)
 
 它的成功超出了我们的想象(另:下周收益将突破200万美元)，因此我们能够开始组建一支出色的团队继续推动 ”Tailwind“ 的未来发展。
 

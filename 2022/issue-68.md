@@ -12,13 +12,13 @@
 
 Gamma是PPT的另一种选择，一种快速，简单的方式来分享和展示你的工作。创建引人入胜的演示文稿、备忘录、简报和文档，便于实时讨论或异步共享。一切都在你的浏览器中，无需下载或安装。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5b9kpkpqzj20kf0c8tak.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5b9kpkpqzj20kf0c8tak.jpg)
 
 每年有5亿人用谷歌Slides和Powerpoint制作演示文稿。30多年来，幻灯片一直是商业交流的语言。
 
 虽然其他的生产力套件在过去的几年里有了显著的升级，但幻灯片作为一种格式基本上没有改变:它们的尺寸是固定的，它们是为线性的、单向的演示而构建的，设计它们仍然是痛苦的。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5b9ku25ahj20xc0ipdit.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5b9ku25ahj20xc0ipdit.jpg)
 
 这个产品，保留了 PPT 的一页一页，但是每一页不会限制尺寸，可以插入丰富的内容以及更为快速方便的排版。可以简单理解为，PPT 的外形，Notion 的能力，远超 Craft 级别的内容排版能力。
 
@@ -28,7 +28,7 @@ Gamma是PPT的另一种选择，一种快速，简单的方式来分享和展示
 
 Elai是一个通过文本生成视频的平台，允许任何人构建定制的AI视频与演示。只需几分钟，就能生成一段69种语言可供翻译的视频。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5b9ktuouwj216y0u0gou.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5b9ktuouwj216y0u0gou.jpg)
 
 只需3步即可快速生成
 
@@ -38,7 +38,7 @@ Elai是一个通过文本生成视频的平台，允许任何人构建定制的A
 
 3、一键生成视频
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5b9kt5syzj21sc0tcdje.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5b9kt5syzj21sc0tcdje.jpg)
 
 [elai官网](https://elai.io/)
 
@@ -48,9 +48,9 @@ Elai是一个通过文本生成视频的平台，允许任何人构建定制的A
 
 这是一个开源代码工具，有兴趣的可以详细了解下技术实现。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5b9kt08dbj20p00goq57.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5b9kt08dbj20p00goq57.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5b9kswmm5j20p00go75v.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5b9kswmm5j20p00go75v.jpg)
 
 [tts-vue开源代码地址](https://github.com/LokerL/tts-vue)
 
@@ -58,13 +58,13 @@ Elai是一个通过文本生成视频的平台，允许任何人构建定制的A
 
 我是GummySearch的创始人Fed。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5b9ksqzk0j20wq0pw0wj.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5b9ksqzk0j20wq0pw0wj.jpg)
 
 GummySearch 是一个用户研究工具，帮助创业者快速捕捉Reddit在线社区中发生的对话，从而想出新业务，验证他们的解决方案，并为他们的业务找到客户。
 
 这款产品都处于早期阶段，但都显示出了希望。GummySearch在第一年就创造了6万美元的收入。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5b9kshu37j20nm0b4dgs.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5b9kshu37j20nm0b4dgs.jpg)
 
 在过去的1年多里，是一段非常棒的旅程!我很高兴今天能和大家分享我的入门故事。
 
@@ -76,7 +76,7 @@ GummySearch 是一个用户研究工具，帮助创业者快速捕捉Reddit在�
 
 在某种程度上，我觉得我在那里的发展已经进入了停滞期，我已经准备好再次创造我的产品。大约在这个时候，我读了Pieter Levels的 12个月内创业12家公司的博客文章。在这个过程中，Pieter变得擅长创业。12个月创立了12家公司，这对我来说有点多了，但我决定我需要一个“预热项目”。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5b9ksdwr5j20nm095ta2.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5b9ksdwr5j20nm095ta2.jpg)
 
 ### 带我们了解第一个产品的过程
 
@@ -86,7 +86,7 @@ GummySearch 是一个用户研究工具，帮助创业者快速捕捉Reddit在�
 
 下面是搜索功能的第一个版本。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5b9ks8l63j20nm0hgdh2.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5b9ks8l63j20nm0hgdh2.jpg)
 
 ### 描述下启动业务的过程
 
@@ -96,7 +96,7 @@ GummySearch 是一个用户研究工具，帮助创业者快速捕捉Reddit在�
 
 然后，令人惊讶的事情发生了，开始于一个摇摆不定的客户。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5b9ks43otj218i0u0435.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5b9ks43otj218i0u0435.jpg)
 
 我曾经遇到过一个客户，他们说:“我喜欢你的产品，但不是每个月都用。我不使用社交倾听功能，但用它来做受众调查，我不是每月做一次。如果你有终身优惠，我肯定会买。”我想为什么不呢，除了每月订阅外，我还做了一个终身交易购买选项。
 
@@ -104,7 +104,7 @@ GummySearch 是一个用户研究工具，帮助创业者快速捕捉Reddit在�
 
 这些事件让我很惊讶，也让我充满了活力，这对我来说是一个巨大的转折点。这100个新客户的激增不仅激励我继续改进产品，而且我也采纳了他们的反馈并调整工具来不断优化。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5b9krx51vj21oc0u0gss.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5b9krx51vj21oc0u0gss.jpg)
 
 ### 自发布以来，什么方法能够有效地吸引和留住用户?
 
@@ -116,13 +116,13 @@ GummySearch 是一个用户研究工具，帮助创业者快速捕捉Reddit在�
 
 我用GummySearch在社区中跟踪相关的关键字，我的目标用户在这些社区中闲逛，并在适当的时候加入对话。有很多机会不仅可以推销我的产品，还可以推广我写的博客文章。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5b9krqbosj212w0qowie.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5b9krqbosj212w0qowie.jpg)
 
 - 在Twitter上公开构建
 
 我在Twitter上公开推出我的产品，这对我作为白手起家的创始人的轨迹产生了很多积极的影响。我从其他独立开发者那里获得了很多灵感和支持，而建立一个用户群体也让我能够大大提高自己的每一款产品的曝光度。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5b9kq80lhj20vy0oo76s.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5b9kq80lhj20vy0oo76s.jpg)
 
 - 教育我的观众
 
@@ -134,7 +134,7 @@ Reddit有一个“反自我推销”的坏名声，但根据我的经验，那�
 
 在我的联属计划的第一个月，我的一个推销用户带来了3000美元的新业务。他的努力如此有效，我们俩都很震惊，当我为他的工作支付报酬时，感觉非常好。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5b9kq2ix4j20nm0awwfz.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5b9kq2ix4j20nm0awwfz.jpg)
 
 ### 未来是怎样打算的?
 
@@ -144,7 +144,7 @@ GummySearch是盈利的，我很自豪，在它成立的第一年，我就作为
 
 我还开始开发GummySearch 2.0。但我不能透露太多细节，这将是一个真正的游戏规则改变者。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5b9kpu56cj21di0rc0yj.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5b9kpu56cj21di0rc0yj.jpg)
 
 ### 通过创业，你是否学到了什么特别有用或有利的东西?
 

@@ -16,11 +16,11 @@ Raindrop 的书签管理功能。传统书签的管理只依赖于标题和文�
 
 你可以通过邮件等方式邀请别人加入你的文件夹，或者为某个文件夹创建分享链接，任何拥有链接的人都可以访问该文件夹里的书签内容。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2tlqje96uj21nu0pcn2o.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2tlqje96uj21nu0pcn2o.jpg)
 
 除了网页版，还有iOS、Android和桌面端，使用有免费版和高级会员版。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2tlqlhte0j212s0iw0vo.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2tlqlhte0j212s0iw0vo.jpg)
 
 [Raindrop官网](https://raindrop.io/)
 
@@ -30,7 +30,7 @@ NotionPet的主要功能，是为 Notion 等产品提供好看、强大、可定
 
 NotionPet 目前提供了 21 个基础组件，包括动效文字、极简番茄钟、年度格子、生命倒计时、扁平时钟、访客统计、环形多彩时钟、中国天气组件、词霸每日一句英语、页面访客点赞、荧光关注引导、简约生日倒计时、微博热搜排行榜、恋爱纪念、哔哩哔哩粉丝看板、打卡计数、节假日倒计时。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2tlql8lrrj20v40jgwh2.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2tlql8lrrj20v40jgwh2.jpg)
 
 使用也比较简单，通过点击组件，进行配置，在配置完成后，在左下角复制链接，然后粘贴至你正在使用的 Notion 类笔记软件中，选择 「Embed/嵌入显示」即可。
 
@@ -42,27 +42,27 @@ NotionPet 目前提供了 21 个基础组件，包括动效文字、极简番茄
 
 你可以根据某一类用户设定关键词，平台会自动匹配相应的sub-reddit
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2tlql0io3j212w0nptc5.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2tlql0io3j212w0nptc5.jpg)
 
 建议几个有针对性的关键词搜索，让你深入到不同的谈话类别中。对文本内容进行过滤。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2tlqkwjx6j212w0q6djm.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2tlqkwjx6j212w0q6djm.jpg)
 
 最后确定需要浏览的内容，并保存到浏览列表
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2tlqkreybj212w0q9n1l.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2tlqkreybj212w0q9n1l.jpg)
 
 [gummysearch官网](https://gummysearch.com/)
 
 ## 4、通过建立一个免费的照片编辑器，一个独立开发者每月收入10万美元
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2tlqklhboj20d30d3aax.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2tlqklhboj20d30d3aax.jpg)
 
 大家好，我叫伊万。1990年出生在乌克兰西部的一个小村庄。从2009年起我就一直住在布拉格。我喜欢计算机绘图，也是网络技术和电子游戏开发的爱好者。除了电脑之外，我的爱好是弹吉他、滑冰和钓鱼。
 
 我是Photopea的创始人，这是一个在线高级的照片编辑器，我一个人做“所有的事情”:)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2tlqkftm4j21ke0u0tf4.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2tlqkftm4j21ke0u0tf4.jpg)
 
 ### 你的背景是什么?你是如何想到这个想法的?
 
@@ -80,7 +80,7 @@ NotionPet 目前提供了 21 个基础组件，包括动效文字、极简番茄
 
 这一切都是自然而然发生的，完成一个又一个功能，帮助一个又一个用户，而不知道接下来会发生什么，也不知道我的目标是什么。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2tlqk5l2mj21150lvmzg.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2tlqk5l2mj21150lvmzg.jpg)
 
 ### 你的营销策略是什么?
 
@@ -88,7 +88,7 @@ NotionPet 目前提供了 21 个基础组件，包括动效文字、极简番茄
 
 但是很多人“自发”的评论了Photopea(没有和我联系)，这些文章和视频在过去的8年里让Photopea受到了更多的关注。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2tlqk1gdjj21f208k0tb.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2tlqk1gdjj21f208k0tb.jpg)
 
 自2006年起我便开始通过广告盈利游戏，所以这是一种“众所周知”的盈利策略。这就是谷歌、Facebook和其他公司的主要收入来源。Photopea几乎所有的收入都来自广告。
 
@@ -96,7 +96,7 @@ NotionPet 目前提供了 21 个基础组件，包括动效文字、极简番茄
 
 Photopea.com网站每月被打开1000万次。人们每个月在Photopea上花费150万小时。人们在Photopea.com上每花一个小时，我就可以从这些广告中赚取大约6美分，这样我每个月就可以从广告中赚取大约10万美元。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2tlqjy0snj20li0cxwes.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2tlqjy0snj20li0cxwes.jpg)
 
 我的网络托管每年花费50美元(没有服务器端代码，它只是一个文件托管几个JavaScript文件)。Photopea.com域名的年费为16美元。
 
@@ -112,7 +112,7 @@ Photopea.com网站每月被打开1000万次。人们每个月在Photopea上花�
 
 3、不要让别人告诉你一个主意是好是坏，尤其是当你已经想了好几天/几周/几个月，而他们只考虑了半分钟的时候。除非你尝试过，否则你永远不会知道。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2tlqjn253j21hc0u0wip.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2tlqjn253j21hc0u0wip.jpg)
 
 ### 你克服的最大障碍是什么?
 

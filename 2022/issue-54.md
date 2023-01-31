@@ -14,7 +14,7 @@
 
 使用HTML, Markdown, JavaScript。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h25j0blxxwj21jm0u0gux.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h25j0blxxwj21jm0u0gux.jpg)
 
 [Elevently开源项目地址](https://github.com/11ty/eleventy/)
 
@@ -24,7 +24,7 @@ LosslessCut的目标是成为跨平台FFmpeg GUI，用于对视频、音频、�
 
 LosslessCut是一个开源项目，有10k的Star，基于Electron、FFmpeg实现的跨平台应用
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h25j0dxq64j213c0r1n05.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h25j0dxq64j213c0r1n05.jpg)
 
 [开源代码地址](https://github.com/mifi/lossless-cut)
 
@@ -32,19 +32,19 @@ LosslessCut是一个开源项目，有10k的Star，基于Electron、FFmpeg实现
 
 Synthesia是一个在线的服务，可以基于AI技术帮助您将文本/PPT自动转换为真人出镜的多语种视频。通过合成技术制作培训、教程或产品讲解视频或销售宣传，节省高达90%的时间和预算。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h25j0dquv9j217c0quae2.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h25j0dquv9j217c0quae2.jpg)
 
 [Synthesia官网](https://www.synthesia.io/)
 
 ## 4、如何将SaaS在线产品发展到月收入5.5万美金
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h25j0dkpsxj20b40b4mxu.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h25j0dkpsxj20b40b4mxu.jpg)
 
 嘿! 我叫Christopher Gimmer，是Snappa的联合创始人。Snappa是一款软件即服务(SaaS)应用，帮助非设计师快速创建在线媒体图片。很容易创建应用在社会媒体，广告，博客上的宣传图片!
 
 我们于2015年11月23日正式上线，目前每月收入(MRR)超过5.5万美元。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h25j0df30nj218g0jwtcl.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h25j0df30nj218g0jwtcl.jpg)
 
 **你的故事背景是什么?**
 
@@ -62,7 +62,7 @@ Synthesia是一个在线的服务，可以基于AI技术帮助您将文本/PPT�
 
 既然我们已经有了营销目标，我们就在StockSnap上推广了Snappa 使用一个简单的横幅广告，并将此流量引导到收集用户电子邮件地址的页面。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h25j0d5u0nj215o0hh43r.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h25j0d5u0nj215o0hh43r.jpg)
 
 当我们有几百人选择加入时，我发出了一些调查，并做了15-20个客户电话调研来验证这个想法。当我们确信Snappa是人们想要并且愿意为之付费的东西时，马克开始制作产品原型。
 
@@ -76,7 +76,7 @@ Synthesia是一个在线的服务，可以基于AI技术帮助您将文本/PPT�
 
 经过几个月的努力，我们于2015年7月1日发布了测试版。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h25j0cknvuj218g0o1dkj.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h25j0cknvuj218g0o1dkj.jpg)
 
 在公开(免费)测试期间，我们收集了尽可能多的反馈，并尽可能多地分析用户留存数据。我们很快意识到我们必须在包含预先设计好的模板。正如所期望的，大多数非设计师是在没有模板的情况下进行设计。
 
@@ -108,7 +108,7 @@ Synthesia是一个在线的服务，可以基于AI技术帮助您将文本/PPT�
 
 有一件事做得非常好，那就是为我们的产品创建动图，并在有人从StockSnap下载图片时将其添加到弹出窗口中。它看起来是这样的:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h25j0cdatcj215f0u0q6j.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h25j0cdatcj215f0u0q6j.jpg)
 
 当我上线了弹出窗口，我们的Snappa注册数一夜之间翻了一番。
 
@@ -118,21 +118,21 @@ Synthesia是一个在线的服务，可以基于AI技术帮助您将文本/PPT�
 
 我决定后退一步，看看我们产品的所有场景。例如，你可以使用Snappa创建Facebook封面、Twitter标题、Pinterest等等……然后，我开始将这些不同的关键字输入ahref关键字资源管理器(使用短语匹配)，以获得潜在关键字的列表。我很快意识到有大量的搜索量与我们提供的图片的大小和尺寸有关。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h25j0c6kflj21840nmq6s.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h25j0c6kflj21840nmq6s.jpg)
 
 因此，我整理了一个指南，介绍合适的Twitter标题大小。经过几个月的推广，它开始在谷歌排名第一，并带来了大量的流量。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h25j0c2iaej218g0k30uy.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h25j0c2iaej218g0k30uy.jpg)
 
 随着这篇文章的成功，我们创造了其它类似的文章，即关于Facebook封面大小，YouTube渠道图像大小以及我们在Snappa中所支持的其他大小。
 
 关于这些博客文章最好的部分是它们与我们的产品是相关的。显然，如果有人在搜索Facebook封面的尺寸，他们很有可能需要创建一个Facebook封面!所以为了吸引用户使用我们的产品，我们在产品推出后添加了Call to Action，让他们知道我们已经将Facebook的要求的规范尺寸整合到我们的产品中，他们可以免费创建一个。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h25j0bxawoj213m0mq41u.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h25j0bxawoj213m0mq41u.jpg)
 
 由于Twitter封面图大小的帖子效果很好，我们决定专注于让这些帖子排名，并花了几个月的时间进行推广。所有的努力都得到了回报，你可以从下面的截图中看到，在实施了这个内容策略后，我们的流量显著增加了。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h25j0bsbexj218g0h576k.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h25j0bsbexj218g0h576k.jpg)
 
 今天，我们继续在内容上加倍努力，重点关注那些最有可能将读者转化为注册用户的话题。
 

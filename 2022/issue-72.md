@@ -13,11 +13,11 @@
 
 每天都有成千上万的人制作PowerPoint演示文稿与他们的团队进行交流。多年来，我们一直致力于开发更好的演示软件，使用人工智能自动为你设计幻灯片，但一些团队无法切换平台，只能使用PowerPoint。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4gmn6xj21cc0t4jwj.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4gmn6xj21cc0t4jwj.jpg)
 
 我们的新插件允许构建 Beautiful.ai 幻灯片就在你的PowerPoint工作流程中。这意味着你使用 Beautiful.ai 智能幻灯片技术——而无需离开PowerPoint平台。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4k1iwoj21n50u0gst.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4k1iwoj21n50u0gst.jpg)
 
 我们的插件将为演示文稿创作者节省数百小时的宝贵时间，保持每张幻灯片的品牌，并帮助漂亮的地讲述你的故事。
 
@@ -35,15 +35,15 @@
 
 这是一款 iOS 16 锁屏小组件，可一键启动：健康码 /行程码 /付款码 /快捷指令 /Web Apps/URL Scheme 等，让锁屏界面更强大！
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4jqkwij20zk0hsgnk.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4jqkwij20zk0hsgnk.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4jkojfj21e50u0ae7.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4jkojfj21e50u0ae7.jpg)
 
 作者是国内的开发者，是他的第 3 款业余作品。
 
 发布几天已经到了App Store的总榜No.1
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4ja0grj20ru1kwwk0.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4ja0grj20ru1kwwk0.jpg)
 
 [Locklauncher官网](https://locklauncher.com/)
 
@@ -62,7 +62,7 @@ Tailchat 是一款开源的，面向私域用户打造的即时通讯应用。�
 
 适用场景包括比如：团队协作里的及时沟通聊天，结合任务待办和消息的打通；私欲流量的粉丝沟通管理。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4j15d0j21p00u0gof.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4j15d0j21p00u0gof.jpg)
 
 [Tailchat开源地址](https://github.com/msgbyte/tailchat)
 
@@ -78,11 +78,11 @@ Polywork的创办的原因是，现有的职业网络让我们表达自我的方
 
 为了解决这个问题，去年的第一阶段是推出产品Polywork Pages:一个可以表达你所做的所有事情的地方。在这里有成千上万来自Figma、Airbnb、Snapchat、Github等的专业人士，他们使用Polywork来展示他们所做的工作。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4iv0y1j20za0l4q4q.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4iv0y1j20za0l4q4q.jpg)
 
 今天，我们将介绍我们的多人产品-一个发现合作机会的地方。想和别人一起做副业吗?在播客上讲话?或者和其他产品设计师一起参加一个自行车小组?或者看看Airbnb或谷歌上哪些专业人士对天使投资持开放态度?我们一直在努力构建一种帮助专业人士与任何人在任何事情上联系和合作的体验。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4imn8yj21e50u0ae3.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4imn8yj21e50u0ae3.jpg)
 
 [Polywork官网](https://www.polywork.com/)
 
@@ -103,7 +103,7 @@ Loopcv是一个帮助求职者通过自动化获得3倍面试机会的工具。
 
 我们的年增长率约为15%，我们目前正在改进我们的业务解决方案，以帮助支持求职者的企业!
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4iafgbj20nm0b0gm9.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4iafgbj20nm0b0gm9.jpg)
 
 ### 你是怎么想到这个想法的?
 
@@ -117,7 +117,7 @@ Loopcv是一个帮助求职者通过自动化获得3倍面试机会的工具。
 
 我很快为Loopcv创建了一个登陆页面，并开始在Reddit上分享我的想法。一个登陆页面就收到了数百个注册，人们开始联系我。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4i6jx9j20nm0hamyn.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4i6jx9j20nm0hamyn.jpg)
 
 然后我开始寻找联合创始人来建立这个平台!
 
@@ -127,7 +127,7 @@ Loopcv是一个帮助求职者通过自动化获得3倍面试机会的工具。
 
 当我第一次在Reddit上发布Loopcv时，我意识到对这种服务的需求是巨大的(我收到了数百封电子邮件，人们开始订阅我的登陆页面，那时甚至还没有产品)。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4hxf44j20nm09t0uj.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4hxf44j20nm09t0uj.jpg)
 
 ### 请介绍你的第一个产品的设计、原型和制造过程
 
@@ -141,7 +141,7 @@ Loopcv是一个帮助求职者通过自动化获得3倍面试机会的工具。
 
 现在看起来还不错:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4hthr2j20nm0d8t95.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4hthr2j20nm0d8t95.jpg)
 
 ### 描述下启动业务的过程吧
 
@@ -151,15 +151,15 @@ Loopcv是一个帮助求职者通过自动化获得3倍面试机会的工具。
 
 这是我们当时使用的初始登陆页面:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4hqrqqj20nm0dgmxv.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4hqrqqj20nm0dgmxv.jpg)
 
 这些是我们在一个月后发布的最初产品的截图!我们很快就看到了流量。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4hl3zrj20nm0cwmxs.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4hl3zrj20nm0cwmxs.jpg)
 
 几个月后，我们也获得了天使投资，事情就这样开始变得严肃起来!经过几个月的加速，我们通过一个欧洲竞赛找到了投资者!
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4hi7wfj20nm0cbmxv.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4hi7wfj20nm0cbmxv.jpg)
 
 ### 是什么有效地吸引和留住了客户?
 
@@ -167,14 +167,14 @@ Loopcv是一个帮助求职者通过自动化获得3倍面试机会的工具。
 
 我们也一直在执行反向链接活动，以获得来自高权威网站的反向链接。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4hew2uj20nm0f240d.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4hew2uj20nm0f240d.jpg)
 
 我们还在Appsumo、Dealmirror等不同网站上达成了一些Lifetime协议。这有两个主要的好处:
 
 - 我们很快就赚了很多钱。
 - 许多企业找到了我们，并开始与我们合作，要求对我们的解决方案进行各种定制，以便他们可以将其用于自己的业务案例。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4h950wj20nm0an0td.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4h950wj20nm0an0td.jpg)
 
 为了与我们的客户互动，我们也有多个电子邮件序列，教育我们的客户，并提供关于我们平台的见解。
 
@@ -235,7 +235,7 @@ Loopcv是一个帮助求职者通过自动化获得3倍面试机会的工具。
 
 一个关于"[完成你的工作思考框架](https://www.youtube.com/watch?v=sfGtw2C95Ms)"的视频将帮助你更好地理解你应该如何考虑客户可能需要你的产品
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h67m4h3bk8j218a0lq41d.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h67m4h3bk8j218a0lq41d.jpg)
 
 本次周刊结束，欢迎大家投稿，我们下周见！
 

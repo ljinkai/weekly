@@ -14,7 +14,7 @@ Budibase可以构建和发布单页面应用程序，并且可以响应性地设
 Budibase是开源的，授权为GPL v3。还可以根据你的意愿进行更改，从而提供对开发人员友好的体验。
 Budibase从多个来源获取数据，包括MongoDB、CouchDB、PostgreSQL、MySQL、Airtable、S3、DynamoDB或REST API。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz8qc4annwj312w0jg0ul.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz8qc4annwj312w0jg0ul.jpg)
 
 [Budibase官网](https://budibase.com/)
 
@@ -72,7 +72,7 @@ Budibase从多个来源获取数据，包括MongoDB、CouchDB、PostgreSQL、MyS
 1. Departments-你可以买到的东西(如：鞋子)
 2. Services-你可以使用的服务(如：汽车护理)
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz8qc83zvhj31hi0u00y0.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz8qc83zvhj31hi0u00y0.jpg)
 
 它进一步细分为电视、平板电脑、电脑等。
 
@@ -82,7 +82,7 @@ Budibase从多个来源获取数据，包括MongoDB、CouchDB、PostgreSQL、MyS
 
 点击任何一台笔记本电脑，你就会进入一个专门的产品页面。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz8qc7rc1qj31oi0tgn31.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz8qc7rc1qj31oi0tgn31.jpg)
 
 最后的结构:
 
@@ -101,7 +101,7 @@ Budibase从多个来源获取数据，包括MongoDB、CouchDB、PostgreSQL、MyS
 
 搜索引擎优化的一个经验法则是url应该很短。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz8qc7fbqhj31e90u0td6.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz8qc7fbqhj31e90u0td6.jpg)
 
 所以，不要像这样提到结构的每个阶段:
 
@@ -132,13 +132,13 @@ Walmart只是简单地使用产品名称作!
 DesignJoy的月收入是9万美元。作者是Brett Williams
 ，一个单人设计团队，定价是2500美元/月，和3000美元/月的订阅价格。这是一项非常大胆的业务(支持无限的设计和修改!)。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz8qc72jcpj30wa0jcwh4.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz8qc72jcpj30wa0jcwh4.jpg)
 
 做到100万美元的年收入，只需要30个固定客户，而Brett已经做到了。
 
 当我看到这个帖子的时候，脑袋里充满了问号，这大个是如何做到的呢？
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz8qc6wbd1j30b40b4751.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz8qc6wbd1j30b40b4751.jpg)
 
 今天，Brett运营一家无限设计机构，每周工作50~60小时，每月赚9万美元，没有任何开销，虽然这听起来是不可能的。
 
@@ -146,12 +146,12 @@ Brett在DesignJoy所做的并不是科学，只是一种光荣的自由职业，
 
 经营企业的方法并不单一，Designjoy就是活生生的例子。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz8qc6n4w7j31pu0u0ahm.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz8qc6n4w7j31pu0u0ahm.jpg)
 
 Brett解释说自己如何一个人做到的：
 公司的规模和他们需求的数量之间似乎有某种关联。他们越小，他们的需求就越多。反之亦然。所以，是的，许多客户每月支付2000多美元，但每月使用一到两次服务，这只相当于不到一个小时的工作价值。所以自己可以应对。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz8qc68l63j31h70u07ch.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz8qc68l63j31h70u07ch.jpg)
 
 这个故事证明，有了疯狂的努力和雄心，你可以做到不可能的事。
 
@@ -163,15 +163,15 @@ Brett解释说自己如何一个人做到的：
 
 Sidekiq是一个开源项目，简单、高效的Ruby后台处理。而且基本上是Mike一个人在运营这个项目，而它每个月的收入接近8万美元。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz8qc5mk0mj31se0u0jvv.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz8qc5mk0mj31se0u0jvv.jpg)
 
 我一直告诉自己，我是最不想创业的人，我只是害怕创业，不想雇佣任何人，不想处理会计问题，不想处理税收问题。所以当我创办Sidekiq的时候我说我想要开始收费，我只是做我自己的生意。我甚至没有任何形式的有限责任公司或公司作为一个独立的实体负责销售。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz8qc56f8fj30eq09rjry.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz8qc56f8fj30eq09rjry.jpg)
 
 我是旧金山一家使用大量后台处理的公司的顾问。他们大概有十几台机器在处理这些后台工作。当我意识到他们使用的那套软件时，他们的解决方案的效率是多么的低。我说过，我可以用一台机器，而不是十几台机器，制造出更高效的东西，可以处理所有这些工作，因此，节省了大量的运营费用，因此，对公司来说，真的很有价值。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz8qc4xynlj30ap0apdg3.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz8qc4xynlj30ap0apdg3.jpg)
 
 一旦我意识到这个价值，我就会说，我没有理由不为这个东西收费，或者应该有机会推出企业版的这个东西。我花了大约两个月的时间构建Sidekiq，并在两个月的内部开发后发布了它。它几乎立刻就得到了很好的宣传。
 

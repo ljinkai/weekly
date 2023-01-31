@@ -15,15 +15,15 @@
 
 1、可以后台选择预制模板，录制音频，然后将语音显示在网站上
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzgqtncu4hj20za0l4mzo.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzgqtncu4hj20za0l4mzo.jpg)
 
 2、用户来到网站，可以语音进行交流
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzgqtre09hj20vc0i6dgx.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzgqtre09hj20vc0i6dgx.jpg)
 
 3、一行代码即可嵌入网站
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzgqtr7fk5j20za0l4gnl.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzgqtr7fk5j20za0l4gnl.jpg)
 
 [Voicl官网](https://www.voicl.com/)
 
@@ -31,11 +31,11 @@
 
 嘿!我叫Yonatan，创建一家名为Jiga的公司。我们帮助3D打印客户与制造商连接。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzgqtr331fj20b40b40t9.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzgqtr331fj20b40b40t9.jpg)
 
 我们开发了一个非常酷的定价算法，可以在几秒钟内计算出打印和/或加工3D模型的价格。仅这一点就可以帮助很多消费者获得实时的报价，并比较不同的制造商、技术和材料。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzgqtqxwwuj20u50hu76v.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzgqtqxwwuj20u50hu76v.jpg)
 
 现在，我们每个月大约能从10个订单中获得3000美元的MRR。我们有一些回头客，这对我们来说是最重要的指标。
 
@@ -43,7 +43,7 @@
 
 为了验证这一点，我们购买了域名jiga3.com，添加了一个简单的表单，这个表单带有上传3D模型的选项，上面写着:“制造3D模型的即时报价。”当然，这一切都是手动的。我们给上传带有报价的模型的人手动回复邮件。在我看来，这是一个出色的初始产品验证。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzgqtqm3pqj20s60ieab9.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzgqtqm3pqj20s60ieab9.jpg)
 
 我们让真正的制造商加入到系统中，他们提供给我们他们的定价模型，这样我们的系统就可以根据制造商的规格快速输出报价。今天，我们的网络应用程序上的每一个报价请求都会触发数十个制造商的查询，为客户找到最合适的(在价格、质量或交货时间方面)。
 
@@ -55,7 +55,7 @@
 
 目前，我们主要集中在陌生电话和电子邮件，以验证和完善我们的产品。因为我们每月接的订单很少，所以学习和完善每一个订单的方法是很重要的。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzgqtqfteoj20oj0ieac4.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzgqtqfteoj20oj0ieac4.jpg)
 
 我们的下一个重要里程碑是达到2万美元的MRR，这样我们就可以给自己发一份微薄的薪水。我们的长期目标是成为按需制造领域的顶级在线平台。
 
@@ -63,7 +63,7 @@
 
 每隔一天，我就会看到想要创业的人谈论他们的想法，但实际上却什么都不做。如果你不花时间和汗水去做点什么，你的想法就一文不值。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzgqtq7qauj20px0ie0uh.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzgqtq7qauj20px0ie0uh.jpg)
 
 人们常犯的一个错误是，在没有得到验证的情况下，从一开始就创建一个大的东西。你知道最好的验证是什么吗?利润和回头客。
 
@@ -77,7 +77,7 @@
 
 它的目的是让生成艺术领域更容易被任何人接触。有了这个工具，你不需要成为一个程序员来创建生成艺术NFT图片。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzgqtpssa2j20zk0k0n1k.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzgqtpssa2j20zk0k0n1k.jpg)
 
 [NFT艺术品图片生成开源代码](https://github.com/NotLuksus/nft-art-generator)
 
@@ -85,25 +85,25 @@
 
 1、每天的工作 vs 有热情的工作
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzgqtp74cbj20u10u0dhk.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzgqtp74cbj20u10u0dhk.jpg)
 
 2、问题 && 解决方案 = 最小化原型
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzgqtoh64hj20u10u00tv.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzgqtoh64hj20u10u00tv.jpg)
 
 ## 5、Screenshotapi: 将爱好变成一个能赚钱的副业产品
 
 我叫Dirk Hoekstra。我在阿姆斯特丹做软件开发。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzgqto6wz5j20b40b4mxu.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzgqto6wz5j20b40b4mxu.jpg)
 
 在过去的几个月里，我一直在利用业余时间开发screenshotapi.net。Screenshotapi是一个允许开发者通过一个简单的API调用来截屏网站的工具。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzgqto119hj20sp0l40u7.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzgqto119hj20sp0l40u7.jpg)
 
 这个工具目前拥有20个活跃的付费用户，每个月的收益约为400美元。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzgqtnuupwj20og0iet9m.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzgqtnuupwj20og0iet9m.jpg)
 
 这一切都始于我的个人爱好项目。我当时想创建一个新闻文章目录，显示所有编入索引的新闻文章的截图。这意味着我需要将网站截屏。
 
@@ -119,11 +119,11 @@
 
 然后我只是做了同样的事情，似乎对他们有用。大多数反向链接没有产生流量，但我认为它们对搜索引擎优化有一定的价值。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzgqtnqcjbj21bu0gwq4r.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzgqtnqcjbj21bu0gwq4r.jpg)
 
 真正对我有用的是谷歌广告。我现在每个月花100美元在谷歌的“截图API”关键字上。到目前为止，20个付费用户中有13个来自付费谷歌广告。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gzgqtniz8nj21400rmtal.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1gzgqtniz8nj21400rmtal.jpg)
 
 我还在想办法解决这些问题。但我的策略仍然是观察竞争对手在做什么，并进行试验，看看这是否也适用于我。
 

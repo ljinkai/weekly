@@ -13,11 +13,11 @@
 
 一个服务于 Notion 类产品、双链笔记类产品、代码托管平台「GitHub 等」、博客系统「WordPress」以及为知笔记等文本编辑器的可嵌入式小组件库。辅助用户建立个性化、可视化的仪表盘或者知识库的工具。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyosup96j30v10k3myz.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyosup96j30v10k3myz.jpg)
 
 目前已经有接近 40 个基础组件。包括基础组件、动态图标、动态背景、可视化图表、Notion 汉化 等多种服务，可以为笔记用户提供适用于时间管理、任务管理、资讯管理、习惯养成、学习等多种使用场景的解决方案。比如，在基础组件中包括天气、时钟、番茄钟、倒计时、日历、纪念日、习惯打卡、访客统计、白噪音、热力图、微博热搜、百度统计埋点等多种类型等小组件。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyosqvgcj31wg0q6q7t.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyosqvgcj31wg0q6q7t.jpg)
 
 [组件世界官网体验](https://cn.widgetstore.net/)
 
@@ -31,15 +31,15 @@
 
 1、通过 XPath、JavaScript、CSS Selector 三种方式来选择区域。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyosl0ekj31rh0u0jw1.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyosl0ekj31rh0u0jw1.jpg)
 
 2、可以设定条件
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyosfjvzj31wi0lsaco.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyosfjvzj31wi0lsaco.jpg)
 
 3、将变化通知到各个端，还集成了第三方的平台，Slack和Discord的集成。webhook与任何其他平台集成。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyosbdirj30v40gawga.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyosbdirj30v40gawga.jpg)
 
 [Distill官网](https://distill.io/)
 
@@ -61,7 +61,7 @@
 
 - 设置自定义每日摄入量目标
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyos7ac6j31tc0q60wc.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyos7ac6j31tc0q60wc.jpg)
 
 [Water Hero的谷歌应用商店](https://play.google.com/store/apps/details?id=ro.holdone.waterly)
 
@@ -70,7 +70,7 @@
 guidde是让创建工作流教程视频更简单。这是一个浏览器扩展插件，不需要设计或视频编辑技能。任何人都可以创建漂亮的软件如何制作视频，这些视频可以在60秒或更短的时间内传递你想要传递的信息的主旨。
 在你的流程中发现你的团队创建的视频，而不离开你当前使用的工具。重复使用和回收视频可以节省你大量的时间。你甚至可以一起编辑和设计视频! 
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyoryvj1j31tw0q80wz.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyoryvj1j31tw0q80wz.jpg)
 
 
 
@@ -82,11 +82,11 @@ guidde是让创建工作流教程视频更简单。这是一个浏览器扩展�
 
 我们的客户是那些花太多时间在社交媒体上的人，他们希望改善他们耗时的模式。这尤其适用于那些想要提高工作效率、戒掉社交媒体/智能手机瘾的人。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyort1gej30nm0da75o.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyort1gej30nm0da75o.jpg)
 
 最初的投资只有100美元用于谷歌Play开发者许可，3000美元开发了一个主页，从这些投资中，我们现在平均每月产生2万美元的收入 —— 大部分收入又花在了付费广告上。我们在谷歌Play上的下载量很快就会达到50万次，这是一个了不起的里程碑。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyorol2pj30rk0rqjtm.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyorol2pj30rk0rqjtm.jpg)
 
 ### 你是怎么想到这个想法的?
 
@@ -96,7 +96,7 @@ guidde是让创建工作流教程视频更简单。这是一个浏览器扩展�
 
 因为我有了很多新的空闲时间，所以我一直在玩智能手机。我注意到这很耗时——你很容易失去注意力。手机本质上是在重新训练我们的大脑:当你受到参与(点赞、评论等)的“奖励”时，会释放出化学物质(比如多巴胺)，手机正在影响我们的感知能力、表现和生产力。我最终找到了一份新工作，但这段经历决定了我如何看待花在手机上的“dead time”。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyorhow4j30nm0xstag.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyorhow4j30nm0xstag.jpg)
 
 在意识到社交媒体消费带来的所有这些问题后，我决定要解决这个问题。我喜欢编程，我想把这种热情和一些有用的东西联系起来一些可以帮助社会的东西。这时，minimalist phone的想法诞生了。
 
@@ -116,9 +116,9 @@ guidde是让创建工作流教程视频更简单。这是一个浏览器扩展�
 - 你认为你花在手机上的时间太多了吗?
 - 你认为像这样的主屏幕能帮助你花更少的时间在手机上吗?
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyord3qtj30nm0vi3zn.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyord3qtj30nm0vi3zn.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyor8lrmj30nm0vhq6r.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyor8lrmj30nm0vhq6r.jpg)
 
 在这些截图中，你还可以看到一些从未投入生产的minimalist phone的替代设计。
 
@@ -130,7 +130,7 @@ guidde是让创建工作流教程视频更简单。这是一个浏览器扩展�
 
 为了不分散人们的注意力，这款应用完全没有广告。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyoqypjtj30nm0crab5.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyoqypjtj30nm0crab5.jpg)
 
 ### 描述下启动业务的过程。
 
@@ -142,7 +142,7 @@ guidde是让创建工作流教程视频更简单。这是一个浏览器扩展�
 
 有一个专业的网站是必要的。虽然我是一名软件工程师和网页开发人员，但我把这项任务交给了来自乌克兰的专业设计师。他们做了很棒的工作!网站项目的价格大约是3000美元。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyoqt0roj31220rsag3.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyoqt0roj31220rsag3.jpg)
 
 ### 是什么有效地吸引和留住了客户?
 
@@ -152,7 +152,7 @@ guidde是让创建工作流教程视频更简单。这是一个浏览器扩展�
 
 我们还在社交媒体平台上建立社区，比如Reddit、Instagram和Twitter，这里仅举几个例子。谷歌Play的评论、奖状和投票都是有价值的营销工具。我们与有影响力的人和youtuber合作，使用联属营销，创造我们自己的内容和新闻稿等。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyoqid9qj30nm0fqq4a.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyoqid9qj30nm0fqq4a.jpg)
 
 我们接受了几次采访。除此之外，我们在维基百科上也有一篇文章，一个免费的百科全书。
 
@@ -160,7 +160,7 @@ guidde是让创建工作流教程视频更简单。这是一个浏览器扩展�
 
 我们自己管理了半年的活动，活动进行得还不错——略有盈利，但他们的支出不足以产生显著的影响。随着时间的推移，我们意识到建立和维护一个活动是一个非常复杂的话题，额外的经验可能会带来很大的不同。我们已经决定寻找外部广告活动管理，我们已经与爱沙尼亚数字营销机构epc Digital签约。在8个月内，谷歌广告支出增长了29倍，收入增长了15倍，总ROAS(广告支出回报率)达到200%。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyoqdidcj30nm0k3wfg.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyoqdidcj30nm0k3wfg.jpg)
 
 ### 你未来的机会是什么样的?
 
@@ -174,13 +174,13 @@ guidde是让创建工作流教程视频更简单。这是一个浏览器扩展�
 
 没有其他产品的计划。我认为这将分散我们发现该产品的全部潜力的注意力。我们正在新的国家开展宣传活动。目前，我们主要瞄准北美和欧洲市场。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyoq9hacj30nm0ayaau.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyoq9hacj30nm0ayaau.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyoq4avjj30nm0fq404.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyoq4avjj30nm0fq404.jpg)
 
 ### 对其他想要起步或刚刚起步的开发者有什么建议?
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8fyopupbsj31920u0tg1.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8fyopupbsj31920u0tg1.jpg)
 
 对于启动项目，确保你有足够的时间来完成你的想法，并且你尝试它的“窗口”不会太短。例如，如果你辞职去实现自己的想法，但只有12个月的储蓄，那么你可能需要超过12个月的时间才能实现盈利。minimalist phone手机，它花了24个月才实现盈利。
 

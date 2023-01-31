@@ -26,7 +26,7 @@ Coffee是一个Mac上的一个菜单扩展应用。大约一年前，我的朋�
 
 我们将这款应用程序命名为Coffee，因为泡一杯咖啡是开启我们工作日的一种仪式。开始计时也是如此。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8njxp4cp7j31j30u0wj2.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8njxp4cp7j31j30u0wj2.jpg)
 
 [Coffee官网](https://trycoffee.co/)
 
@@ -38,7 +38,7 @@ Coffee是一个Mac上的一个菜单扩展应用。大约一年前，我的朋�
 
 作者经营的一些网站和产品的访问量越来越高，付出的 cdn 流量成本（主要是图片资源）也越来越大。抱着节省成本的想法，开始尝试在网络上找下有没有便宜的 cdn 商家。然而，并没有找打合适的解决方案，开始着手自己做。思路就是把各地的闲置机器组织起来，把它们当成一个个节点，组建起一个分布式网络，自动容灾切换，就达到一个廉价的自建 cdn 方案。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8njxsd4rgj31s60u0tf3.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8njxsd4rgj31s60u0tf3.jpg)
 
 [大风云官网](https://www.dfyun.com.cn/)
 
@@ -69,7 +69,7 @@ Baserow结合了Airtable的一些优秀特性:
 - 自我主机通过Docker，在Heroku，在Cloudron等。
 - 集成:Zapier, Make和n8n。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8njxs67fyj31e80u079g.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8njxs67fyj31e80u079g.jpg)
 
 [baserow官网](https://baserow.io/)
 
@@ -83,7 +83,7 @@ Baserow结合了Airtable的一些优秀特性:
 - 👥 与你的队友合作并分享;
 - 🧑‍ 自助服务RESTful API。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8njxry881j314k0u0q5e.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8njxry881j314k0u0q5e.jpg)
 
 [开源代码地址](https://github.com/usememos/memos)
 
@@ -91,13 +91,13 @@ Baserow结合了Airtable的一些优秀特性:
 
 我的名字是Dmytro Serhiiev，是PDFLiner的联合创始人。我们的使命是为客户提供电子文档管理。PDFLiner是一个处理PDF文件(创建和编辑文件、添加电子签名、填写表单)、安全共享文档系统(文档共享、锁定和解锁PDF)和电子文档管理系统(云存储、表单目录、PDF转换)的平台。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8njxrd44wj30lu0m0mzp.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8njxrd44wj30lu0m0mzp.jpg)
 
 我们的许多主要客户是美国的纳税人，他们使用该平台的即填式税务表格，以电子方式快速填写和签署文件。
 
 我在2020年6月推出了PDFLiner。在2021年达到了1万美元的月收入，现在我们的月收入超过了4万美元，年收入有望达到50万美元。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8njxr6srwj30nm0dn0ub.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8njxr6srwj30nm0dn0ub.jpg)
 
 ### 你是怎么想到这个想法的?
 
@@ -106,7 +106,7 @@ Baserow结合了Airtable的一些优秀特性:
 
 在与合作伙伴合作时，我们经常遇到文档管理服务和数字签名。这就是我们如何有了创建这个项目的想法。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8njxr2ue7j31my0t6dj8.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8njxr2ue7j31my0t6dj8.jpg)
 
 在某个时刻，我们意识到现有的PDF软件用户体验不够友好。我们的团队通过移除所有无用的功能并专注于用户体验而解决了这一问题。
 
@@ -136,13 +136,13 @@ Baserow结合了Airtable的一些优秀特性:
 
 在测试MVP时，我们意识到一些功能使用户的工作复杂化，分散了他们的注意力，所以我们通过改进和减少一些功能来确定我们的功能。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8njxqnkg3j31800o244d.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8njxqnkg3j31800o244d.jpg)
 
 我们在MVP阶段拒绝创建的功能之一是文本识别(OCR)。因为我们意识到这是一个复杂的技术过程，需要更多的资源来实现。但将来再考虑发展OCR能力。
 
 我们暂停的另一个功能是制作不同的格式转换器。我们拒绝这个想法的原因很简单:这偏离了我们的商业模式。此外，市场上有许多免费的文件转换解决方案。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8njxq1pa1j318g0nwdlb.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8njxq1pa1j318g0nwdlb.jpg)
 
 简单地说，在MVP阶段，我们决定专注于填写文件和电子签名。
 
@@ -150,7 +150,7 @@ Baserow结合了Airtable的一些优秀特性:
 
 在开始产品开发之前，我们对竞争对手进行了技术分析，并分析了对某些功能的需求，以决定如何创建一个产品。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8njxpvubgj31oj0u00zp.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8njxpvubgj31oj0u00zp.jpg)
 
 开发的技术栈后端使用PHP，前端开发使用React和NodeJS。
 
@@ -172,7 +172,7 @@ outbound是指我们接触尽可能多的外部人员。我们以三种不同的
 
 以下是我们发送给潜在测试者的邮件模板:
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8njxpnovtj30nm08ddgb.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8njxpnovtj30nm08ddgb.jpg)
 
 为了激励人们成为beta测试者，我们为他们提供了PDFLiner的免费赠送。
 
@@ -180,7 +180,7 @@ outbound是指我们接触尽可能多的外部人员。我们以三种不同的
 
 我们的第一个网站和产品设计是这样的:
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8njxpk3cdj30nm0cg75c.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8njxpk3cdj30nm0cg75c.jpg)
 
 ### 是什么有效地吸引和留住了客户?
 
@@ -200,7 +200,7 @@ outbound是指我们接触尽可能多的外部人员。我们以三种不同的
 
 最后，我们得到了许多关于合作的回复，如赞助内容、链接交换和嘉宾发帖。这就是我们生成反向链接的方式。我们得到了一些有趣的链接:
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8njxpf82mj30nm0b43zr.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8njxpf82mj30nm0b43zr.jpg)
 
 2.电子邮件营销
 
@@ -208,7 +208,7 @@ outbound是指我们接触尽可能多的外部人员。我们以三种不同的
 
 以下是我们最近发布的一个活动截图:
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8njxpcagwj30nm0cvt9l.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8njxpcagwj30nm0cvt9l.jpg)
 
 3.付费广告
 
@@ -225,7 +225,7 @@ outbound是指我们接触尽可能多的外部人员。我们以三种不同的
 
 PDFLiner受到超过5万名用户的信任，它在G2Crowd上也获得了5/5的评分，这使PDFLiner在G2Crowd上的评价排名前五。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h8njxp8zqmj30nm0dnjt0.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h8njxp8zqmj30nm0dnjt0.jpg)
 
 ### 你学到了什么特别有用或有益的东西吗?
 

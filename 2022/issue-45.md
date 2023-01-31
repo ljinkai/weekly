@@ -15,9 +15,9 @@
 
 它也非常强大，例如，您可以使用自然语言输入来调度tweets和Thread。点击Schedule按钮后，写上“3小时后”或“明天下午4点”或“12月6日”，系统会处理的。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h055lzfmsqj211o0l4jvb.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h055lzfmsqj211o0l4jvb.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h055m3fduzj21ls0rmtcq.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h055m3fduzj21ls0rmtcq.jpg)
 
 [Typefully 官网](https://typefully.com/)
 
@@ -27,16 +27,16 @@
 
 可以做阅读下的标注
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h055m370z5j20op05j74t.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h055m370z5j20op05j74t.jpg)
 
 一旦页面的标注越来越多，就出现了管理的问题，简悦的做法是使用**标注侧栏**
 来统一管理当前页面的全部标注。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h055m3101qj20tw0qsae3.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h055m3101qj20tw0qsae3.jpg)
 
 可以实现仅将标注发送到简悦支持的各种生产力工具，将内容放到稍后阅读中。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h055m2vianj20v40kadhj.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h055m2vianj20v40kadhj.jpg)
 
 [简悦官网](https://simpread.pro/)
 
@@ -58,7 +58,7 @@
 
 你可以使用你的3种颜色的变化。例如，当我使用黑色时，我确实使用了一些灰色。但我很少在设计中引入超过3种完全不同的颜色。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h055m2q5yqj212w0lv40d.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h055m2q5yqj212w0lv40d.jpg)
 
 2. 只用一种字体
 
@@ -70,7 +70,7 @@
 
 超级重要!你必须选择高质量的字体。它必须适合长文本。例如你的博客文章。我建议使用经典字体，如Helvetica和Poppins。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h055m293f4j212w0lv40i.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h055m293f4j212w0lv40i.jpg)
 
 3.让一切模块化
 
@@ -81,7 +81,7 @@
 我所说的模块化设计，是指你创建的每个元素都应该是独立的。
 无论何时布局页面元素，都要使用独立的、独立的模块。你的设计将如何垂直和水平弯曲。以及它们是如何叠加在一起的。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h055m2008mj212w0lvtb4.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h055m2008mj212w0lvtb4.jpg)
 
 4. 使用高质量的图片
 
@@ -92,7 +92,7 @@
 我见过一些很棒的网站因为糟糕的图片而失败。
 你也不必花一大笔钱。不要在图像上花钱! 有一些很棒的免费摄影网站。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h055m1pwggj212w0lv44k.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h055m1pwggj212w0lv44k.jpg)
 
 5. 在你的图像中使用主色调
 
@@ -102,7 +102,7 @@
 
 你可能需要编辑你的图片，将你的主色调融入其中。理想情况下，应该是完全一样的颜色。或者越接近越好。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h055m1f1afj212w0lvwh3.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h055m1f1afj212w0lvwh3.jpg)
 
 总结一下，我知道其中一些框架是有限制性的。这就是它们的魅力所在! 鼓励创造力的限制。
 
@@ -112,13 +112,13 @@
 
 ## 4、Widdebundle: 我的Shopify App 每月赚25,000美元。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h055m15y0nj20b40b43z0.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h055m15y0nj20b40b43z0.jpg)
 
 在这之前，我创建了3个Shopify应用程序，赚了0美元。
 
 下面是我用来开始赚钱的5个秘诀。你可以将其应用于任何SaaS! 没有开玩笑!
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h055m10hasj21to0r4aen.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h055m10hasj21to0r4aen.jpg)
 
 秘诀1:找个真正的问题。
 
@@ -158,7 +158,7 @@
 
 我叫Easlo，今年20岁，通过创建和在线销售Notion模板，11个月的时间赚了6万美金。下面就是整个的过程
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h055m0qnbpj20wi0i275j.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h055m0qnbpj20wi0i275j.jpg)
 
 1、学习Notion的高级特性
 
@@ -166,7 +166,7 @@ Notion不仅仅是一个笔记应用程序。它有高级过滤器，数据库�
 
 这些都可以在YouTube上免费学习。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h055m0kco4j21sn0u00wr.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h055m0kco4j21sn0u00wr.jpg)
 
 2、构建你的影响力
 
@@ -174,7 +174,7 @@ Notion不仅仅是一个笔记应用程序。它有高级过滤器，数据库�
 
 学习，分享和讨论一切概念，成为一个积极的社区成员。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h055m09pc6j20wo0qemzg.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h055m09pc6j20wo0qemzg.jpg)
 
 3、解决自己的问题
 
@@ -184,7 +184,7 @@ Notion不仅仅是一个笔记应用程序。它有高级过滤器，数据库�
 
 与社区分享你的初稿，寻求反馈，并为你的不确定进行投票。公开自己的构建，将有助于建立你自己热爱的事情的社区。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h055m02zw9j217o0rejum.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h055m02zw9j217o0rejum.jpg)
 
 5、先予后取
 
@@ -198,7 +198,7 @@ Notion不仅仅是一个笔记应用程序。它有高级过滤器，数据库�
 
 熟悉了Notion和更高的知识，你可以开始创建Dashboard，以将其定价，并向你以前的客户或粉丝。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h055lzsncnj21b80u0gp4.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24egy1h055lzsncnj21b80u0gp4.jpg)
 
 还有几个结论:
 •在一个拥挤的市场中，从小众化开始

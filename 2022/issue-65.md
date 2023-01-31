@@ -15,7 +15,7 @@
 - 同步笔记和亮点与您最喜欢的笔记应用程序
 - 不需要越狱
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4mzf1cbg7j21pg0u0dmc.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4mzf1cbg7j21pg0u0dmc.jpg)
 
 [ktool官网](https://ktool.io/)
 
@@ -24,9 +24,9 @@
 是一个开源免费的电子书阅读器，支持多达15种主流电子书格式， 内置笔记，高亮，翻译功能，助力高效书籍阅读和学习。具有Windows, macOS, Linux和Web的跨平台同步和备份能力。
 开源代码，基于React和Electron的实现，有丰富的文档说明，也有中文翻译版本。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4mzf4oko7j21cn0u07ax.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4mzf4oko7j21cn0u07ax.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4mzf4h0nzj21cn0u0th3.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4mzf4h0nzj21cn0u0th3.jpg)
 
 [Koodo Reader开源代码地址](https://github.com/troyeguo/koodo-reader)
 
@@ -34,7 +34,7 @@
 
 嗨，我是Bruno, RMRK的创始人，RMRK是一套先进的NFT标准，它独特地使去中心化世界成为可能。一年半以前，我们的旅程开始于一个人的爱好，现在已经是一个18人的公司。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4mzf477uzj20rc0r679y.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4mzf477uzj20rc0r679y.jpg)
 
 我们为下一代NFT用户建立基础设施——不仅仅是图像和静态媒体，他们还会在此基础上构建整个系统和游戏，能够抵御审查和宕机。
 
@@ -42,27 +42,27 @@
 
 目前，我们每个月的版税收入在5万至15万之间，尽管市场处于熊市，且这是一个非常利基的区块链生态系统(Polkadot)中的一个非常利基的行业。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4mzf3zkouj20nm07vdhf.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4mzf3zkouj20nm07vdhf.jpg)
 
 ### **业务一直在增长吗?**
 
 在过去的一年半,我们从零增加到18人,我们的用户铸造了100000个NFTs.
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4mzf3w01wj20xc0hfq3l.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4mzf3w01wj20xc0hfq3l.jpg)
 
 我们的销量一直在波动，这取决于我们发布的内容、时间，以及基于我们技术发布的合作伙伴，但在过去一年里，我们以平均200美元/ KSM的价格创造了50万KSM的销量，这使得一款新兴利基产品一年的销量达到了1亿美元左右。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4mzf3sxmsj20nm0760tf.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4mzf3sxmsj20nm0760tf.jpg)
 
 我们启动了重新造林项目Moonglade，世界上第一个可组合的NFT PFP项目Mushroomtopia，甚至开始建设世界上第一个去中心化的元宇宙——Skybreach，在那里人们可以购买的虚拟土地,一个实际的NFT，可以包含建设NFT，虚拟NFT，以及更多，并完全在社区的控制下。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4mzf3lpo3j21rp0u01df.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4mzf3lpo3j21rp0u01df.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4mzf3cvn0j20nm07aaaq.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4mzf3cvn0j20nm07aaaq.jpg)
 
 抽象了许多这些问题的解决方案，我们甚至开始了最新的项目——CypherMOD SDK——它将允许任何人在几次点击中启动这些复杂的东西。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4mzf39cjgj21rb0u0h1a.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4mzf39cjgj21rb0u0h1a.jpg)
 
 简而言之，发布速度并没有放缓，我们致力于让web3世界变得更好。
 
@@ -72,7 +72,7 @@
 
 我们尝试了各种营销方法，但差距是很严重的。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4mzf2rbtwj20qk0qsdii.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4mzf2rbtwj20qk0qsdii.jpg)
 
 第二大挑战是试图不让自己成为整个项目的薄弱点。管理一个团队，其中的每个人都不像我这样对同一件事充满热情，这在心理上和精神上也是困难的。
 
@@ -92,7 +92,7 @@
 
 我确实理解这听起来有点消极，所以请相信我说，总的来说，这仍然是一个积极的体验——尽管有困难，但这段旅程带来了许多成长、许多友谊和许多令人惊叹的技术，我为我们不可思议的团队感到无比自豪。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4mzf2fkw6j20nm0dajud.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4mzf2fkw6j20nm0dajud.jpg)
 
 ### **接下来的一年和5年有什么计划?**
 
@@ -104,7 +104,7 @@
 使用RMRK多链技术和CypherMOD SDK构建和部署世界上唯一的去中心化元宇宙- Skybreach。
 这一切都将在未来三年内完成，届时我希望不再掌管公司，并期待着与我的女儿一起在大自然中攀岩。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4mzf1zynvj20uc0rw0wg.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4mzf1zynvj20uc0rw0wg.jpg)
 
 ### **对其他正在为发展业务而苦苦挣扎的创业者有什么建议吗?**
 

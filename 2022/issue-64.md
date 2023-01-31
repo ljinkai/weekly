@@ -17,7 +17,7 @@ Clientdb是一个内存的数据库，它负责将更新同步到云和所有其
 
 这是一个开源项目，可以从Github上了解更多细节。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4e9bhvd42j21400mi0vz.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4e9bhvd42j21400mi0vz.jpg)
 
 [Clientdb官网](https://clientdb.dev/)
 
@@ -36,7 +36,7 @@ Clientdb是一个内存的数据库，它负责将更新同步到云和所有其
 9、每次完成任务的时候，记得为自己骄傲一下。
 10、多喝水
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4e9bk23g1j20yz0u0whu.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4e9bk23g1j20yz0u0whu.jpg)
 
 这个网站的作者的目前其实是推广他的一个习惯养成类的产品，也很有意思，下一个详细介绍。
 
@@ -46,15 +46,15 @@ Clientdb是一个内存的数据库，它负责将更新同步到云和所有其
 
 1、每天完成目标，获取奖励
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4e9bjxfmsj21m60ow0vf.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4e9bjxfmsj21m60ow0vf.jpg)
 
 2、种植一个美妙的花园，你的坚持会得到花园鲜花的回报。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4e9bjseurj21ne0oy776.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4e9bjseurj21ne0oy776.jpg)
 
 3、关注你的朋友，看看他们的习惯，互相激励，争夺每周排行榜!
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4e9bjn2cyj21mg0p4dj1.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4e9bjn2cyj21mg0p4dj1.jpg)
 
 [habitsgarden官网](https://habitsgarden.com/)
 
@@ -62,9 +62,9 @@ Clientdb是一个内存的数据库，它负责将更新同步到云和所有其
 
 壹树，江湖人称树哥，我认识的一位独立开发者，主要做海外市场的产品，有丰富的出海产品经验。实干、有货。最近在他的出海研习社群里，已经180+用户，刚进群几天，每天都能了解一些有价值的内容，也非常活跃。如果有想做出海产品的同学可以考虑加入他的产品社群。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4e9bjgdgfj20u00lmq66.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4e9bjgdgfj20u00lmq66.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4e9bjbjfpj215g0kewgv.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4e9bjbjfpj215g0kewgv.jpg)
 
 这里留下树哥的微信：shuhankuang ，请备注“变现周刊”，更容易通过。
 
@@ -78,37 +78,37 @@ Clientdb是一个内存的数据库，它负责将更新同步到云和所有其
 
 2013年，iOS的“越狱日”如火如荼。受此启发，我在Cydia商店以0.99美元的价格创造并出售了一套名为“Greyish HD”的图标。这是我在网上赚的第一笔钱。我想我总共赚了17美元，太神奇了。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4e9bj6j0bj21we0t8gqg.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4e9bj6j0bj21we0t8gqg.jpg)
 
 显然，这是我应得的。我花时间创造一些我认为很酷的东西，发布到网上。几天后，我从未见过的陌生人决定把他们辛苦赚来的钱花在我的图标集上。我发现了数字内容的影响力:用足够的努力创造一些东西，然后可以反复的出售它。
 
 7年之后，6天内我创造了一些让自己吃惊的东西。我看到一些人分享了他们iphone的截图，因为iOS 14 允许你在主屏幕上添加自定义图标。这是你第一次真正的自定义iOS，而且它正在变的流行起来。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4e9bj01lwj20xc0h7gmx.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4e9bj01lwj20xc0h7gmx.jpg)
 
 这是人们在越狱iOS和Android设备上多年来一直在做的事情，除了这次，你可以在iOS上(某种程度上)进行原生操作。
 
 我一注意到这些宣传，就把一些自己风格的图标放在一起，并进行了尝试。我觉得它看起来很酷，所以我在推特上分享了它的截图。很快，人们开始询问截图中的图标。所以我迅速将它们打包，上传到Gumroad，然后用Super建站工具快速生成了一个网站，整个过程花了大约两个小时。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4e9biw5i9j20r80p640g.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4e9biw5i9j20r80p640g.jpg)
 
 第二天，这条推文获得了数百次转发、数千个赞和超过10万次的浏览。之后的一天，将近一百万。等我回过神来，它变的到处都是。我的图标出现在Uncrate、Cult of Mac、iMore、9to5Mac、Creative Bloq等知名科技网站上。那时我的销售额大约是6000美元。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4e9bippv4j21860tcn0x.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4e9bippv4j21860tcn0x.jpg)
 
 然后, MKBHD 超级Youtuber，他分享了一段视频——用我的图标来设置他的手机，并在描述中链接了我的图标。接下来我知道的是，我好像每28秒就赚28美元。付费通知一直在响，我的手机几乎变成了震动模式，我不得不关闭通知。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4e9biiqwhj21820skjuz.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4e9biiqwhj21820skjuz.jpg)
 
 次日，销售额从6000美元跃升至约4万美元，4188名客户的销售额为11.6147万美元。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4e9bi9g3nj20qq0tuaco.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4e9bi9g3nj20qq0tuaco.jpg)
 
 所有这些都源自一条: 推特。
 
 正确的内容，在正确的时间发布，可以创造难以想象的结果。虽然说有运气的成分，但有几个关键的点增加了我的机会。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4e9bi4ftwj20xc0h7gmx.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4e9bi4ftwj20xc0h7gmx.jpg)
 
 1、经常发布
 不断地把你创作的东西展示给世界。你现在所处的位置和你想要达到的位置之间的区别可能只是分享你所建立的东西，甚至是你所知道的东西。

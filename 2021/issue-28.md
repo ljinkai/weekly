@@ -13,7 +13,7 @@
 
 heurio这个产品是一年前开始做的。通过浏览器插件实现在线评审，后台查看系统可以对相应的内容做查看。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwbjrd0e5pj30hn0akmxt.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwbjrd0e5pj30hn0akmxt.jpg)
 
 👨‍ heurio团队认为做网站评论和与其它团队的协作是复杂的，对于这个过程没有真正的解决方案。来回的邮件和聊天，丢失的屏幕截图，没有任何上下文的更改请求……
 
@@ -35,7 +35,7 @@ heurio这个产品是一年前开始做的。通过浏览器插件实现在线�
 
 ✅ 获取用户反馈等等。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwbjrg4xj7j30v70eodh0.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwbjrg4xj7j30v70eodh0.jpg)
 
 [heurio官网](https://www.heurio.co/)
 
@@ -45,11 +45,11 @@ heurio这个产品是一年前开始做的。通过浏览器插件实现在线�
 
 我在4月份发布了我的第一款付费产品：thegaragestudio。一个提供一些Nocode方式创建MVP想法和报告的网站。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwbjrfuf1tj315j0u077p.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwbjrfuf1tj315j0u077p.jpg)
 
 那时我只有281个粉丝，但我还是卖出了第一批货。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwbjrfmlkvj30xc0irmyy.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwbjrfmlkvj30xc0irmyy.jpg)
 
 1、四月 : 验证产品
 
@@ -93,7 +93,7 @@ heurio这个产品是一年前开始做的。通过浏览器插件实现在线�
 
 结果：$441
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwbjrfgsysj30xc0irt9w.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwbjrfgsysj30xc0irt9w.jpg)
 
 我每天花3个小时赚了2400美元:
 
@@ -109,7 +109,7 @@ heurio这个产品是一年前开始做的。通过浏览器插件实现在线�
 
 Handsontable是一个JavaScript组件，它结合了数据网格特性和类似电子表格的用户体验。Marcin是Handsontable的创始人，最初是一个开源项目，现在是一个19人的公司。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwbjrf5p2uj31r50u0ak1.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwbjrf5p2uj31r50u0ak1.jpg)
 
 **你是如何想出这个成功的产品创意的?**
 
@@ -119,7 +119,7 @@ Handsontable是一个JavaScript组件，它结合了数据网格特性和类似�
 
 所以，我的想法是把这两个世界连接起来。我做了一个最有价值的工具，它有分屏体验。在屏幕的一边，有一个类似Excel的数据网格组件(今天称为Handsontable)，而在屏幕的另一部分，您可以看到自动生成的图表。我的潜在用户会将数据从Excel粘贴到Handsontable，甚至直接在Handsontable中输入，得到一个漂亮的交互式图表，可以嵌入任何网站。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwbjrev2fkj31890u0tdd.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwbjrev2fkj31890u0tdd.jpg)
 
 当我把它放到GitHub上时，Handsontable得到了一些最初的关注。就许可而言，我选择了MIT的许可。多亏了GitHub和Hacker News，我的MVP有了自己的生命。开源确实挽救了这个项目;第一批信徒告诉我，它解决的问题比我想象的要多。
 
@@ -137,7 +137,7 @@ Handsontable是一个JavaScript组件，它结合了数据网格特性和类似�
 
 **Handsontable成功的最大障碍是什么?**
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwbjreao7ej31de0u0jw0.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwbjreao7ej31de0u0jw0.jpg)
 
 虽然我们是完全开源的，但公司并没有明确的方向。我们只是在回应我们收到的询问。如果客户希望我们做什么，我们就做什么。对于我们是否真的想要长期维持的反思来得太晚。
 
@@ -151,13 +151,13 @@ Handsontable是一个JavaScript组件，它结合了数据网格特性和类似�
 
 1、利用占位符文本为常见输入使用预定义的值来指导用户并限制错误的输入源(如添加国家代码)。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwbjrdwz5ij30xc0irab0.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwbjrdwz5ij30xc0irab0.jpg)
 
 **2、让你的UI卡片看起来是可点击的**
 
 许多卡片忽略了CTA按钮，只依靠用户的想象或悬浮效果，使用可操作按钮来提示用户操作。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwbjrdraooj30xc0irjsh.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwbjrdraooj30xc0irjsh.jpg)
 
 **3、始终突出你的最佳定价方案**
 
@@ -165,7 +165,7 @@ Handsontable是一个JavaScript组件，它结合了数据网格特性和类似�
 
 要突出计划，可以使用多种方法，例如。颜色、尺寸、升高!
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwbjrdlhtkj30xc0irq4f.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwbjrdlhtkj30xc0irq4f.jpg)
 
 ## 5、Motion One: 一个新的动画库，追求最小的文件大小和最快的性能。
 
@@ -177,7 +177,7 @@ Handsontable是一个JavaScript组件，它结合了数据网格特性和类似�
 
 对所有人免费使用，甚至用于商业用途。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwbjrdafttj31t60u0n3a.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwbjrdafttj31t60u0n3a.jpg)
 
 [Motion One官网](https://motion.dev/)
 

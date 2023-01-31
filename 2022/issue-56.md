@@ -15,7 +15,7 @@
 
 定价体系是根据使用的设备数量，一个设备是$29，提供30天退款保证。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2m0r4x7evj21xe0t8wpo.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2m0r4x7evj21xe0t8wpo.jpg)
 
 [devutils官网](https://devutils.app/)
 
@@ -29,7 +29,7 @@ Peerlist是一个为设计师、开发者、独立黑客、创造者等提供引
 现有的个人简历只显示你的角色、经验和教育背景。那工作证明呢?你的开源贡献或业余项目呢?
 Peerlist可以直接从Github, Dribbble, Substack, Medium, DEV, Hashnode, YouTube，和Product Hunt展示你的工作。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2m0r64s89j20za0l4416.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2m0r64s89j20za0l4416.jpg)
 
 [Peerlist官网](https://peerlist.io/)
 
@@ -39,7 +39,7 @@ Nora是一个Notion模板，它解决了在Notion中令人痛苦的项目管理�
 
 其它的模板无法在一天内将任何任务从“正在进行”转移到“已完成”，因为你被一个太大的任务困住了。Nora使它超级容易创建和管理所有的子任务。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2m0r5ydzfj210n0u0whz.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2m0r5ydzfj210n0u0whz.jpg)
 
 - 没有评估系统: 随着项目越来越大，有更多的任务和子任务，手工评估是不可能的。Nora有一个自动评估系统，它与无限子任务系统无缝连接，允许你看到所有事情的预计截止日期和进度:项目、冲刺阶段、大任务、小任务等等。
 - 没有sprint跟踪:如果你想做sprint跟踪，sprint只是一组有截止日期的任务。
@@ -48,7 +48,7 @@ Nora是一个Notion模板，它解决了在Notion中令人痛苦的项目管理�
 
 就是这样的一个模板小产品，刚刚发布，2天时间就已经有1千美金的收入。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2m0r5sn4sj20p20ucgo9.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2m0r5sn4sj20p20ucgo9.jpg)
 
 [Nora产品官网](https://www.getnora.page/)
 
@@ -56,7 +56,7 @@ Nora是一个Notion模板，它解决了在Notion中令人痛苦的项目管理�
 
 不要再找借口，不要再浪费时间。启动一个落地页面并开始收集注册用户，比设计一个无意义的logo所需的时间还短。对于那些有产品想法，并想快速验证的开发者来说，这个在线工具可以解决这个痛点，很快的生成落地页，只需要15分钟。有现成的一些模块可选。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2m0r5m0ykj21oq0u0q6o.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2m0r5m0ykj21oq0u0q6o.jpg)
 
 [Yep.so官网](https://yep.so/)
 
@@ -66,7 +66,7 @@ Ghost 这个产品已经发布已经9年了。是一个面向粉丝订阅、发�
 
 随着创造者经济全速发展，新的需求也在不断增加。提供一系列功能来帮助开发者自己建立成功的独立业务。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2m0r5fiz8j20za0l4gnb.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2m0r5fiz8j20za0l4gnb.jpg)
 
 可以针对不同类型的内容运行“多个”订阅，每个都有自己的发件人名称、品牌和订阅列表。
 
@@ -74,7 +74,7 @@ Ghost 这个产品已经发布已经9年了。是一个面向粉丝订阅、发�
 
 最新版本发布了几个官方的新的开源主题。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2m0r56jsyj20za0l40xk.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h2m0r56jsyj20za0l40xk.jpg)
 
 Ghost现在是一支有31人的团队，年收入500万美元。仍然是完全开源的，仍然是去中心化的，仍然是增长的。
 

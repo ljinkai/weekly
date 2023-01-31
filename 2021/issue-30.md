@@ -18,7 +18,7 @@ cotter 是一个免密登录组件，可以方便的嵌入到你的网站中。�
 
 cotter这个产品已经有超过3000+的开发者使用，并已经被Stytch收购。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwrr669cdij31220puwfs.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwrr669cdij31220puwfs.jpg)
 
 [cotter.app官网](https://www.cotter.app/)
 
@@ -32,7 +32,7 @@ cotter这个产品已经有超过3000+的开发者使用，并已经被Stytch收
 
 作者通过设置提取数量的限制，来实现盈利。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwrr68q839j31lv0u0tcb.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwrr68q839j31lv0u0tcb.jpg)
 
 [poet.so官网](https://poet.so/)
 
@@ -40,11 +40,11 @@ cotter这个产品已经有超过3000+的开发者使用，并已经被Stytch收
 
 随着插画风格的网站越来越多，插画的设计需求也越来越多。designstripe网站的插画质量都非常高，提供免费的插件下载。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwrr68gixzj31370o142t.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwrr68gixzj31370o142t.jpg)
 
 也有付费的插画，可以在线进行编辑设置，根据提供的插件组件，设计自己独特的插画。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwrr688w23j30hn0ak0tp.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwrr688w23j30hn0ak0tp.jpg)
 
 [designstripe官网](https://designstripe.com/)
 
@@ -52,7 +52,7 @@ cotter这个产品已经有超过3000+的开发者使用，并已经被Stytch收
 
 typeform这个网站的整体风格、交互体验都非常棒。typeform主要是做表单收集设定，与传统表单收集的产品不太一样的地方，是提供更多的动态交互体验，像图片、视频等，在用户填写表单的时候能获得更优雅的体验。网站还提供了非常多的模板示例，像：调查问卷、Quiz、意见调查等等
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwrr6826l3j31280iiq4v.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwrr6826l3j31280iiq4v.jpg)
 
 [Typeform官网](https://www.typeform.com/)
 
@@ -62,7 +62,7 @@ Medusa是一个Headless商业后台方案，提供了2个默认的前端展示�
 
 Github上有3K多Star，提供Cli进行安装和启动应用。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwrr67sbugj31mr0u0aft.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwrr67sbugj31mr0u0aft.jpg)
 
 [Medusa的Github地址](https://github.com/medusajs/medusa)
 
@@ -70,11 +70,11 @@ Github上有3K多Star，提供Cli进行安装和启动应用。
 
 chilly.tools的Chrome扩展插件给你NFTs的稀有分数，稀世排名，和收集量/价格趋势，直接在OpenSea上就可以查看。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwrr67hiukj31t40u0jxd.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwrr67hiukj31t40u0jxd.jpg)
 
 Nikita也没有想到会有人花0.99ETH来购买这项服务，在这样一个非常小众的市场里。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwrrf5f663j30oo0tatc3.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwrrf5f663j30oo0tatc3.jpg)
 
 [chilly.tools官网](https://chilly.tools/)
 

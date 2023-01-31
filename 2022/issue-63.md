@@ -14,7 +14,7 @@
 
 这是一个开源软件，可以查看源码进行研究学习。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46skrvtwrj20px0ebt9t.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h46skrvtwrj20px0ebt9t.jpg)
 
 [Automa官网](https://www.automa.site/)
 
@@ -23,7 +23,7 @@
 No-code方式创建产品落地页，在线可视化编辑。10+现成模板，300+组件，通过在线拖拽即可，30分钟构建自己的网站产品页面页。更快的加载速度，支持响应式设计。
 产品定价模式有免费和付费模式。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46skv3py3j218g0p0tef.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h46skv3py3j218g0p0tef.jpg)
 
 [Versoly官网](https://versoly.com/)
 
@@ -36,7 +36,7 @@ Directual是一个无代码构建Web3的Dapp平台。允许构建惊人的web3-�
 - web3平台的一部分包括获取交易历史、执行交易、去中心化认证、与MetaMask集成、管理钱包等基本功能。
 - Directual非常适合构建和扩展mvp到一个完整的产品，构建内部应用，创建数据库逻辑和聊天机器人。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46skuyn9uj20za0l4mzs.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h46skuyn9uj20za0l4mzs.jpg)
 
 [Directual官网](https://www.directual.com/)
 
@@ -44,21 +44,21 @@ Directual是一个无代码构建Web3的Dapp平台。允许构建惊人的web3-�
 
 Pierre是一个生活在法国的独立开发者，在过去的几个月里，他一直在和他的终身朋友Kevin一起构建产品。在两次产品尝试失败后，创建了ScrapingBee，这是一个web抓取API，为用户处理代理、chrome无头和验证码。如今，该工具每个月可以赚到3千美元，而且还在增加。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46skuqgtfj20fg0i2q4l.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h46skuqgtfj20fg0i2q4l.jpg)
 
 到2021年3月份的时候，月收入已经达到了约3万美金。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46skufl7tj20ud0u0q5o.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h46skufl7tj20ud0u0q5o.jpg)
 
 总收入也达到了1百万美金
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46sku1gdhj20s80p40uq.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h46sku1gdhj20s80p40uq.jpg)
 
 大家好，我叫Pierre，今年27岁，住在法国巴黎。18个月前，我辞去了全职数据工程师的工作，和我的朋友 Kevin 一起做独立开发。
 
 在尝试了很多东西之后，我们建立了ScrapingBee，一个处理代理、chrome无头和验证码的web抓取API。在此之前，我们尝试了许多不同的事情和业务。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46sktxingj21mm0u0n4c.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h46sktxingj21mm0u0n4c.jpg)
 
 ScrapingBee对于那些需要快速大规模抓取网络的人或公司特别有用，他们不想花太多的时间和精力处理这部分，而是专注于从数据中提取价值。它可能是某个需要为下一篇关于航空航天业的博客文章收集数据的人，或者是一家需要监控数千家餐厅在线评论的大公司。
 
@@ -70,7 +70,7 @@ ScrapingBee对于那些需要快速大规模抓取网络的人或公司特别有
 
 可以说，整个“ScrapingBee”的故事实际上开始于大约3年前，当时我和Kevin决定一起创建这个有趣的业余项目。我认识凯文已经15年了，早些时候，他通过向我展示他喜欢的网站和书籍，向我介绍了整个Startup和Indie Hacking生态系统。这激起了我的兴趣，我和Kevin经常谈论我们的创业想法。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46sktqxfqj21ro0nywj2.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h46sktqxfqj21ro0nywj2.jpg)
 
 问题是，我们只是在这里或那里谈论或编写一些小的东西，但我们从来没有真正推出什么东西。但三年前，我的女朋友给了我一个我觉得很有趣的想法:一种产品，可以让你把所有你想在网上购买的产品保存在一个地方，一旦它们打折，就会收到通知。我真的很喜欢这个想法，像往常一样，我和Kevin讨论了这个想法，我们决定把它做出来，这一次我们不会再犯我们在之前未完成的项目中犯的错误:
 
@@ -111,7 +111,7 @@ ScrapingBee对于那些需要快速大规模抓取网络的人或公司特别有
 
 现在我要讲的是ScrapingBee。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46sktk1v6j20vu0i8mzn.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h46sktk1v6j20vu0i8mzn.jpg)
 
 Kevin和我都是技术人员，我们喜欢写代码和做东西。我们之前所有公司工作和业余项目的共同点都是网页抓取。我们做了很多，看到了许多需要解决的痛点。我们决定建立一个API来为你处理无头浏览器、代理和人机验证问题。
 
@@ -125,7 +125,7 @@ Kevin和我都是技术人员，我们喜欢写代码和做东西。我们之前
 
 在开发 ScrapingBee 的最初版本时，我们必须牢记两件重要的事情。首先，解决方案应该从第一天起就具有扩展性和成本效益。我们是一家100%白手起家的公司，我们承受不起亏损。其次，我们必须快速建立ScrapingBee，之前的项目PricingBot没有取得成功，我们不能在没有现金收入的情况下再花9个月。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46sktannkj21n80u0gq7.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h46sktannkj21n80u0gq7.jpg)
 
 考虑到这一点，我们利用我们的知识和过去的经验做出了最具成本效益和时间效率的选择。我们在应用的前端和账单管理部分复用了 PricingBot 应用程序代码。
 
@@ -133,7 +133,7 @@ Kevin和我都是技术人员，我们喜欢写代码和做东西。我们之前
 
 这样做可以让我们在几天内得到一个可用的版本。但是我们有一个大问题，那就是在不花费大量资金的情况下，我们无法处理超过10个并发连接。原因是我们的API通过真正的Chrome浏览器请求URL，以便能够使用大量JavaScript抓取web应用。这些计算是非常消耗CPU的。我们基本上部署了一个Chrome无头类固醇在AWS lambda。我们现在可以随意扩展，因为AWS lambda可以授权多达1000个并发连接。AWS lambda的问题是它非常昂贵。为了缓解这一问题，我们向ProductHunt的支付了750美元的Pro年度计划，从而获得了5000美元的AWS积分。当然，这种解决方案只能工作一段时间，但它给我们留下了足够的时间来构建定制的可伸缩系统。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46skt4u9dj21fo0s842a.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h46skt4u9dj21fo0s842a.jpg)
 
 在代理方面，我们将自己的私有IP池与来自世界各地的几家代理提供商混合。
 
@@ -151,7 +151,7 @@ Kevin和我都是技术人员，我们喜欢写代码和做东西。我们之前
 
 我们不相信为了内容营销而进行的内容营销。当然，写东西或花钱雇人帮你写东西很容易，每周写三篇没人读但谷歌会喜欢的内容。我们不想这么做，我们真的相信我们可以教给我们的读者一些东西，并希望把ScrapingBee卖给他们。这就是为什么我们每次写一篇文章都要花30个小时，这很耗时，但我们认为这是非常值得的，因为它提高了我们的SEO，带来了巨大的流量，并建立了我们的社区。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46sksxrawj218g0qxdih.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h46sksxrawj218g0qxdih.jpg)
 
 我们认为在这方面做得很好的一家公司是Ahref。如果你读他们的博客，你会学到很多关于SEO的东西，它实际上是有趣和深刻的内容，而不是营销的废话。
 
@@ -163,7 +163,7 @@ Kevin和我都是技术人员，我们喜欢写代码和做东西。我们之前
 
 我们的第二个目标是真正写出许多关于网页抓取的优秀内容，并在年底前完成我们的整个Python指南。我们也想建立一个关于网页抓取的社区。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46sksr9z9j21m00u0dk9.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h46sksr9z9j21m00u0dk9.jpg)
 
 我们也有一个API商店，我们希望通过支持越来越多的网站来开发，但在第二季度之前我们不会关注这一部分。基本上，我们希望专注于尽可能少的事情，并尽可能正确地完成它们。我们有太多的事情想要尝试和探索，但在一天结束的时候，只有24小时。因此，从现在开始，我们将只专注于内容营销和构建社区。
 
@@ -173,7 +173,7 @@ Kevin和我都是技术人员，我们喜欢写代码和做东西。我们之前
 
 到目前为止，我们在ScrapingBee上遇到的第一个最大的麻烦是一个法律问题。在早期，“ScrapingBee”被称为“ScrapingNinja”。我们在ProductHunt上发布了这个名字。在《PH》发行1个月后，我们收到了来自一家法国公司的电子邮件，声称拥有这个名称，并要求我们立即更改。这给我们带来了很大的压力，让我们失去了很多时间，以及大量的法律费用，因为我们必须在不到一个月的时间内完成整个品牌重塑。我们不得不告别我们所有的SEO努力，找到一个全新的名字，做好关于它的法律研究，找到一个新的标志和关于它的沟通。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46skslsoyj21j50u0tby.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h46skslsoyj21j50u0tby.jpg)
 
 我们是唯一要为这个错误负责的人，如果我们在发行前进行更彻底的品牌研究，我们就不会选择 ScrapingNinja。我们绝对不会再犯同样的错误。
 
@@ -181,7 +181,7 @@ Kevin和我都是技术人员，我们喜欢写代码和做东西。我们之前
 
 ### 你会推荐哪些学习资源?
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46sksejkvj21bo0ju41v.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h46sksejkvj21bo0ju41v.jpg)
 
 关于市场营销，我极力推荐Gabriel Weinberg和Justin Mares的《Traction》。他们的基本观点是，在一开始，我们很容易浪费大量的时间和精力去尝试各种不同的获取渠道(搜索引擎优化、广告、内容营销等等)。你应该做的是找到一个有效的，或者足够有效的渠道，在探索其他解决方案之前，坚持使用它，充分利用它。我们尝试在ScrapingBee上做到这一点，它给了我们很大的帮助。
 

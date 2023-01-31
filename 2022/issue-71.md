@@ -14,7 +14,7 @@ SVG 背景生成在线工具。通过不同纹理等实现SVG背景效果的图�
 
 Matt做这个产品最初也是自己会用到这样的SVG图片，所以就想自己做一个，后面不断优化而形成了可持续收入的产品。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5w6fdy813j21pv0u0tdr.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5w6fdy813j21pv0u0tdr.jpg)
 
 [svgbackgrounds官网](https://www.svgbackgrounds.com/)
 
@@ -28,7 +28,7 @@ Matt做这个产品最初也是自己会用到这样的SVG图片，所以就想�
 - 支持Markdown文件生成思维导图
 - 导出png、mm格式、word
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5w6ffczgoj21sc0u0grw.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5w6ffczgoj21sc0u0grw.jpg)
 
 [Amymind官网](https://amymind.com/)
 
@@ -44,17 +44,17 @@ Stagetimer是一个运行在浏览器中的计时器应用。它有一个控制�
 
 Lukas说：我在网上发布了这个免费版本，并把它发布在Reddit上。虽然第一个版本很简单，但我得到了很好的回应。看来我找到痛点了。所以我添加了一些简单的付费功能，并限制了免费版本的使用。当支付整合完成后，我将其发布在Twitter上。就在那天，我遇到了第一个顾客。那时我大约有200个粉丝。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5w6ff55q5j20xc0iwac3.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5w6ff55q5j20xc0iwac3.jpg)
 
 [Stagetimer官网](https://stagetimer.io/)
 
 ## 4、全身心投入到副业项目中，网络小工具获得了250万用户
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5w6ff1d1xj20b40b40t5.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5w6ff1d1xj20b40b40t5.jpg)
 
 大家好，我是Ruurtjan Pul，我经营一个小的网络工具组合。到目前为止，我最成功的两个项目是DNS查找工具和ISP检查器。他们的月独立用户访问量加起来大约有25万。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5w6fes3zxj21se0u0dnz.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5w6fes3zxj21se0u0dnz.jpg)
 
 今年2月，我辞去了工作，全职从事这些项目。他们仍然赚不到足够的钱维持生计，但我估计至少要到年底。NsLookup目前每月收入约500美元。
 
@@ -76,19 +76,19 @@ Lukas说：我在网上发布了这个免费版本，并把它发布在Reddit上
 
 NsLookup的第一个原型。有一个过于复杂的AWS Lambda、S3、Cloudfront和Terraform后端。它甚至在发布前就被技术问题淹没了。我大概有一年的时间没有研究它，因为我找不到动力去解决它的复杂性。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5w6feklbsj20nm0cx3yy.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5w6feklbsj20nm0cx3yy.jpg)
 
 然后我从头开始，用我已经习惯的技术做了一个更简单的版本。为了尽快发行游戏，我走了许多捷径，但最终还是花了几个月时间才将其投入使用。
 
 当我添加一个logo时，它只是dafont.com第一页的无衬线字体，我从另一个品牌那里取了颜色。直到今天都是一样的。虽然我很欣赏设计对用户体验的巨大影响，但我还没有在这上面花很多时间。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5w6fefy4aj20nm0lbmyq.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5w6fefy4aj20nm0lbmyq.jpg)
 
 ### 描述启动业务的过程
 
 NsLookup的目标一直是通过搜索引擎获得流量。搜索引擎优化需要很多时间，所以我最好尽早开始。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5w6fecsbjj20nm0biq3f.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5w6fecsbjj20nm0biq3f.jpg)
 
 我在业余时间花了三个月的时间研究nslookup，才在大多数日子里有一个访客。一年后，每天大约有3000人。而今天，几乎在两年的时间里，我每天的新增量是5600。
 
@@ -106,7 +106,7 @@ NsLookup的目标一直是通过搜索引擎获得流量。搜索引擎优化需
 
 一个可衡量的东西是我专门为病毒式传播而写的文章。名声总是短暂的，但它可以导致一些好的反向链接和暂时的流量增加。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5w6fe92fvj20nm0bm3yy.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5w6fe92fvj20nm0bm3yy.jpg)
 
 一个有趣的标题和切中要害的写作风格使它适合新闻聚合网站，我的利基市场,如Reddit和Hack News。
 
@@ -114,7 +114,7 @@ NsLookup的目标一直是通过搜索引擎获得流量。搜索引擎优化需
 
 我在这些网站全职工作的第一年已经过半了。一开始，我设定了每月收入4000美元，利润3000美元的目标。到目前为止，我成功地将营收增长到2000美元以下。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5w6fe22lmj20nm0bmdg9.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5w6fe22lmj20nm0bmdg9.jpg)
 
 还有很大的增长空间。无论是搜索量，还是每访问者的收入。到目前为止，我主要关注前者。我将继续为搜索流量而竞争，但我将把重点转移到提高每访问者的收入上。
 

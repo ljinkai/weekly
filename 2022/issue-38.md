@@ -16,7 +16,7 @@ RSSHub是一个开源的、易于使用的、可扩展的RSS提要生成器。�
 RSSHub提供了从各种来源聚合而来的数以百万计的内容，充满活力的开源社区正在确保RSSHub的新路由、新特性和bug修复的交付。
 其理念是万物皆可RSS。有非常多的已经提供的聚合源可以使用，你也可以搭建自己的RSS源。有浏览器插件、iOS、Android端的App可用。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gykj5oy903j31s20u0adv.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gykj5oy903j31s20u0adv.jpg)
 
 [RSSHub开源代码地址](https://github.com/DIYgod/RSSHub)
 
@@ -41,7 +41,7 @@ RSSHub提供了从各种来源聚合而来的数以百万计的内容，充满�
 
 因为你在第二步中选择了一些低竞争或没有竞争的产品，所以你应该拥有先发优势。会有这样的客户，他们需要你的产品，但又没有其他的选择，所以他们会乐意花钱购买。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gykj5r4tn9j30q00fegnb.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gykj5r4tn9j30q00fegnb.jpg)
 
 **现实世界的例子#1 - @data_fetcher**
 
@@ -51,7 +51,7 @@ RSSHub提供了从各种来源聚合而来的数以百万计的内容，充满�
 
 到2022年1月，现在每个月的收入是5000美金。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gykj5qw641j30qa0nata6.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gykj5qw641j30qa0nata6.jpg)
 
 **现实世界的例子2 - @influence_grid**
 
@@ -59,7 +59,7 @@ RSSHub提供了从各种来源聚合而来的数以百万计的内容，充满�
 
 所以我把Instagram换成了TikTok，并建立了一个“TikTok网红搜索引擎”，帮助品牌找到TikTok网红。将这个产品的月收益提升至3500美元，并最终以5位数的价格卖给了另一家公司。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gykj5qotg6j31to0u0aeq.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gykj5qotg6j31to0u0aeq.jpg)
 
 [Andy分享内容](https://twitter.com/clokehead/status/1340949414081392640)
 
@@ -75,7 +75,7 @@ omni 跟Mac上的Alfred操作类似。
 🔮 用于过滤和执行更多操作的特殊命令
 🧩 整合概念，Figma, Docs, Asana…
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gykj5qgj7ej30hn0akgly.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gykj5qgj7ej30hn0akgly.jpg)
 
 [Omni开源代码](https://github.com/alyssaxuu/omni)
 
@@ -89,7 +89,7 @@ omni 跟Mac上的Alfred操作类似。
 - 进度管理 量化目标，并结合进度笔记，随时追踪和记录目标进度
 - 闪念笔记 随时记录内心所想，支持设置标签，方便整理
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gykj5pt421j31jq0sgwkg.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gykj5pt421j31jq0sgwkg.jpg)
 
 [V2EX帖子](https://www.v2ex.com/t/829145)
 
@@ -103,7 +103,7 @@ omni 跟Mac上的Alfred操作类似。
 
 当面对一个具有挑战性的问题时，用相反的方式来重新组织它——新的视角可以让你更有创造性地解决问题。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gykj5pidk6j30dw0dwwf3.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gykj5pidk6j30dw0dwwf3.jpg)
 
 2、**绿线与黑线**
 
@@ -116,7 +116,7 @@ by @waitbutwhy
 
 这是一个充满机遇的未来。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gykj5p72j4j30xc0l278o.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gykj5p72j4j30xc0l278o.jpg)
 
 本次周刊结束，欢迎大家投稿，我们下周见！
 

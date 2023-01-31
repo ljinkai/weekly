@@ -15,7 +15,7 @@ HashLips艺术引擎是一个工具，基于提供的图层来创建艺术品。
 
 HashLips不仅仅是一个别名。这是一种理念，一种结构，当我们以不同的方式看待代码，并将其开放给世界时，它决定了编程到底能有多有趣。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz0rca9cr1j31hc0jgq70.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz0rca9cr1j31hc0jgq70.jpg)
 
 [HashLips开源代码地址](https://github.com/HashLips/hashlips_art_engine)
 
@@ -23,29 +23,29 @@ HashLips不仅仅是一个别名。这是一种理念，一种结构，当我们
 
 帮助你自动生成社交媒体的可视化，电子商务横幅，动态电子邮件图像等等，可以通过代码API集成。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz0rcef7qnj31k20u0tg7.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz0rcef7qnj31k20u0tg7.jpg)
 
 使用的REST API或Ruby、Node和PHP的官方库，为电子商务、出版和其他行业创造个性化的体验。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz0rce2er1j31ow0pi0wr.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz0rce2er1j31ow0pi0wr.jpg)
 
 用代码生成的媒体图片
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz0rcdrze1j31to0u0tm9.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz0rcdrze1j31to0u0tm9.jpg)
 
 对图片还能进行头像检测
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz0rcd4w8mj31km0r0wmo.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz0rcd4w8mj31km0r0wmo.jpg)
 
 [Bannerbear官网](https://www.bannerbear.com/)
 
 ## 3、研究表明:成功创业公司创始人的平均年龄是45岁
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz0rcclxvlj30xc0irn2l.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz0rcclxvlj30xc0irn2l.jpg)
 
 人们普遍认为，最成功的企业家都是年轻人。比尔·盖茨(Bill Gates)、史蒂夫·乔布斯(Steve Jobs)和马克·扎克伯格(Mark Zuckerberg)在20岁出头的时候创立了后来改变世界的公司。这些著名的案例是否反映了一个普遍的模式?当我们分析过去十年获得TechCrunch奖项的创业者时，发现他们的平均创业年龄只有31岁。《Inc.》杂志评选的2015年增长最快的创业公司创始人的平均年龄只有29岁。与这些发现相一致的是，Y Combinator的联合创始人保罗•格雷厄姆(Paul Graham)曾开玩笑说，“投资者头脑中的底线是32岁……32岁之后，他们就开始有点怀疑了。”但这种观点正确吗?
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz0rccbmrnj30ht0t6tat.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz0rccbmrnj30ht0t6tat.jpg)
 
 **揭秘年轻企业家的神话**
 我们的团队利用美国人口普查局(U.S. Census Bureau)的机密管理数据集，分析了近年来美国所有企业创始人的年龄。我们发现，企业家创办公司时的平均年龄是42岁。在软件初创公司中，平均年龄为40岁，更年轻的创始人并不少见。
@@ -56,7 +56,7 @@ HashLips不仅仅是一个别名。这是一种理念，一种结构，当我们
 
 为什么会这样呢?虽然有很多其他因素可以解释创业中的年龄优势，但我们发现工作经验起到了关键作用。与没有相关经验的创业者相比，那些在同一行业至少有三年工作经验的创业者创业成功的可能性要高出85%。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz0rcc2giwj30ht0tw76v.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz0rcc2giwj30ht0tw76v.jpg)
 
 **那么史蒂夫·乔布斯呢?**
 有趣的是，当你研究比尔•盖茨、史蒂夫•乔布斯、杰夫•贝佐斯等杰出的局外人时，你会发现他们的企业在市值方面的增长率在这些创始人中年时达到顶峰。史蒂夫·乔布斯和苹果公司在52岁时推出了公司最赚钱的创新产品——iPhone。杰夫·贝佐斯和亚马逊已经超越了在线销售图书的范畴，亚马逊未来的市值增长率在贝佐斯45岁时达到最高。这些杰出的创始人可能还没有在非常年轻的时候达到顶峰。极具才华的企业家可能拥有不寻常的敏锐，让他们在很小的时候就能成功，但随着年龄的增长，他们仍能看到更大的成功。因此，伟大的年轻企业家的存在与创业者在晚年达到其创业潜力顶峰的普遍趋势之间并不存在根本的矛盾。
@@ -65,7 +65,7 @@ HashLips不仅仅是一个别名。这是一种理念，一种结构，当我们
 
 ## 4、40岁是不是太老了?
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz0rcbri79j30dw0bu3zr.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz0rcbri79j30dw0bu3zr.jpg)
 
 我叫Scotalia，43岁。我总是有一些想法，并试图在一想到它们的时候就尽快完成它们。我的问题是每天没有足够的时间来做这些事情，因为要照顾家庭，工作，完成家务等等
 
@@ -84,13 +84,13 @@ HashLips不仅仅是一个别名。这是一种理念，一种结构，当我们
 Hi, 我是Buster Benson，750 Words是我在2009年心血来潮创建的一个网站，现在它仍然很强大。这是一个让你养成每天写私人日记习惯的网站。你写的字会被保存并锁起来，只给你看，所以你可以写下你心中真正的想法而不用担心它会泄露出去。这基本上是一个数字版的晨报，这个想法是我从茱莉亚·卡梅隆的《艺术家之路》中学到的。如果你每天都写作，你就会获得徽章和分析等。免费试用后每月收费5美元。
 截止到今天，已经有超过40万人注册，超过50亿字。968人连续写了365天，265人连续写了1000天，68人连续写了2000天。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz0rcbi16oj30p00gt0vn.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz0rcbi16oj30p00gt0vn.jpg)
 
 750 Words多年来一直通过捐赠获得支持，直到我遇到了的继续发展下去的问题，决定将其变成一个付费网站(新用户每月支付5美元)，以减少其增长……。这是一项充满爱的工作，由我自己、另一个朋友和我的妻子(她现在做的比我还多)经营。这一切之所以能持续下去，是因为这个想法很简单，而且每天写作本身就是一个非常有益的习惯，而且完全是通过口口相传而形成的。
 
 我用了大约一周的时间，在一个共享服务器上用Ruby on Rails和jQuery创建了这个网站的第一个版本。我雇了一个设计师帮我制作一些徽章。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz0rcb5znnj312s0m8tan.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz0rcb5znnj312s0m8tan.jpg)
 
 我们的大部分收入来自每月5美元的免费试用。如果愿意，人们也可以单独购买数月，也可以直接捐赠，但这只是总收入的一小部分。我用Paypal，尽管我有点讨厌它。我们多年来一直想支持Stripe，这将是我们即将进行的改进的首选，因为这将使我们对订阅拥有比目前更多的控制权。
 
@@ -98,11 +98,11 @@ Hi, 我是Buster Benson，750 Words是我在2009年心血来潮创建的一个�
 
 事后看来，我们所面临的挑战都不可避免。找到人们想要使用的产品已经够困难的了，所以花太多时间发展它的规模是不对的。我创建的其他20个项目，都没有成功。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz0rcaxehyj319u0r642r.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz0rcaxehyj319u0r642r.jpg)
 
 商业模式也是如此。我认为重要的是，在你想靠它来谋生之前，先创造一些有价值的东西。从免费网站开始，到捐赠，最后到订阅模式，这是我们做这件事的正确顺序。我想让这个网站对那些负担不起的人再次免费，因为真正的目标是帮助人们用可持续的方式让他们的生活变得更好，而不是建立一个巨大的盈利业务。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gz0rcamuvuj31670u0mzl.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gz0rcamuvuj31670u0mzl.jpg)
 
 我的建议是:总是回到你的北极星开始——你想给自己和世界带来什么改变?
 

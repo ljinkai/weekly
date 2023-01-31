@@ -13,15 +13,15 @@
 
 Brite是一个生产效率工具，可以将你的笔记、待办、日历、习惯、跟踪等一系列的内容在这个产品上完成。不需要切换很多的App来完成各种类型的工作。有Web、Android、iOS版本，可以将内容同步。网站上有免费版可以使用体验。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gx7xid9pknj314s0u0gps.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gx7xid9pknj314s0u0gps.jpg)
 
 传统方式的任务完成需要在很多App上完成，效率低下。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gx7xiid009j30r80madh4.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gx7xiid009j30r80madh4.jpg)
 
 Brite上完成所有上面这些
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gx7xii2uk2j30r00m875u.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gx7xii2uk2j30r00m875u.jpg)
 
 [Brite官网](https://britetodo.com/)
 
@@ -29,13 +29,13 @@ Brite上完成所有上面这些
 
 Fable是一个在线的运动动画设计平台，对于专业人士来说很强大，对于初学者来说很直观，对于团队来说很协作。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gx7xihmmcaj31rh0u046m.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gx7xihmmcaj31rh0u046m.jpg)
 
 因为动画效果无处不在，但创造专业的移动效果是难的。
 
 Fable的核心是一个强大的工具包，包括矢量引擎，丰富的效果，并将云输出到GIF, MP4, 甚至Lottie。又非常的易于使用，http://fable.app/academy 包含了帮助新手的学习内容。如果是团队协作，有一个集中的工作空间来管理文件、资产和权限，项目可以通过一个链接进行共享。可以免费在线体验。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gx7xih7xwdj31hf0u00xw.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gx7xih7xwdj31hf0u00xw.jpg)
 
 [Fable在PH上的介绍](https://www.producthunt.com/posts/fable-18ba2a08-fbc3-4ca5-9c5f-605660835fcc)
 
@@ -43,7 +43,7 @@ Fable的核心是一个强大的工具包，包括矢量引擎，丰富的效果
 
 Nifty Generator —— 是一种简单、无需代码，可以为Solana或Ethereum生成 NFT 的工具!
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gx7xigybb2j31c40u0n1q.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gx7xigybb2j31c40u0n1q.jpg)
 
 web3方面，还没有一种非常简单，不涉及代码的方法来从美术层创建NFT。现在，设计师和创作者必须找到一个开发团队(考虑到web3工程师的需求，这不是一件容易的任务!)，而工程师们正在为每个项目重新做同样的工作。
 
@@ -53,19 +53,19 @@ web3方面，还没有一种非常简单，不涉及代码的方法来从美术�
 
 1、选择一个文件夹，内容包含所需的图片文件
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gx7xigody4j314e0psgnc.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gx7xigody4j314e0psgnc.jpg)
 
 2、填写基本的信息
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gx7xighnbtj31dv0u0dj4.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gx7xighnbtj31dv0u0dj4.jpg)
 
 3、关联钱包，选择Solana或者Ethereum
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gx7xig5fqdj30za0l4wfx.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gx7xig5fqdj30za0l4wfx.jpg)
 
 4、生成最终NFT
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gx7xifx16lj30za0l443m.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gx7xifx16lj30za0l443m.jpg)
 
 [Nifty Generator官网](https://www.niftygenerator.xyz/)
 
@@ -75,7 +75,7 @@ web3方面，还没有一种非常简单，不涉及代码的方法来从美术�
 
 可以根据自己的习惯设置提醒，规划自己的阅读，养成好的习惯。Alfread是一个iOS手机端的应用。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gx7xif1yqtj30z60l4q61.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gx7xif1yqtj30z60l4q61.jpg)
 
 [Alfread官网](https://alfreadapp.com/)
 
@@ -99,7 +99,7 @@ web3方面，还没有一种非常简单，不涉及代码的方法来从美术�
 
 只需要一个方面的改进就能彻底改变游戏。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gx7xieahp2j30pc0pcjvh.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gx7xieahp2j30pc0pcjvh.jpg)
 
 二、你遇到过哪些问题?
 
@@ -113,7 +113,7 @@ web3方面，还没有一种非常简单，不涉及代码的方法来从美术�
 如果他们无视，继续再挖掘。
 如果他们愿意付钱，你可能会得到一些非常有趣的东西……
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gx7xie2emaj30vu0tewgq.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gx7xie2emaj30vu0tewgq.jpg)
 
 三、从买家的角度看市场
 
@@ -128,7 +128,7 @@ web3方面，还没有一种非常简单，不涉及代码的方法来从美术�
 
 你可以学到关于一个产品的一切(可以启发你一些关于你自己产品的想法)。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gx7xidwgsnj30rm0rk0us.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gx7xidwgsnj30rm0rk0us.jpg)
 
 四. 与有影响力的人合作
 
@@ -138,7 +138,7 @@ web3方面，还没有一种非常简单，不涉及代码的方法来从美术�
 
 比如：ContactEcom这个产品，是两个技能互补的合作伙伴推出了一个简单的SaaS，解决了一个大问题。你不需要学习新东西——你需要的是一个知道你不知道的东西的人。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gx7xidov8wj30qk0oijs6.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gx7xidov8wj30qk0oijs6.jpg)
 
 [4个想法原文](https://twitter.com/iamwillcannon/status/1468599308551442434)
 

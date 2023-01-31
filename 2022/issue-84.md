@@ -16,9 +16,9 @@
 
 这个小产品，作者的年入收入可以达到10万美金级别。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h94sdho8ldj31k50u0q6e.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h94sdho8ldj31k50u0q6e.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h94sdjflmsj30uc0nmjt5.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h94sdjflmsj30uc0nmjt5.jpg)
 
 [tiny.host官网](https://tiiny.host/)
 
@@ -26,7 +26,7 @@
 
 Verif Tools，一个在线虚拟身份信息生成器，能够在线生成全球各国的护照、驾驶证照、身份证、账单、信用卡、社会保障SSN、居留证、军人证等等，信息支持定制填写，填写完成即可一键生成，支持下载，无水印下载需要付费。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h94sdj9xrzj31rn0u0gqp.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h94sdj9xrzj31rn0u0gqp.jpg)
 
 [Verif Tools](https://verif.tools/)
 
@@ -34,27 +34,27 @@ Verif Tools，一个在线虚拟身份信息生成器，能够在线生成全球
 
 这是一个Mac端的录屏编辑工具。不需要复杂的操作就可以编辑出效果很好的演示视频。作者Adam Pietrasiak 在2022年9月13日写了第一行Screen Studio代码。到12月15日已经收入了1万多美金。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h94sdj0eukj30tg0nqq59.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h94sdj0eukj30tg0nqq59.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h94sdiw6jqj30uw0tmmzx.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h94sdiw6jqj30uw0tmmzx.jpg)
 
 [screen.studio官网](https://www.screen.studio/)
 
 ## 4、一个地理位置API服务，月收入1.5万美元
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h94sdipxbpj30m20ku3zh.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h94sdipxbpj30m20ku3zh.jpg)
 
 我是欧文·鲁奇，我的创业项目是geocode.xyz，一个地理位置分析，geocoding API的服务。
 
 它于2016年推出，目前每天有数千名用户，每月API调用超过1亿次，每月收入超过1.5万美元。这一数字比一年前增长了1000%以上，而且仍在快速增长——当月的数据总是高于前一个月。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h94sdikaobj30nm0f2dgh.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h94sdikaobj30nm0f2dgh.jpg)
 
 ### 你是怎么想到这个想法的?
 
 建立地理定位API的想法始于我在研究生院的时候，因为当时缺乏这样的API(谷歌Maps还没有发布)。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h94sdifos7j31sh0u00wz.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h94sdifos7j31sh0u00wz.jpg)
 
 我没有验证这个想法，这是我自己在其他一些项目中所需要的产品。
 
@@ -70,7 +70,7 @@ Verif Tools，一个在线虚拟身份信息生成器，能够在线生成全球
 
 2016年，我开始重写现在的 geocode.xyz
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h94sdib0oij31qj0u0jwp.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h94sdib0oij31qj0u0jwp.jpg)
 
 由于OpenStreetMap项目和各种政府开放数据倡议的成功，全球有足够多的开放地理数据可用，使努力变得值得。
 
@@ -82,7 +82,7 @@ Verif Tools，一个在线虚拟身份信息生成器，能够在线生成全球
 
 软件是按小时租用的。它的成本在0.10美元/小时到6.00美元/小时之间，具体取决于硬件上的CPU数量。AWS处理所有客户关系，因此部分业务处于自动化状态。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h94sdi61v0j31nc0tc42a.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h94sdi61v0j31nc0tc42a.jpg)
 
 我还通过直接出售API访问来赚钱，那个定价页面是最近才发布的，在一段时间内API是免费的，大多数业务模式是基于AWS的。
 
@@ -96,7 +96,7 @@ geocode.xyz在那里发布了大约6个月后才受到注意，并开始获得�
 
 另一方面，第一个付费客户是在2017年12月左右。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h94sdhyygaj31ua0s2gs2.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h94sdhyygaj31ua0s2gs2.jpg)
 
 然后在2018年1月又增加了3个客户。2月份还有5个，以此类推。其中一些使用geoparsing API，另一些使用 geocoding 或反向 geocoding。批处理地理编码端口也非常受欢迎，特别是对于那些正在寻找一种快速简便的方法在地图上可视化数据的小型客户端。
 
@@ -110,7 +110,7 @@ geocode.xyz在那里发布了大约6个月后才受到注意，并开始获得�
 
 我想，一旦一个产品被注意到，它就会迅速发展，2018年的 geocode.xyz就是这样。我的猜测是，如果我能继续添加所需的功能，并改进现有的功能，这种增长将会持续下去，直到这种类型的API的市场规模有限，以及其他竞争对手的潜在进入/增长。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h94sdhth3fj31sr0u0gsd.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h94sdhth3fj31sr0u0gsd.jpg)
 
 我仍然不知道2018年发生了什么导致了 geocode.xyz 获得关注，以及为什么在2017年没有发生。2017年，我确实在这方面付出了很多努力，但结果却很少。
 

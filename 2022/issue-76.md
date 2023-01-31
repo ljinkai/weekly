@@ -14,7 +14,7 @@
 
 20多个具有漂亮默认值和简单道具的组件。从图表到输入和布局元素，我们涵盖了所有必要的组件，以提高乏味的前端工作。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h77bvxw74kj31lj0u0gq1.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h77bvxw74kj31lj0u0gq1.jpg)
 
 [Tremor开源代码库地址](https://github.com/tremorlabs/tremor)
 
@@ -38,7 +38,7 @@ UI与业务分离，互相独立，BSS开发思维
 6、功能demo
 桌面软件常见功能，已提供demo，快速开发
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h77bw17v9aj316k0shjtn.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h77bw17v9aj316k0shjtn.jpg)
 
 [Github开源代码地址](https://github.com/wallace5303/electron-egg)
 
@@ -52,7 +52,7 @@ Koishi是一个开源软件，基于 TypeScript 开发，一个强大的聊天�
 - 支持 QQ，Telegram，Discord 等主流聊天平台
 - 随时随地通过控制面板监控运行状态，甚至上号聊天
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h77bw13446j31400u0tbw.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h77bw13446j31400u0tbw.jpg)
 
 经过了几个版本的迭代，Koishi 已经发展出了丰富的 API，功能覆盖机器人领域的方方面面。从上层负责交互的指令、会话、中间件，再到中层负责控制的应用、上下文、插件，最后到底层的机器人和适配器，每一个部分都经过了精心的编写，可以让你轻松实现任何需求。
 
@@ -62,11 +62,11 @@ Koishi是一个开源软件，基于 TypeScript 开发，一个强大的聊天�
 
 大家好，我们是莉娜 (CEO)和安菲莎 (CMO)。我们是Purpur App的创作者，这是一款通过交谈发展关系的治愈性的应用。我们帮助伙伴和朋友之间讨论具有挑战性的话题，以加深他们的联系。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h77bw0uqvvj30nm0o478f.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h77bw0uqvvj30nm0o478f.jpg)
 
 我们的印刷卡片游戏(注:这款应用就是基于这款游戏)之前的销售额已经超过30万美元。我们在今年春天发布了这款应用，并在8月份添加了订阅选项，并希望在10月中旬达到每月3000美元的收益。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h77bw0kym5j31m00tm7dh.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h77bw0kym5j31m00tm7dh.jpg)
 
 ### 你是怎么想到这个想法的?
 
@@ -74,13 +74,13 @@ Koishi是一个开源软件，基于 TypeScript 开发，一个强大的聊天�
 
 我们曾经一起做过很多文案，一旦文案太“色情”，我们中的一个就会开玩笑说要开一家性健康公司。今天，它不再是一个笑话，而是一个我们都全职工作的创业公司。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h77bw0caroj30nm0damyr.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h77bw0caroj30nm0damyr.jpg)
 
 我们相信性健康是一件大事。很多品牌专注于技术方面(如何刺激你的性感带，达到高潮，等等)，而我们的方法都是关于沟通。如果你愿意和你的搭档交谈并提出问题，那么技术方面就会随之而来。更重要的是与你的伴侣保持同步，理解你们个人和共同的欲望。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h77bw060qgj30nm0fq0us.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h77bw060qgj30nm0fq0us.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h77bvzvnaqj30nm0nmdk4.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h77bvzvnaqj30nm0nmdk4.jpg)
 
 在发布Purpur应用之前，我们制作了印刷卡片游戏。它帮助我们测试产品市场的假设，并找到我们的客户。我们的销量超过2万份，申请申请的用户超过1500人。
 
@@ -90,7 +90,7 @@ Koishi是一个开源软件，基于 TypeScript 开发，一个强大的聊天�
 
 我们的第一款产品是一款关于性和两性关系的纸牌游戏，旨在拉近你和你的伴侣之间的距离，为你们的性生活增添情趣。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h77bvzgsasj31b80t2tes.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h77bvzgsasj31b80t2tes.jpg)
 
 这个游戏是基于真实的人的性幻想和对各种禁忌的兴趣。我们进行了一项匿名调查，并利用其结果创造了一款游戏。调查告诉我们，人们想要谈论性，他们只是需要一个安全的空间和一个对话的开场白。所以这个游戏变成了一种破冰方式，一种用来和你的伴侣开始亲密交谈的工具。
 
@@ -128,15 +128,15 @@ Koishi是一个开源软件，基于 TypeScript 开发，一个强大的聊天�
 
 今年秋天，我们计划在几个大城市进行疯狂发帖。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h77bvzbi2rj30nm0fl0vq.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h77bvzbi2rj30nm0fl0vq.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h77bvz4j9ej30nm0lnq80.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h77bvz4j9ej30nm0lnq80.jpg)
 
 ### 自推出以来，是什么有效地吸引和留住了客户?
 
 到目前为止，我们的主要销售渠道是Instagram。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h77bvys6ocj31ge0to12l.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h77bvys6ocj31ge0to12l.jpg)
 
 我们把它培养成关于性和关系的媒体。我们的成功之处在于吸引了那些你通常不会看到谈论性的人。他们不是大V，而是像我们这样的人。
 
@@ -150,11 +150,11 @@ Koishi是一个开源软件，基于 TypeScript 开发，一个强大的聊天�
 
 在我们的营销策略中，我们非常关注内容和对热点新闻的反应。这是一个很好的例子，说明了用户对我们关于威廉王子的帖子的反应。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h77bvycjaej30nm10ldig.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h77bvycjaej30nm10ldig.jpg)
 
 ### 你未来的计划是什么样的?
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h77bvy80jqj30nm0d7dh4.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h77bvy80jqj30nm0d7dh4.jpg)
 
 我们刚刚引入了应用内付费功能，希望在秋季看到第一个结果。
 
@@ -164,7 +164,7 @@ Koishi是一个开源软件，基于 TypeScript 开发，一个强大的聊天�
 
 最终，我们想要在美国为印刷游戏建立一个制作团队。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h77bvy197pj30nm0d70ug.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h77bvy197pj30nm0d70ug.jpg)
 
 今年9月，与应用团队一起前往伊斯坦布尔进行为期4天的休整，并与彼此见面。
 

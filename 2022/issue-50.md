@@ -10,11 +10,11 @@
 
 大家好，我叫Danny Postma，28岁，一名来自荷兰的全站独立创作者，在环游世界几年之后，目前在印尼巴厘岛做一个数字游民。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h19n5z58llj20rs0fn42f.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h19n5z58llj20rs0fn42f.jpg)
 
 我创作了几个产品，但我的主要成功产品是Headlime，这是一款AI驱动的文案软件，可以自动为你编写营销文案，于2021年3月以7位数的价格被收购。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h19n63tfibj20hs0hsdie.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h19n63tfibj20hs0hsdie.jpg)
 
 我目前正致力于Rareblocks.xyz，一个去中心化的网站组件和模板市场。
 我的故事开始于2015年，那时我开始了我的第一个业余项目，一个展示互联网上最酷的登录页面设计的图库(那时我21岁)。
@@ -23,7 +23,7 @@
 
 Landingfolio迅速发展成为最受欢迎的登陆页面灵感网站之一，每天有超过1000名访问者。灵感网站是非常难赚钱的，因为设计师通常会为了灵感而访问，然后离开。我经营这个网站已经四年了，但没有赚到一分钱，而是专注于客户服务。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h19n63mmhoj21rt0u045c.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h19n63mmhoj21rt0u045c.jpg)
 
 一年前，我开始了我的数字游民之旅，走遍了世界各地，遇到了许多有才华的人，他们建立了伟大的在线SaaS公司。这些人极大地激励了我，我意识到，如果我知道如何编程，一个初创公司会多么成功。
 
@@ -31,7 +31,7 @@ Landingfolio迅速发展成为最受欢迎的登陆页面灵感网站之一，�
 
 我利用从Landingfolio学到的一切，创建了Inspireframe，它于2020年6月推出。在这次发布中，我尝试了许多不同的技术，然后在我最近一次成功的产品发布中都使用了它们。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h19n633ozhj21uy0tote9.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h19n633ozhj21uy0tote9.jpg)
 
 Headlime是在全球新冠大流行期间产生的。我坐在厨房里，喝着茶，写下我接下来可以开始工作的想法。
 
@@ -43,7 +43,7 @@ Headlime是在全球新冠大流行期间产生的。我坐在厨房里，喝着
 
 一个月后，Headlime的第一个版本完成了。该网站有200个公式，你可以通过填充不同的变量来快速定制它们。然后，该工具将输出200个定制的标题，用于你的营销内容。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h19n62yfnej21t10u0gsx.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h19n62yfnej21t10u0gsx.jpg)
 
 一经发行便获得了巨大的成功，在最初几周便创造了6万美元的销售额。这在很大程度上要归功于我推出的一项有限协议，该协议允许客户一次性付费，而不是支付订阅费。这真的让我大吃一惊，因为这是我第一次成功的产品发布。
 
@@ -51,13 +51,13 @@ Headlime是在全球新冠大流行期间产生的。我坐在厨房里，喝着
 
 我在正确的时间进入了一个非常完美的行业。在推出Headlime两个月后，OpenAI推出了他们新的旗舰AI产品GPT-3。一个可以写内容的神经网络。天啊，真是太给力了。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h19n62g7klj213o0my77k.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h19n62g7klj213o0my77k.jpg)
 
 我给OpenAI的首席技术官发了信息，让他访问我的网站。我很快意识到这款AI非常擅长制作营销文案。通过适当的培训，人工智能将输出几乎完美的广告、博客、网站等营销文案。
 
 人工智能生成内容是未来的趋势。所以，我决定全力以赴:Headlime将变成一个人工智能驱动的引擎。我在网上消失了5个月，并将我所有的工作时间(和空闲时间)来构建Headlime的版本2。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h19n62bxolj21420myjv0.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h19n62bxolj21420myjv0.jpg)
 
 第二版于2020年12月完成。在构建它的过程中，我偶尔会在Twitter上发布关于这个新工具有多强大的预告。所以，当我在12月发布的时候，用户增长和宣传都非常好。收入每隔几周就会翻一番，12月开始时，我的MRR为1000美元，到2021年2月达到了2万美元。
 
@@ -67,7 +67,7 @@ Headlime是在全球新冠大流行期间产生的。我坐在厨房里，喝着
 
 Headlime是我一个人做的。一个人经营一家快速增长的公司是要付出代价的。我每天花几个小时在客户支持上，需要快速开发新功能，许多公司开始复制Headlime的成功，同时做市场营销。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h19n6258tgj21hc0u0qbf.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h19n6258tgj21hc0u0qbf.jpg)
 
 我有些不知所措，以至于没有时间去招聘其他人。当时我有三个选择。
 
@@ -79,13 +79,13 @@ Headlime是我一个人做的。一个人经营一家快速增长的公司是要
 
 在巴厘岛的海滩上喝了几个月的鸡尾酒后，我的手又发痒了，于是我决定开始我的下一个项目——rareblocks.xyz，一个去中心化的数字内容市场。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h19n61w6yaj21rb0u0aew.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h19n61w6yaj21rb0u0aew.jpg)
 
 我的主要经验是去做你感兴趣的或者你自己的问题。Headlime解决了我在文案方面的实际问题。我是自己的顾客，所以我知道自己想要什么。我很幸运，其他人也有和我一样的问题。
 
 另一个经验是在公开构建。一个很好的方法就是分享你正在做的事情。是的，其他人可能会复制你的产品，但如果没有人想要复制，你的产品真的好吗?
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h19n61pc2aj20690690sn.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h19n61pc2aj20690690sn.jpg)
 
 最后一个经验就是要经常且快速地发布。要知道你的产品是否有需求，唯一的方法就是把它摆在顾客面前。不要在某件事上花了一年时间却没有发布。推出最小可行产品。如果它有潜力，你的客户会给你有价值的反馈，会告诉你如何进一步塑造它。
 
@@ -93,7 +93,7 @@ Headlime是我一个人做的。一个人经营一家快速增长的公司是要
 
 另一个障碍是，当你处在聚光灯下时，你会产生大量的负面情绪。来自客户或竞争对手的负面评论试图破坏我，这让我沮丧了一段时间。幸运的是，我身边有一群支持我的创作者，他们会让我振作起来。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h19n61dwbcj21hf0u0wue.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h19n61dwbcj21hf0u0wue.jpg)
 
 卖Headlime最重要的好处可能是让我平静下来。经营一个高增长的业务是很累人的。我很幸运，我还年轻，没有孩子。我对那些同时兼顾许多责任的创始人致以最崇高的敬意。
 
@@ -101,7 +101,7 @@ Headlime是我一个人做的。一个人经营一家快速增长的公司是要
 
 大家好，我是KK，「独立开发变现周刊」的作者，在2021年5月7日，开启了独立开发变现周刊（第 1 期），到现在2022年4月15日第50期，转眼就近一年的时间。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h19n60x2m4j21o20lygr7.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h19n60x2m4j21o20lygr7.jpg)
 
 这一年发生了很多事，从整个世界的大环境，到我们每个人息息相关的新冠疫情，外面环境的变迁让我们经历了从未经历的事，作为个人，我们是在这个向前滚滚的时代洪流之中，”**如何自处?**“变成了我们每个人都会考虑的事情，这也是我最近一直在思考的事情，今后我会单独写一篇文章来跟大家分享，在50期，我想跟大家分享下我做周刊的初心。
 
@@ -115,19 +115,19 @@ Headlime是我一个人做的。一个人经营一家快速增长的公司是要
 
 因为我自己就是一个开发者，我太知道开发者所面临的东西是什么，除了自己每天面临的工作之外，也想做自己喜欢的事情，通过自己学习的技术，做出能赚钱养活自己的产品。我希望这些能带给我灵感的内容，也能给看到这些内容的同学们一点启发，至少经过我的筛选，能节省很多人的时间，看的人越多，我付出的也就越值得。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h19n60po1tj20g40g00uc.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h19n60po1tj20g40g00uc.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h19n60iahmj20ga0sajuz.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h19n60iahmj20ga0sajuz.jpg)
 
 经过一年的实践，也让我更明白，简单的事不简单，看似每周更新一期，这需要付出很多的时间和精力，尤其因为业余时间做，每周光整理的时间就需要2个晚上，如果能做到定期发布，要克服很多的意外情况，对我自己其实也是一种心态上的磨炼。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h19n5zm2mvj216w0u0wml.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h19n5zm2mvj216w0u0wml.jpg)
 
 通过周刊内容的启发，也将相关的技术、灵感应用到了我新的产品里。我还专门写过一篇文章介绍我2021年做的一些事「[2021年总结：很多人已经越来越没有耐心做一件长久的事情了](http://liujinkai.com/2022/01/05/2021-summary/)」，有兴趣的也可以看下。我也希望通过我自己的方法论，和一步步的实践，分享自己的成长过程，让大家看到，我都可以做到，大家应该也可以做到。
 
 更重要的是我也收获了不少的粉丝关注，粉丝也会评论鼓励我，其实这也是让我持续更新下去的动力，有了大家的支持，相信会走的更远一些。谢谢大家，在50期相遇，让我们100期还要再见！
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h19n5zakkuj20oo0smwfx.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h19n5zakkuj20oo0smwfx.jpg)
 
 本次周刊结束，欢迎大家投稿，我们下周见！
 

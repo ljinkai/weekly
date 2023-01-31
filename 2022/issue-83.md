@@ -18,7 +18,7 @@
 - 易于设置和集成
 - 社区驱动
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqfdfpbzj21xw0sk139.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqfdfpbzj21xw0sk139.jpg)
 
 [novu开源代码地址](https://github.com/novuhq/novu)
 
@@ -32,7 +32,7 @@ Sa在一次播客采访中透露，他的网站已经成立两年了，每月的
 
 在2020年9月的一次采访中，Sa在另一次采访中透露，他的收入高达每月5万美元。
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqeubnuyj21w80qedu5.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqeubnuyj21w80qedu5.jpg)
 
 简而言之:
 
@@ -45,24 +45,24 @@ Sa在一次播客采访中透露，他的网站已经成立两年了，每月的
 
 ## 3、一些值得参考的Text-to AI项目
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqfdstodj22dc35s4qp.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqfdstodj22dc35s4qp.jpg)
 
 ## 4、Ainter: 一周内从想法到第一个付费用户
 
 在Fiverr以200美元买了一个糟糕的logo后，我们决定创造一个AI logo图标生成器。两天内我们创造了一个简单的测试版本，并在Reddit社区中发布了下，在Twitter上投放广告(备注:费用仅为20美元)。接下来的5天也是一样:从早上到晚上，我们收到反馈，以最快的速度改进我们的产品。最后，赚到了第一笔钱💰。
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqeu6wn8j21yw0vax03.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqeu6wn8j21yw0vax03.jpg)
 
 以下是我们学到的主要经验:
 1、根据用户反馈不断改进着陆页面。每天我们都会根据收到的评论和问题改进。在这段时间里，我们的转化率增加了几倍。
 
 Before:
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqetyno8j21ai12mtg8.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqetyno8j21ai12mtg8.jpg)
 
 After:
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqeu8jd8j21ma1687jl.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqeu8jd8j21ma1687jl.jpg)
 
 2、大多数人不会只为了5张图片而花钱。他们想要试用产品。是的，我们在发布时没有项目的演示版本。在发布演示版本后，我们看到了大量的用户粘性。
 3、在现有的基础上开发，会写一些蹩脚的代码。这也是我们能短期内实现验证的原因。
@@ -72,13 +72,13 @@ After:
 
 ## 5、通过Stripe支付，开发一个年收入70万美元的APP
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqeu4k9xj20wo0v0114.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqeu4k9xj20wo0v0114.jpg)
 
 我是Ryan Scherf， payment.co 的创始人，这是一个建立在Stripe支付网关之上的应用程序，用于银行卡的支付。支持iOS和Android，创建了网上商店的客户可以实现收款服务。
 
 这款应用于2015年1月推出，自那以后，它的年交易额已超过7000万美元。对每一次消费收取1%的服务费。
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqeuwfrkj21r20wsh54.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqeuwfrkj21r20wsh54.jpg)
 
 ### 你是怎么想到这个想法的?
 
@@ -86,13 +86,13 @@ After:
 
 2013年，一个曾与我一起开发发票应用的人找到了我，他有一个想法，想在一家初创公司Stripe的基础上开发一款分析应用。
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqeuhygvj21m00w0e1p.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqeuhygvj21m00w0e1p.jpg)
 
 当时，我对Stripe和支付网关一无所知。我有两个4岁和2岁的儿子，刚刚在郊区盖了一栋新房子。
 
 我们的第一款应用Paid于2013年底发布，是Stripe唯一的收益分析应用。
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqett7yqj20nm07vta4.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqett7yqj20nm07vta4.jpg)
 
 我们看到了巨大的吸引力，但我们却无法想出一种有效的盈利方式。作为设计师和iOS开发者的组合，我们开发应用的一个要求是，我们不想管理后端服务器。特别是计算资源密集型分析数据。
 
@@ -104,7 +104,7 @@ After:
 
 Payment的第一个版本的设计、构建和测试耗时超过2个月。开发工作于2014年11月开始，并于2015年1月发布。
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqeumi0sj21qy0y2e81.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqeumi0sj21qy0y2e81.jpg)
 
 我们需要MVP做的唯一一件事就是允许一些人创造收款，而我们能够收取费用。这个简单的功能在当时是不可能通过应用程序(建立在Stripe上)实现的。没有读卡器，没有花哨的东西。只是处理一个手动输入的信用卡号码，类似于你在电子购物中所做的。
 
@@ -112,7 +112,7 @@ Payment的第一个版本的设计、构建和测试耗时超过2个月。开发
 
 我们在发布时没有任何特殊的方法。没有任何宣传，也没有人看到我们的到来。我们选择了“build it and they will come” 的路线。我们一开始只关注iOS，在搜索“Stripe”时，能够找到我们，我们做到了。
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqfd6a3vj20nm06t75h.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqfd6a3vj20nm06t75h.jpg)
 
 在我们之前的应用(付费应用)中，我们拥有一个包含数千个帐户邮件的用户列表，这些邮件可能对通过应用收费感兴趣，所以我们向他们发送了活动。
 
@@ -120,7 +120,7 @@ Payment的第一个版本的设计、构建和测试耗时超过2个月。开发
 
 因为我们都是自己动手，业余时间来做，所以我们没有成本，只有时间。我们都有家庭，有稳定的经济状况。2015年自然增长，那一年我们赚了3.8万美元，我们两个人平分了这些钱。
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqfd68l8j20nm06wjso.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqfd68l8j20nm06wjso.jpg)
 
 ### 自推出以来，是什么有效地吸引和留住了客户?
 
@@ -128,35 +128,35 @@ Payment的第一个版本的设计、构建和测试耗时超过2个月。开发
 
 你可能想知道这是怎么可能的?我负责所有的客户支持工作。我没有支持团队，也没有回答请求的自动化设备。我为这个应用程序添加了一些非常常见的问题，但除此之外，我会亲自回应每一个客服请求。这让我能够随时了解什么是有效的，什么是无效的，并提前了解经常被要求的功能。
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqfd6o42j20nm05vgmj.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqfd6o42j20nm05vgmj.jpg)
 
 就增长而言，我们主要专注于应用商店(苹果和谷歌Play)，来分发和优化应用。
 
 事实上，我们与Stripe团队的合作已经足够深入，以至于他们的客户经理和支持团队会推荐他们的用户使用我们的应用程序来收款。由于我们是第一个进入市场的，我们看到竞争对手大多是一字不差地照搬我们的描述。目前我们能够进行排名的最重要的术语是“Stripe”，所以我们尝试着尽可能多地包装这个术语(尽管有些竞争对手做得更多)。
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqfd6wc9j20nm08emz9.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqfd6wc9j20nm08emz9.jpg)
 
 由于我们的应用程序严重依赖Stripe账户，我们基本上在所有相关商店购买了关键词“Stripe”的付费广告。有趣的是，我们的关键词“payment”也自然而然地排在了第1位，排在了Venmo、谷歌Pay、PayPal、Zelle等非常受欢迎的服务之前。虽然这给了我们一些下载，但大多数人放弃了，因为他们不知道Stripe账户是什么，也不知道他们为什么需要它。
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqfdoldaj20nm1f4apr.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqfdoldaj20nm1f4apr.jpg)
 
 ### 你未来的计划是什么样的?
 
 2018年，我和合作伙伴分开，因为他想专注于其他事情，而我想全身心投入支付业务。这款应用从第一天起就开始盈利，所以从来没有出现过真正的现金流问题。在撰写本文时，这款应用每月的营业额为600万美元，相当于每月6万美元的收益。其中约80%是扣除广告、托管、读卡器库存和其他杂项费用后的利润。
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqfdg7o9j20ww0ss7fq.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqfdg7o9j20ww0ss7fq.jpg)
 
 我仍然是唯一真正的员工，尽管我有几个外包，以不同的能力协助，每周约一天。我仍然在做设计，大部分较小的开发、营销和业务开发。
 
 我设定了一个目标，每月处理1000万美元的Stripe，这是一个相当大的目标，所以专注于增长似乎是正确的下一步。
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqfd7azkj20nm0fhdj5.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqfd7azkj20nm0fhdj5.jpg)
 
 ### 通过创业，你学到了什么特别有用或有益的东西吗?
 
 我最大的遗憾之一就是没有早点专注于我的事业。我们在赚钱，但我一直把它当作一种业余爱好。我的搭档也这么做了。如果我们花6个月的时间，只专注于建设它，我们可能会大大加快我们现在的进度。
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqfdjykfj21m00w0e1p.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqfdjykfj21m00w0e1p.jpg)
 
 正如前面所提到的，Stripe当时还处于起步阶段，我们抓住机遇，在这一浪潮中度过了5年多的时间。
 
@@ -164,7 +164,7 @@ Payment的第一个版本的设计、构建和测试耗时超过2个月。开发
 
 我认为任何人能做的最好的事情就是学会如何自己建造它。有了大量的框架，就比以往任何时候都更容易启动和运行一些杂乱无章的东西。不要等到攒了1万美元才去雇佣工程师。如果你不能自己做一些事情，你的钱永远都不够。
 
-![](https://tva1.sinaimg.cn/large/64db9f2aly1h8wqfedbx3j21g40pce81.jpg)
+![](https://snimg.jamyido.top/large/64db9f2aly1h8wqfedbx3j21g40pce81.jpg)
 
 此外，没有完美的时机。你不需要等着辞职，因为其他事情自然会出现。投入工作并发布一些东西是让你从为别人工作的限制中解放自己的唯一方法。
 

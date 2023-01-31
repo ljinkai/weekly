@@ -14,17 +14,17 @@ popsy预先提供了很多可视化模板，只需要将Notion页面的链接输
 
 1、选择一个现成模板样式，输入Notion页面链接
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h3k30ij20sc0kttb5.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h3k30ij20sc0kttb5.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h6foxvj20v30ab3z9.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h6foxvj20v30ab3z9.jpg)
 
 2、生成页面
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h6cg21j20dm0kcdgd.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h6cg21j20dm0kcdgd.jpg)
 
 3、这个产品的定价是每月8美金
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h669htj20rq0apjs5.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h669htj20rq0apjs5.jpg)
 
 [Popsy官网](https://popsy.co/)
 
@@ -33,9 +33,9 @@ popsy预先提供了很多可视化模板，只需要将Notion页面的链接输
 通过Notionlytics，我们可以找出哪些内容最有帮助，哪些页面最受关注。甚至实时监控页面浏览量!
 通过生成的内嵌code, 直接嵌入到Notion页面即可。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h61c4bj20x50fh40r.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h61c4bj20x50fh40r.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h5y528j21e90u042t.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h5y528j21e90u042t.jpg)
 
 [Notionlytics官网](https://notionlytics.com/)
 
@@ -49,25 +49,25 @@ popsy预先提供了很多可视化模板，只需要将Notion页面的链接输
 
 第一步将视频链接输入
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h5sm9kj20za0l4wfr.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h5sm9kj20za0l4wfr.jpg)
 
 第二步就可以将字幕单词获取并添加
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h5nhnwj20a8064aab.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h5nhnwj20a8064aab.jpg)
 
 第三步 查看单词表
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h5iworj20a8064dfx.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h5iworj20a8064dfx.jpg)
 
 [Wordbook官网](https://app.wordbook.pro/)
 
 ## 4、我如何建立了一个年收入42万美元的业务，将播客转化为文章
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h5dgruj20b40b4aam.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h5dgruj20b40b4aam.jpg)
 
 嘿!我是Jaclyn Schiff.。我是 PodReacher 的创始人。我们是一家小众机构，将网络研讨会、虚拟活动、播客和视频重新转化为博客文章、客户故事、案例研究等书面内容。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h57dhrj21n60tu0za.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h57dhrj21n60tu0za.jpg)
 
 我们在内容领域是独一无二的，因为我们只创造可重新利用的内容:我们将音频或视频转化为有价值的营销内容。与我们合作的公司——大多是B2B SaaS或医疗、金融、销售、人力资源或市场营销领域的科技公司——正在创建或参与大量录制内容。这是一个巨大的机会来利用录音，并从中获得更多，客户喜欢把这些耗时的项目交给我们。
 
@@ -79,7 +79,7 @@ popsy预先提供了很多可视化模板，只需要将Notion页面的链接输
 
 我的重点一直是创建一个系统，以产生最高质量的书面工作。这也是我们如此专注于写作的部分原因。我相信增长都要回归到质量上来。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h50d35j21rc0mcgqn.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h50d35j21rc0mcgqn.jpg)
 
 从广义上来说，我认为自己是一名内容策略师。我在为一系列客户撰写时事通讯、写作和咨询。大约在这个时候，我也在做数字游民的事情,并写相关文章。
 
@@ -87,7 +87,7 @@ popsy预先提供了很多可视化模板，只需要将Notion页面的链接输
 
 我不到一年就把那家公司倒闭了。事后看来，我觉得自己还没有做好创业的准备。但这一次不同——我对如何让企业起步有了一定的认识，我准备坚持下去。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h4ufllj20ww0p0wia.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h4ufllj20ww0p0wia.jpg)
 
 我花了几个月的时间评估不同的想法。我知道我想创办一家服务企业，因为这最适合我的技能和经验。最初，当我注意到一些播客创作者要求把节目变成文章时，产生了创建PodReacher的想法。我想我在Facebook群组里看到过关于这个的讨论。我去了Upwork，看看是否有与此匹配的工作，也确实有几个。
 
@@ -97,7 +97,7 @@ popsy预先提供了很多可视化模板，只需要将Notion页面的链接输
 
 我的职业生涯是在新闻行业开始的，所以把采访或对话写成一篇文章的想法对我来说并不陌生，我可以用我早期写过的文章作为例子。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h4oiiqj21d30u0ady.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h4oiiqj21d30u0ady.jpg)
 
 高质量的内容转换非常耗时:把一段45分钟的录音转换成一篇1500字的文章，可能要花上6个小时。我们认为好的再利用是一门艺术。如果做得好，它可以为你创造一些最强大的内容资产。
 
@@ -111,13 +111,13 @@ popsy预先提供了很多可视化模板，只需要将Notion页面的链接输
 
 当我准备开始创业时，我做了一些研究，并确定了10个播客，它们似乎可以从重新利用中受益。我主动发送了一些推广的邮件。有一半的人对此感兴趣，并最终有2个愿意合作。那时我才知道，我手头有一个可行的生意。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h4iz9vj21d30u0aej.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h4iz9vj21d30u0aej.jpg)
 
 芝加哥科技播客Technori的Scott 对我的提议给予了积极的回复。Technori成为PodReacher的第一个客户，我们与他们合作了一年多。以下是我的原始邮件和Scott的回复:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h4dozvj20nm080q3t.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h4dozvj20nm080q3t.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h49x4pj20nm05xglm.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h49x4pj20nm05xglm.jpg)
 
 早些时候，我用了很多不同的语言来描述这项服务，我关注人们如何回应，以及什么能引起共鸣。
 
@@ -133,7 +133,7 @@ popsy预先提供了很多可视化模板，只需要将Notion页面的链接输
 
 但我们吸引新客户的主要方式是通过销售。我为一家对外公司工作，他们会把感兴趣的客户转给我做销售电话。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h43jwej20nm0i5myx.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h43jwej20nm0i5myx.jpg)
 
 早些时候，我们为第一篇文章提供了很高的折扣。它被设计成一个吸引新客户的“不可抗拒的吸引”。它确实得到了相当多的讨论，人们会分享它。但最终，它并没有给我们带来合适的客户。所以，一年多前，我们不再提供这种服务，因为我们的理想客户形象越来越清晰。
 
@@ -149,7 +149,7 @@ popsy预先提供了很多可视化模板，只需要将Notion页面的链接输
 
 在过去的一年里，我组建了一支强大的核心管理团队，这对公司的运营起到了巨大的帮助。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h3w7ygj20nm0jsn0j.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h3w7ygj20nm0jsn0j.jpg)
 
 虽然我们所有的撰稿人都是合同工，但我对提供良好的员工体验是认真的。我一直在寻找能让有写作天赋的人与我们一起学习、发展和成长的方法。
 
@@ -159,7 +159,7 @@ popsy预先提供了很多可视化模板，只需要将Notion页面的链接输
 
 在早期，你的logo和你的网站并不重要——尤其是当你提供服务的时候。修补品牌和网站可能很有趣，但这不会帮助你获得客户。在早期，你的logo不会让你在市场上脱颖而出，你的网站也不太可能在一开始就帮你实现任何转变。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h535h3p0pyj20nm0hpdgg.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h535h3p0pyj20nm0hpdgg.jpg)
 
 相反，专注于与客户交谈，并开发解决问题的解决方案。不要忙于制作一个漂亮的标志和花哨的网站。
 

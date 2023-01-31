@@ -19,11 +19,11 @@
 ⛔️ 做一个开发者
 ✅ 在12个月内创建12个产品
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwjnxe52nzj30oi0yidie.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwjnxe52nzj30oi0yidie.jpg)
 
 **一致性是关键! 这就是系统的作用。**
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwjnxhsw97j30p00dzdg7.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwjnxhsw97j30p00dzdg7.jpg)
 
 [系统性思考完成目标](https://twitter.com/dannypostmaa/status/1460899798756642820)
 
@@ -35,15 +35,15 @@ Paper Website是一个很有意思的产品。创作者本人经常会用笔和�
 
 第1步：在笔记本省书写内容
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwjnxhiu19j30za0l4gpr.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwjnxhiu19j30za0l4gpr.jpg)
 
 第2步：用手机App拍照
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwjnxgyxhgj30za0l4jzd.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwjnxgyxhgj30za0l4jzd.jpg)
 
 第3步：生成个人微型网站
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwjnxghllmj30za0l4jxz.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwjnxghllmj30za0l4jxz.jpg)
 
 你的手写文本会被转换成在线文本，并添加到你自己的微型网站上作为网页。在那里设计，编辑，分享你的网站等等。
 
@@ -60,7 +60,7 @@ Paper Website是一个很有意思的产品。创作者本人经常会用笔和�
 构建漂亮的多步骤的形式表单填写，带来多达2倍的效果-无代码。这是一款无代码构建在线表单的产品。特点是分步骤式的交互方式。这个产品生成的表单可以嵌入到其它的页面里。
 目前已经达到了月收入2千美金。PPC(谷歌广告)和SEO仍然是主要的获取渠道。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwjnxg6pw9j30na0epq3m.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwjnxg6pw9j30na0epq3m.jpg)
 
 [Growform官网](https://www.growform.co/)
 
@@ -72,7 +72,7 @@ Paper Website是一个很有意思的产品。创作者本人经常会用笔和�
 
 谷歌更新了他们对视频的最佳做法，说为了最大限度地曝光，视频应该放在专门的页面上。它们应该是这些页面上最突出的位置。然后他们明确表示，这是一些丰富结果的必要条件，包括关键时刻和Live Badge。值得注意的是，你仍然可以在其他页面上包含视频——它只需要有自己的页面。在专用页面中包含视频标题、描述和文字记录也是好的做法。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwjnxg1e6gj30bd0gogls.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwjnxg1e6gj30bd0gogls.jpg)
 
 [谷歌视频搜索推荐指导](https://searchengineland.com/google-recommends-placing-videos-on-dedicated-pages-for-maximum-exposure-375746)
 
@@ -80,7 +80,7 @@ Paper Website是一个很有意思的产品。创作者本人经常会用笔和�
 
 Sweepy是一个帮助你制定清理家务计划的App。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwjnxfsunfj31mb0u0tf7.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwjnxfsunfj31mb0u0tf7.jpg)
 
 Maxence 和 Oxana 在2019年结的婚。也是这一年开始做Sweepy 这个产品。
 
@@ -92,13 +92,13 @@ Maxence决定做B2C领域，是因为注意到做好一家B2B软件公司，每�
 
 当发布这款应用时，苹果注意到了它，并立即将其放在了app Store的首页。第一天就卖出了100份。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwjnxfilrmj310u0i87a0.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwjnxfilrmj310u0i87a0.jpg)
 
 这确实激励了他们继续在这个产品上工作。但看到产品的成功发行，确信自己的产品是人们想要购买的。然而，两周后，开始看到越来越少的新用户。就决定转向Facebook广告的付费营销。那时没有达到收支平衡。每天都在赔钱。但花的是前100次销售赚来的钱，所以也并不会太担心。
 
 对这个产品来说，最重要的是设计颜色指示器。例如，如果你打开应用，你会看到，在你的每个房间旁边，有一个颜色代表你家的状态。是希望用积极的方式鼓励用户清理。这个应用程序总是用漂亮的信息来激励用户。有一个应用程序可以准确地告诉你该做什么，这很有帮助。产品的高级功能就是——一个你每天必须遵循的时间表，以保持你的房子清洁。Maxence 和 Oxana花了大部分时间来设计时间表。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwjnxfabgrj30z80qgwmh.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwjnxfabgrj30z80qgwmh.jpg)
 
 一开始，以为有孩子的人会更多的使用 Sweepy。但后来，注意到越来越多的多动症患者在使用，来让他们的生活更轻松，他们发现每天有一个时间表是很有用的。
 
@@ -106,7 +106,7 @@ Maxence决定做B2C领域，是因为注意到做好一家B2B软件公司，每�
 
 Maxence从Play Store和App Store上的评论中发现了这一点。越来越多的人说他们患有多动症，而这个应用程序真的帮助了他们。当看到这个时，就开始更多地关注心理健康方面。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gwjnxegtbtj30xc0ir40h.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gwjnxegtbtj30xc0ir40h.jpg)
 
 每天都会收到大约20封关于改进Sweepy的新建议和新功能的邮件。到目前为止，所做的大部分工作都是着眼于用户的需求，并对他们最常提出的需求进行优先排序。
 

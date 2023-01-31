@@ -15,9 +15,9 @@
 
 这个产品是在网页上可以点击开始留下语音，通过链接打开的人，点击页面上的emoji图标，可以收听在网页上留下的语音。对于开发者或者设计师人员会比较有用。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6by0ryj21jq0n0whm.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6by0ryj21jq0n0whm.jpg)
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6g9mitj20j00w8jtm.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6g9mitj20j00w8jtm.jpg)
 
 [Vero.fm官网](https://www.vero.fm/)
 
@@ -27,11 +27,11 @@
 
 Flow Club 与那些带给鼓励的人，参加虚拟的共同工作空间，让你进入心流状态。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6fqhm8j21l30u0tc8.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6fqhm8j21l30u0tc8.jpg)
 
 10个月前，成立了Flow Club。它成为一个充满活力和鼓舞人心的空间，以提高你的注意力，获得动力，并感觉你不仅是在自己工作，而且与其他激发你动力的人一起工作。许多媒体也写过他们在Flow Club做“虚拟联合工作”的经历。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6fi2o0j21wq0t67ak.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6fi2o0j21wq0t67ak.jpg)
 
 今天，我们将把这个想法进一步发展到Flow Club Lounge。Lounge将同样的社会责任带到一个引人关注的空间，你可以在任何时间、任何地方访问，而不需要加入我们的现场会议。
 
@@ -50,15 +50,15 @@ Flow Club 与那些带给鼓励的人，参加虚拟的共同工作空间，让�
 
 我的副业项目Slack应用Abot最近实现了总利润5万美元的里程碑。在过去的两年里，它基本上一直在自动模式下运行，基本上不用太多的人工操作。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6f9fmcj20rs07w3yw.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6f9fmcj20rs07w3yw.jpg)
 
 Abot是一个高度可定制的Slack插件，用于发送匿名消息和民意调查。我在2017年5月发布了第一个版本，作为一个免费使用的周末项目。2018年3月，在获得HackerNews的推荐后，它获得了最初的关注。从那以后，我推出了基于订阅的定价模式，并不断添加新功能。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6f3d0nj21h40u00va.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6f3d0nj21h40u00va.jpg)
 
 就在新冠肺炎爆发之前，我决定辞职休息几个月。当时，Abot每月的经常性收入(MRR)约为1.5K美元，不足以过上舒适的生活。但是，流行病和远程工作革命确实影响了对加强通信工具的需求。在几个月内，MRR几乎翻了一番，从而达到了盈利水平。MRR最近4k~5k美元。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6eyk4nj20jg09z3yz.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6eyk4nj20jg09z3yz.jpg)
 
 到目前为止，这款应用已经被超过5000个Slack团队安装，并被列入Slack杰出机器人类别。
 
@@ -72,11 +72,11 @@ Josh为JavaScript开发者构建了CSS，这是一个在线课程，结合了视
 
 大家好!我叫Josh!  是一名前端开发人员，来自加拿大蒙特利尔。我曾为Khan Academy, DigitalOcean 工作。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6etniuj20pf0pe41f.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6etniuj20pf0pe41f.jpg)
 
 在过去的一年里，我一直在为JavaScript开发人员创建一个名为 "CSS for JavaScript Developers"。这是一门综合课程，结合了各种媒体格式，从视频到文章，互动小部件和迷你小游戏。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6eg0m9j20vy0ko0uk.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6eg0m9j20vy0ko0uk.jpg)
 
 我最初的计划是3-4个月完成课程。6个月后，也就是2021年3月，我只完成了一半。我不想花一年的时间去创造一些可能会失败的内容，所以我决定将预售期设定为1周，目标是卖出5万美元。结果我在一周内卖出了55万美元!
 
@@ -86,7 +86,7 @@ Josh为JavaScript开发者构建了CSS，这是一个在线课程，结合了视
 
 令人沮丧的是，我无法很轻松地打字。几个月来，我只能打几分钟，然后我的肘部就开始灼热。作为一个开发人员，这是一个很棘手的问题!
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6eccmpj20p10ista3.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6eccmpj20p10ista3.jpg)
 
 幸运的是，我找到了一种不用手也能高效工作的方法，大约8个月后，我恢复了打字的能力。但这段经历很痛苦，也给我上了宝贵的一课:生命是短暂的，身体健全也是暂时的。
 
@@ -96,7 +96,7 @@ Josh为JavaScript开发者构建了CSS，这是一个在线课程，结合了视
 
 不过，CSS本身并不难!这是一种非常优雅的语言。问题是它是隐式的。语言的规则是隐藏的，如果你不理解这些规则，你就不会玩得很开心。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6dycjnj21h70u0add.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6dycjnj21h70u0add.jpg)
 
 所以我课程的目标就是改变这种关系，帮助人们认识到CSS可以是非常有趣的!这是一个相当高的目标，但我想选择一些具有高影响和持久的东西。我很高兴能够帮助开发人员认识到CSS的优雅，并希望它能像JavaScript一样为他们带来乐趣!
 
@@ -108,7 +108,7 @@ Josh为JavaScript开发者构建了CSS，这是一个在线课程，结合了视
 
 这也意味着我可以定制游戏体验，创造一些独特的、优质的、异想天开的内容。比如，我很确定我的课程是唯一一个用焰火来庆祝你入学的课程。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6dr5nwj20em08wdg6.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6dr5nwj20em08wdg6.jpg)
 
 在最初的几个月后，我将自己的时间分配给了内容和平台。当我准备好几个模块后，我邀请了大约30个人来试用。我免费邀请了我以前的学生，他们是我在开发训练营时的学生。
 
@@ -116,7 +116,7 @@ Josh为JavaScript开发者构建了CSS，这是一个在线课程，结合了视
 
 在2020年底，我开始公开分享我的构建过程。我分享了我正在做的事情的Gif、内容和平台的预览。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6dfiytj20pg0t4go8.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6dfiytj20pg0t4go8.jpg)
 
 这帮助我建立了一些早期的注意力，我开始向那些给我发邮件询问这门课程的人推销这门课程。通过这种方式，我得到了大量有价值的反馈。
 
@@ -126,7 +126,7 @@ Josh为JavaScript开发者构建了CSS，这是一个在线课程，结合了视
 
 我只开设了一周的销售课程，因为我还有大量的工作要做，而且我知道不断的新学生会分散我的注意力。到那周结束时，我已经卖出了近5000份:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6dahhoj20pm0hf75a.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6dahhoj20pm0hf75a.jpg)
 
 这一周真是糟透了。这里存在许多技术问题(从头开始构建平台的弊端!)，我在那一周的大部分时间都在努力处理不断增长的支持请求。这让人既紧张又兴奋。
 
@@ -136,11 +136,11 @@ Josh为JavaScript开发者构建了CSS，这是一个在线课程，结合了视
 
 我在Twitter上会分享一些“快速技巧”和一些易于理解的开发知识。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6d5wjdj20qk0r8q5i.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6d5wjdj20qk0r8q5i.jpg)
 
 我也有一个博客，joshwcomeau.com
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6czossj21kw0lewhh.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6czossj21kw0lewhh.jpg)
 
 这些博客文章本质上是推文的“深度”版本。他们主要是关于JS和CSS的话题，虽然我也有一些关于职业和个人发展的帖子。
 
@@ -156,11 +156,11 @@ Josh为JavaScript开发者构建了CSS，这是一个在线课程，结合了视
 
 Twitter也很有帮助(Twitter贡献了约14%的销售额)，但电子邮件才是王道。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6cvh9vj21de0oydjd.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6cvh9vj21de0oydjd.jpg)
 
 ### 你未来的目标是什么?
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6cmktpj20g409gjs6.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6cmktpj20g409gjs6.jpg)
 
 自从预售发布前，我们已经忙了6个月了!
 
@@ -176,7 +176,7 @@ Twitter也很有帮助(Twitter贡献了约14%的销售额)，但电子邮件才�
 
 ### 你的主要经验教训是什么?
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6cah22j20qo0c875p.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6cah22j20qo0c875p.jpg)
 
 最重要的是:不要用限量版优惠券。
 
@@ -194,7 +194,7 @@ Twitter也很有帮助(Twitter贡献了约14%的销售额)，但电子邮件才�
 
 ### 你克服的最大障碍是什么?
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h32c6c30puj20go08cab3.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h32c6c30puj20go08cab3.jpg)
 
 最大的挑战可能是准确预测工作的难度。对于从事技术产品开发的人来说，这并不奇怪，但开发所需的时间总是比你想象的要长。我原本希望在3-4个月内完成这门课程，但实际上，这需要一年多的全职工作。
 

@@ -14,7 +14,7 @@
 
 它不需要来自服务器的任何渲染，因为整个图像是在客户机的浏览器上创建的。但是，由于它严重依赖浏览器，这个库不适合在nodejs中使用。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzteb4xj31t00u0dla.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzteb4xj31t00u0dla.jpg)
 
 [html2canvas开源地址](https://github.com/niklasvh/html2canvas)
 
@@ -22,7 +22,7 @@
 
 市场上有很多优秀的产品，同时开源代码里也有类似产品的开源替代，这些开源项目能帮我们快速的实现产品。所以我整理了一些知名产品的开源替代项目，放到的ezindie网站上，今后如果有类似产品的需求，可以及时参考。这个集合页面会不断更新迭代。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzwcs5hj30u01bdtd5.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzwcs5hj30u01bdtd5.jpg)
 
 [Ezindie的开源项目替代](https://www.ezindie.com/open-source-alternative)
 
@@ -30,21 +30,21 @@
 
 Sidekick是一款面向知识工作者的生产力浏览器。是Mac上的一款桌面端应用，它集成了所有的web应用程序，以帮助保持组织和高效，同时加快你的工作流程。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzw4xxwj31sm0rsn1i.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzw4xxwj31sm0rsn1i.jpg)
 
 消除标签混乱：会话帮助你分组，保存和打开标签，而不混乱。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzvy21dj31320ogwhr.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzvy21dj31320ogwhr.jpg)
 
 多账户帮助您在Gmail、Slack、concept和messenger中的不同账户之间跳转，而无需注销。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzvr0ymj313i0pmacx.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzvr0ymj313i0pmacx.jpg)
 
 [Sikekick官网](https://www.meetsidekick.com/)
 
 ## 4、我的SaaS模板开发套件每月赚4千美元
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzvnhz8j309y09y74n.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzvnhz8j309y09y74n.jpg)
 
 Hi, 我是Alexandro，墨西哥人，我正在开发SaasRock，具有开箱即用的功能，如认证、订阅、验证、事件和Webhooks、定价计划构建器、博客、权限等。使用Remix、Tailwind CSS和Prisma构建，并与Stripe的支付功能、Postmark的邮件功能和Zapier的Webhooks功能进行了很好的集成。托管在Vercel上，使用Supabase作为数据库。
 
@@ -52,7 +52,7 @@ Hi, 我是Alexandro，墨西哥人，我正在开发SaasRock，具有开箱即�
 
 SaasRock目前的月收入为4380美元。我在今年3月19日开始开发，并在6月1日进行了预发布。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzvk96oj30nm0fijsm.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzvk96oj30nm0fijsm.jpg)
 
 ### 你是怎么想到这个想法的?
 
@@ -62,15 +62,15 @@ SaasRock目前的月收入为4380美元。我在今年3月19日开始开发，�
 
 但我觉得我的开发可以更快，于是将Vue2应用迁移到Vue3，然后是React，然后是slvelte。结果是相同的样板，但有不同的前端，我称之为saasfrontend。过了一段时间，我从中赚到了765美元。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzvh99mj30nm06yt9b.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzvh99mj30nm06yt9b.jpg)
 
 然后我发现了Remix，一个专注于web标准的全栈JavaScript框架。我立刻意识到这是一个完美的解决方案，所以我在7天内构建了“the Remix SaaS kit”(现在的SaasRock)的v0.0.1版本，并在24小时内免费提供。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzvd764j30nm0xi41q.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzvd764j30nm0xi41q.jpg)
 
 这条推文很受欢迎，因为Remix团队转发了它，我获得了超过1000次的下载:
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzv8qbdj30nm0egwgl.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzv8qbdj30nm0egwgl.jpg)
 
 在这一点上，我决定开源其他SaaS套件，并专注于SaasRock。
 
@@ -80,11 +80,11 @@ SaasRock目前的月收入为4380美元。我在今年3月19日开始开发，�
 
 这是网站第一次发布时的样子:
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzv4aj2j30nm0cbab2.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzv4aj2j30nm0cbab2.jpg)
 
 这是它现在的样子:
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzv16prj30nm0djjsk.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzv16prj30nm0djjsk.jpg)
 
 对于每个网站我发布我需要:
 
@@ -109,11 +109,11 @@ SaasRock目前的月收入为4380美元。我在今年3月19日开始开发，�
 
 对于v0.0.1，我获得了大约1000个gumroad“客户”(每人0美元)，我的手机通知一直响个不停。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzuxkk2j30nm0f0di2.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzuxkk2j30nm0f0di2.jpg)
 
 最终结果:1066人下载了Remix SaaS套件v0.0.1。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzurkn1j30nm1cdgqs.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzurkn1j30nm1cdgqs.jpg)
 
 **第二阶段:Remix SaaS套件 — 3月29日 — 299美元**
 
@@ -121,11 +121,11 @@ SaasRock目前的月收入为4380美元。我在今年3月19日开始开发，�
 
 April Remix SaaS套件客户:
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzuibo9j30nm19djuj.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzuibo9j30nm19djuj.jpg)
 
 Remix SaaS套件的整体分析:
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzucc86j30nm0qp408.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzucc86j30nm0qp408.jpg)
 
 在这个阶段，我遇到了我的产品/营销导师和朋友Chris Kluis。他主动提出帮助我编写样板，因为他对SaaS应用程序很感兴趣。他指出了两件事:
 
@@ -142,17 +142,17 @@ $149/m:核心+企业功能:单点登录，附属+推荐，HelpDesk…
 
 在推出saasrock.com两天之后，我获得了第一个99美元的订阅者。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzu8xhkj30nm0jw75c.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzu8xhkj30nm0jw75c.jpg)
 
 截至9月15日，也就是发行前的3个月，我已经拥有69名用户，并获得了8000美元的收益。虽然还不足以让你全职工作，但足以让你知道Remix SaaS样板的市场是有潜力的。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uzu36yvj30nm0hwjsl.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uzu36yvj30nm0hwjsl.jpg)
 
 ### 自推出以来，是什么有效地吸引和留住了客户?
 
 启动Discord是关键。通过这种方式，围绕SaasRock的社区正在成长，每个人都在分享他们对SaasRock应该往何处发展的想法。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uztzkx4j30nm0nmabd.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uztzkx4j30nm0nmabd.jpg)
 
 另外，得到关于我和产品的反馈和好评会让我有动力去回馈!
 
@@ -164,7 +164,7 @@ $149/m:核心+企业功能:单点登录，附属+推荐，HelpDesk…
 
 #enterprise - 我们谈论即将到来的企业功能。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uztuwuwj30nm0futa9.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uztuwuwj30nm0futa9.jpg)
 
 总的来说，我认为discord服务可以让我在建立社区的同时与终端用户保持联系，这对SaasRock的前景来说是一个很好的证明。
 
@@ -172,7 +172,7 @@ $149/m:核心+企业功能:单点登录，附属+推荐，HelpDesk…
 
 优秀的编码是不够的。我认为最好的营销策略是“打造高质量的产品，顾客就会来”。我意识到我需要尝试所有我能想到的策略: 每隔一天推特、YouTube视频和博客帖子。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uztqndmj30nm0ebabd.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uztqndmj30nm0ebabd.jpg)
 
 我的营销策略的关键是一切都是相互联系的。我创建了一个功能，我把它添加到更新日志中，我创建了一篇关于它的博客文章，我把我的想法发在推特上，我发布一个YouTube视频解释如何使用它。所以现在，对于我创建的每个功能，我都有一个:
 
@@ -182,7 +182,7 @@ $149/m:核心+企业功能:单点登录，附属+推荐，HelpDesk…
 
 重点是开始写你喜欢做的事情，**这样你就可以围绕它建立一个系统。**
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h72uztko5rj30nm0b0q47.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h72uztko5rj30nm0b0q47.jpg)
 
 ### 对其他想要起步的开发者有什么建议?
 

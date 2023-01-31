@@ -15,11 +15,11 @@
 
 可以方便的导出Figma Tokens, Chakra UI, Material UI, Tailwind, CSS, CSS Vars, JSON.
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h6fpsz8m4wj21p70u0dm2.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h6fpsz8m4wj21p70u0dm2.jpg)
 
 颜色面板调色这一个细分的领域也能做成一个持续赚钱的产品。产品做的很细致并专业。值得我们学习。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h6fpszrb89j20kf0c8jsd.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h6fpszrb89j20kf0c8jsd.jpg)
 
 [supa-palette官网](https://www.supa-palette.com/)
 
@@ -27,7 +27,7 @@
 
 这是一个在线产品。如果你有一个纹身的想法，但找不到合适的设计，让我们的人工智能在几秒钟内生成一个。它可以让你根据自己喜欢的东西创造出完美的设计，它会给你无限的选择，让每个人都能创造自己喜欢的东西。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h6fpt0oftdj21e60u0gor.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h6fpt0oftdj21e60u0gor.jpg)
 
 [tattoosai官网](https://www.tattoosai.com/)
 
@@ -35,12 +35,12 @@
 
 Stripe支付平台推出了App Marketplace的新服务，Stripe将提供第三方应用的访问，以及应用发布者、用户和Stripe自己创建的脚本，这些脚本将应用与Stripe整合在一起。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h6fpt0hreqj21de0ro12d.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h6fpt0hreqj21de0ro12d.jpg)
 
 应用市场的想法来自于该公司对Stripe产品使用方式的观察:简而言之，支付不是凭空产生的，而是更广泛的业务服务流的一部分，可能涉及销售或营销活动、客户支持团队以及合同或其他协议的发布。
 Stripe Apps允许你将Stripe与帮助台、会计软件等连接起来，这样你就可以简化工作流程，并在Stripe中方便的添加。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h6fpt05u7bj21t90u0teq.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h6fpt05u7bj21t90u0teq.jpg)
 
 Stripe App Marketplace还处在早期的Beta阶段，也是属于发展阶段，可以考虑在上面开发一些应用。
 
@@ -59,13 +59,13 @@ Memberstack在以下情况下特别有用:
 
 Memberstack可以让你用你最喜欢的网页设计工具建立会员制网站、Dashboard。与Webflow，卡片，PageCloud, Hubspot CMS，静态HTML快速集成。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h6fpszxossj21m10u0418.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h6fpszxossj21m10u0418.jpg)
 
 [Memberstack官网](https://www.memberstack.com/)
 
 ## 5、如何用0美元的营销预算创建年收入7.2万美元的在线应用询价市场
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h6fpt0s89pj20m80b4mxx.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h6fpt0s89pj20m80b4mxx.jpg)
 
 Hi,我们是Laurits Just和Jan-Philipp Peters, BitsForDigits的创始人。BitsForDigits是一家年收入超过10万美元的在线企业收购市场。我们的平台是匿名和免费的，业主可以完全或部分出售他们的业务。
 
@@ -77,7 +77,7 @@ Hi,我们是Laurits Just和Jan-Philipp Peters, BitsForDigits的创始人。BitsF
 
 到目前为止，目前每月收入6000美元，新注册人数稳步增长。我们最初最大的增长动力是我们在Product Hunt上的发布，为我们的平台增加了300多名用户。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h6fpszo1q7j20nm0gqwfx.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h6fpszo1q7j20nm0gqwfx.jpg)
 
 ### 你是怎么想到这个想法的?
 
@@ -103,7 +103,7 @@ MVP的最后一个关键工具是MemberChat，这是一个消息传递集成，�
 
 我们与国际律师事务所Hogan Lovells合作，作为早期创业公司参与他们的金融科技导师计划。他们为我们提供有关所有司法管辖区的法律建议，以确保我们在这一领域符合监管机构的要求。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h6fpszjs5pj20nm0btt9t.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h6fpszjs5pj20nm0btt9t.jpg)
 
 ### 描述启动业务的过程。
 
@@ -147,7 +147,7 @@ MVP的最后一个关键工具是MemberChat，这是一个消息传递集成，�
 
 此外，这些渠道可以免费利用。我们不需要每个月花费数千美元在谷歌广告上获取客户。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h6fpszejthj20nm0k2mz1.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h6fpszejthj20nm0k2mz1.jpg)
 
 ### 你未来的计划是什么样?
 

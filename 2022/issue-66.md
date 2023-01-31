@@ -15,7 +15,7 @@ Padloc可用于Windows、MacOS、iOS、Android和所有其他主要平台和浏�
 
 别担心，你的数据是端到端加密的，所以我们或任何人都不可能读取它!
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4uw6d8hcgj21760u0dkk.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4uw6d8hcgj21760u0dkk.jpg)
 
 [padloc官网](https://padloc.app/)
 
@@ -38,7 +38,7 @@ Jira集成允许将你的更新链接到特定的Jira任务
 
 Spinach会保存一份摘要，并自动将其发布到Slack上。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4uw6eld28j210l0mjjur.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4uw6eld28j210l0mjjur.jpg)
 
 [Spinach官网](https://spinach.io/)
 
@@ -46,17 +46,17 @@ Spinach会保存一份摘要，并自动将其发布到Slack上。
 
 Excalidraw是一款开源软件，有免费版和付费的团队协作版。有丰富的手绘组件库可以使用。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4uw6ehbpnj20w00iwaci.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4uw6ehbpnj20w00iwaci.jpg)
 
 远程工作和协作的重要性并没有减弱，越来越多的人开始使用Excalidraw这样的工具。我们看到它的月活跃用户从60K增加到170K !
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4uw6edp18j20ge06k751.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4uw6edp18j20ge06k751.jpg)
 
 [Excalidraw开源代码地址](https://github.com/excalidraw/excalidraw)
 
 ## 4、我是如何把一个短链接生成工具变成一个可持续盈利的产品？
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4uw6e9zeyj20b40b4aai.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4uw6e9zeyj20b40b4aai.jpg)
 
 我叫Hugo，一个24岁的法国开发者。我从中学时代就开始学习和建立网站和程序。我喜欢为开源项目做出贡献，大部分是与linux相关的。
 
@@ -64,14 +64,14 @@ Excalidraw是一款开源软件，有免费版和付费的团队协作版。有�
 
 下面就是urlr.me这个产品的诞生过程。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4uw6e5nfaj20xc0jo75n.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4uw6e5nfaj20xc0jo75n.jpg)
 
 ### 一开始
 
 在众多现有的短域名服务工具中，
 它是用PHP开发的，没有任何框架。以下是2019年5月推出的第一个版本的截图(法语版本)。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4uw6dyd77j21hc0pwab3.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4uw6dyd77j21hc0pwab3.jpg)
 
 基本但功能齐全😋
 
@@ -91,7 +91,7 @@ Excalidraw是一款开源软件，有免费版和付费的团队协作版。有�
 
 以下是2019年5月至2021年3月之间创建的url的数据图表:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4uw6dsp8tj215s0h5wfa.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4uw6dsp8tj215s0h5wfa.jpg)
 
 从每天15条到9000多条。我对这些数字印象深刻。看到这里，我决定借助谷歌AdSense在主页上添加一些广告，来测试这些流量是否可以盈利。
 
@@ -103,7 +103,7 @@ Excalidraw是一款开源软件，有免费版和付费的团队协作版。有�
 
 问题是，由于欺诈点击，我已经暂停了几次服务。所以这是非常危险的，根本不稳定。此外，如果不能持续增加游客数量，这是很难增长的。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4uw6dpx7lj20d005mq2x.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4uw6dpx7lj20d005mq2x.jpg)
 
 因此，在2021年4月，我推出了与Stripe的订阅服务，通过以下计划将URLR变成一个真正的SaaS平台:
 
@@ -115,7 +115,7 @@ Excalidraw是一款开源软件，有免费版和付费的团队协作版。有�
 目前没有免费试用。
 它带来了许多新特性(API、团队使用、减少限制……)。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4uw6dmtz8j20xc0ha40a.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4uw6dmtz8j20xc0ha40a.jpg)
 
 你猜怎么着?
 
@@ -123,7 +123,7 @@ Excalidraw是一款开源软件，有免费版和付费的团队协作版。有�
 
 2021年7月，第一个客户选择了年度专业版(150欧元)。接下来的三个新客户也有年度版。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4uw6dji94j20qs01fdfp.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4uw6dji94j20qs01fdfp.jpg)
 
 我的商业模式在这一刻得到了验证。这个时候的月收入大概是50欧元/月。所以，比广告少，但更稳定，更可扩展。
 
@@ -148,7 +148,7 @@ Nathan推出的第一个功能是CSV导入，这是我们的客户一直在等�
 
 我们现在的落地页面是:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h4uw6ddp6ij21hc0pwgnv.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h4uw6ddp6ij21hc0pwgnv.jpg)
 
 下面是我们的客户为什么选择URLR而不是Bitly的实际理解状态:
 

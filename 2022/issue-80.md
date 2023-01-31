@@ -14,7 +14,7 @@
 
 通过可视化方式，学习算法变得容易得多。这是一个开源项目，Github上有40K的Star。有在线网站可以学习常用的算法，可视化的效果，右侧是实际的算法代码。对于理解算法非常有帮助。有对算法不熟悉的同学建议实际体验下，感受下算法之美。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87aoyd10yj30qo0f00uo.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87aoyd10yj30qo0f00uo.jpg)
 
 [交互式算法平台](https://github.com/algorithm-visualizer/algorithm-visualizer)
 
@@ -26,9 +26,9 @@
 
 后端框架：php+mySql
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87ap2v016j30kk0dijrv.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87ap2v016j30kk0dijrv.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87ap2rpscj30kk0diaa8.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87ap2rpscj30kk0diaa8.jpg)
 
 [群活码开源地址](https://github.com/likeyun/liKeYun_Huoma)
 
@@ -38,11 +38,11 @@ ntfy是一个简单的基于http的发布-订阅通知服务。它允许你从�
 
 在ntfy.sh上运行了一个免费版本。还有一个开源的Android应用程序(见谷歌Play或F-Droid)和一个开源的iOS应用程序(见app Store)。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87ap2oz4mj30pj0hkwga.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87ap2oz4mj30pj0hkwga.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87ap2kc8vj30vf0l9tc6.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87ap2kc8vj30vf0l9tc6.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87ap25nmjj30u00ctmye.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87ap25nmjj30u00ctmye.jpg)
 
 [ntfy开源项目地址](https://github.com/binwiederhier/ntfy)
 
@@ -57,9 +57,9 @@ ntfy是一个简单的基于http的发布-订阅通知服务。它允许你从�
 
 采用本软件对照片进行打码后，只需提供正确的密码，即可无损对打码区域进行解码。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87ap21ec5j30pq09nq5h.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87ap21ec5j30pq09nq5h.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87ap1uxlhj30sf0kmn34.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87ap1uxlhj30sf0kmn34.jpg)
 
 [可逆打码介绍](https://lzn1007.wordpress.com/cn/%e5%8f%af%e9%80%86%e6%89%93%e7%a0%81/)
 
@@ -80,29 +80,29 @@ ntfy是一个简单的基于http的发布-订阅通知服务。它允许你从�
 - 学生老师：学术报告、知识分享、课程教案、小组作业、毕业论文、文献综述
 - 企业：企业介绍、产品教程、融资路演
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87ap1mbg8j31k80u0td4.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87ap1mbg8j31k80u0td4.jpg)
 
 通过预置的模板可以快速开始，还有一些漂亮的模板图片、图表等。能实时预览效果。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87ap1fafzj31k80u0n0b.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87ap1fafzj31k80u0n0b.jpg)
 
 [闪击PPT在线体验](https://ppt.sankki.com/editor?mode=demo)
 
 ## 6、将Notion页面转化成客服小部件工具，月收入5K美金
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87ap16y4uj317c0hawfu.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87ap16y4uj317c0hawfu.jpg)
 
 大家好!我叫Sobe，是多个自主开发且盈利产品的独立创始人，这些产品都在我的公司七度实验室(Seven Degrees Labs)下运行。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87ap13pzvj30nm0cc0tw.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87ap13pzvj30nm0cc0tw.jpg)
 
 我现在花了大部分时间研究的最成功的产品叫做HelpKit，它把Notion Page变成了一个专业的知识库。HelpKit是在尽可能短的时间内创建知识库、帮助中心或文档页面的完美工具。它由内容管理系统提供动力:Notion。你可以在Notion中编写帮助文章，而HelpKit将负责其余的工作。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87ap0z6puj31n40qwtdt.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87ap0z6puj31n40qwtdt.jpg)
 
 你还可以在你的网站上嵌入一个小部件，以在网站上提供嵌入的客户支持。HelpKit也是完全可定制的，有分析和第三方集成，并优化了SEO，使搜索引擎很容易找到你的网站。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87ap0sndej31p30u079y.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87ap0sndej31p30u079y.jpg)
 
 当我最初创建HelpKit时，我的目标是将其发展到大约3K美元的月收入，这将让我能够全职从事独立开发。HelpKit现在是5K美金，超过了这个目标2000美元，所以我非常感激能够创建一家有价值的小公司，同时能够随时随地工作。
 
@@ -112,7 +112,7 @@ ntfy是一个简单的基于http的发布-订阅通知服务。它允许你从�
 
 与此同时，我意识到我已经在Notion中记录了我的整个业务。你知道吗?我突然意识到，我是否可以在Notion中编写我的帮助文章(这是我喜欢的!)，然后将它们公开到一个看起来像适当的专业知识库的网站上，以便我可以轻松地定制并与客户分享?
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87ap0jk6aj31jr0u0791.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87ap0jk6aj31jr0u0791.jpg)
 
 当然，我可以发布一个独立的Notion页面，但由于多种原因，比如Notion URL、分散品牌链接和缺乏可定制性，这可能会让客户觉得不专业。此外，它应该感觉类似于Intercom或Zendesk等工具。由于我找不到正确的FAQ软件解决方案，我创建了HelpKit。
 
@@ -122,7 +122,7 @@ ntfy是一个简单的基于http的发布-订阅通知服务。它允许你从�
 
 我并没有立即将这个想法付诸行动，因为我从之前失败的项目中学到，每个想法在一开始都让人觉得光鲜亮丽，但最终可能并不是最好的选择。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87ap0bhauj30nm0da3z8.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87ap0bhauj30nm0da3z8.jpg)
 
 我的想法是把这个想法在我的脑子里再留一两个月，如果我仍然认为这个想法值得追求，我就会尝试一下。两个月过去了，我一直在想这个问题。如果把所有的客户支持都写在Notion中，而大部分业务文档都保存在这里，那该有多好?此外，员工可以轻松进入并帮助编写内容，而不需要学习另一个编辑器和软件工具。这似乎是一种增值。
 
@@ -130,13 +130,13 @@ ntfy是一个简单的基于http的发布-订阅通知服务。它允许你从�
 
 2021年7月，我在推特上向我的300名粉丝发布了这个页面。考虑到我当时的粉丝数很低，我并没有抱太大期望，但幸运的是，Notion社区的成员开始感兴趣，并在一夜之间获得了100名粉丝。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87ap07t0oj30nm0dat9y.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87ap07t0oj30nm0dat9y.jpg)
 
 我向自己承诺，如果我得到10个预购订单，我就制作这个产品。但整个星期都没有人预定。我不断发布和分享更新，最后在接下来的一周我收到了前两份预订订单。又一个星期过去了，但不幸的是没有新的预订。
 
 我开始有点怀疑，但后来有一天，我看到了这封惊人的邮件，发件人注意到了HelpKit并喜欢它。邮件很长。我花了十多分钟来阅读它，有这么多的建议和支持。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87ap03aiyj30nm0dawg2.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87ap03aiyj30nm0dawg2.jpg)
 
 尽管我没有达到预定10份的目标，但单是这封邮件的价值就超过了这个数字。这是一个我不认识的人，他相信HelpKit有很大的潜力。所以，我决定全力以赴，在30天内打造出第一个MVP。
 
@@ -146,13 +146,13 @@ ntfy是一个简单的基于http的发布-订阅通知服务。它允许你从�
 
 当我在Twitter上宣布第一个完全运行的MVP和改进的登陆页面时，这对我帮助很大。正如你所看到的，发布推文非常成功，最终吸引了首批注册用户。令人惊讶的是，仅仅通过公开分享构建的过程，就获得了第一批客户。没有付费广告，没有疯狂的成长技巧，只是真诚地分享你创建过程的故事。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87aozy4poj30nm0da3zx.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87aozy4poj30nm0da3zx.jpg)
 
 ### 是什么有效地吸引和留住了客户?
 
 HelpKit的营销策略在不断发展，我也在尝试最好的增长策略。在早期，有两种截然不同的策略对我非常有效。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87aozpb4nj31ru0u0jzo.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87aozpb4nj31ru0u0jzo.jpg)
 
 第一个是在Reddit和Indiehackers等平台上分享我公开构建的故事。我在IndieHackers发布的两篇文章进入了网站首页的Top milestone通讯和Top Stories版块。
 
@@ -160,29 +160,29 @@ HelpKit的营销策略在不断发展，我也在尝试最好的增长策略。�
 
 从头开始创建LaTeX代码是一项非常繁琐和无聊的任务，因此我决定构建一个简单而自由的表生成器，以便Notion用户可以轻松地生成他们的表，而不必纠结于复杂的LaTeX符号。在Notion社区中，还没有一个简单的图表能解决这个众所周知的问题，有无数的Reddit、Twitter和Facebook帖子要求这样做。我把它称为Notion Simple Table，这样我就可以从别人的SEO里收益，因为已经在那里，也正是人们正在搜索的关键字。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87aozipqxj30nm0da3zf.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87aozipqxj30nm0da3zf.jpg)
 
 除了Twitter上的观众，我还制作了一个简短的解释视频，并去寻找Notion社区的用户。我给这篇文章起了个名字:“如何在Notion中创建一个简单的表”，然后社区就开始喜欢它了。为人们提供他们真正想要的工具是一种很棒的感觉。你不会相信我收到过多少“你是上帝派来的”的评论。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87aozdltlj30nm0damyc.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87aozdltlj30nm0damyc.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87aoz8rztj30nm0damyc.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87aoz8rztj30nm0damyc.jpg)
 
 “选择一个正在成长的利基市场的产品创意，利用这个利基市场的自然增长来发展你的产品。”
 
 此外，HelpKit的另一个增长因素是支持两种不同的布局。除了有各种各样用例的帮助中心布局之外，文档页面布局是专门为那些希望创建更多文档站点的公司设计的，比如知识库，如软件文档或API文档站点。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87aoz2ww1j30nm0damyi.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87aoz2ww1j30nm0damyi.jpg)
 
 ### 你的未来的计划是什么样的?
 
 现在我完全享受着流浪的生活方式。我现在住在印度尼西亚的巴厘岛，我身边有一个很棒的独立黑客社区。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87aoyxiuqj30nm0dajtd.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87aoyxiuqj30nm0dajtd.jpg)
 
 HelpKit目前正在为150多家使用Notion构建知识库的公司提供服务。从下图中你可以看到，用户似乎很喜欢HelpKit，甚至我最喜欢的youtuber Thomas Frank也是个很开心的用户。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87aoyt1f2j30nm0damyi.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87aoyt1f2j30nm0damyi.jpg)
 
 ### 通过创业，你学到了什么特别有用或有益的东西吗?
 
@@ -196,7 +196,7 @@ HelpKit目前正在为150多家使用Notion构建知识库的公司提供服务�
 
 试着亲自去了解最初的几个客户，让他们喜欢上你的产品。这将极大地帮助你获得更好、更诚实的反馈。与此同时，它也会让你的客户更能原谅你，如果你碰巧在一开始犯了一些错误。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87aoynvegj30nm0dadgl.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87aoynvegj30nm0dadgl.jpg)
 
 - 慢慢成长是可以的
 
@@ -204,7 +204,7 @@ HelpKit目前正在为150多家使用Notion构建知识库的公司提供服务�
 
 ### 对其他想要起步或刚刚起步的创业者有什么建议?
 
-![](https://tva1.sinaimg.cn/large/008vxvgGly1h87aoyj9o2j30z20e4aaw.jpg)
+![](https://snimg.jamyido.top/large/008vxvgGly1h87aoyj9o2j30z20e4aaw.jpg)
 
 - 诚实和完全透明
 

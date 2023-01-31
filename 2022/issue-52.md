@@ -14,15 +14,15 @@
 
 ****发现生词和难词，自动标示和翻译****
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1ptyggwtoj21220u0ado.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1ptyggwtoj21220u0ado.jpg)
 
 ****积累个人生词本，方便导出****
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1ptyi5bxvj20de0cowf4.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1ptyi5bxvj20de0cowf4.jpg)
 
 ****观看主流视频****
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1ptyi2nxej20ru0ip76u.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1ptyi2nxej20ru0ip76u.jpg)
 
 [Relingo官网](https://relingo.net/)
 
@@ -42,7 +42,7 @@ Passage提供了一个web组件，可以嵌入任何网站进行完整的用户�
 
 开始使用Passage是完全免费的，你的前5000名用户将永远免费，目前在公开测试
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1ptyhz2msj20yq0k6t9z.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1ptyhz2msj20yq0k6t9z.jpg)
 
 [Passage官网](https://passage.id/)
 
@@ -60,19 +60,19 @@ Visily为你提供了一个易于使用的工具，任何人，无论他们的�
 
 📷 从截图或草图生成模型。Visily还提供了人工智能模型，可以将截图和纸上草图转换为可定制的模型。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1ptyhvv39j21r10u0460.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1ptyhvv39j21r10u0460.jpg)
 
 [Visily官网](https://www.visily.ai/)
 
 ## 4、基于Shopify上开发一个每月2万美元收入的APP
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1ptyhl9vnj20u60su79w.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1ptyhl9vnj20u60su79w.jpg)
 
 Hi，我是Kiril，Rush的联合创始人——为Shopify商家提供多功能的交付软件。Rush是Shopify的一个售后解决方案，可以把首次顾客变成回头客。
 
 由于电子商务和厂家直供模式在过去几年起飞，我决定开发一个应用程序，可以为商家提供Shopify组件。我们主要关注的是满足商家的需求，为他们的客户提供一流的跟踪信息。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1ptyhcm4sj218g0qlq78.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1ptyhcm4sj218g0qlq78.jpg)
 
 Rush的一些主要特性包括:
 
@@ -94,7 +94,7 @@ Rush的一些主要特性包括:
 
 所以，我们就是这样想出Rush这个点子的。我们改变了思维模式，开始更深入地挖掘Shopify App世界。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1ptyh6pfgj218g0qlae7.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1ptyh6pfgj218g0qlae7.jpg)
 
 我们发现，有些应用程序只提供“跟踪”或“向上销售或交叉销售”，但从来没有一个应用程序将所有这些强大的工具结合起来，提供更多的功能。
 
@@ -102,7 +102,7 @@ Rush的一些主要特性包括:
 
 结果不言自明, 到目前为止，我们已经有数百个客户发来了他们的增长指标，反馈非常棒!
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1ptyguq1cj218g0qljud.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1ptyguq1cj218g0qljud.jpg)
 
 在这个过程的早期，当我们向朋友和电子商务行业的人展示Rush的演示版本时。他们的反应是:“哇，我们现在看到了一款结合了许多‘所需’功能的应用，包括跟踪、运输和通知。”再加上我们整合的所有顶级应用程序，如Klaviyo, Omnisend, Loox, Judge、Loox、Stamped、PayPal等等让我们有信心把它称为“迄今为止最成功的项目”。
 
@@ -118,7 +118,7 @@ Rush的一些主要特性包括:
 
 就流量和销售而言，我们正在努力优化我们的网站以及我们的应用程序。我们确实会在知名网站上发布客户帖子，包括我们的一些合作伙伴网站。我们的博客通过高质量的文章、案例研究等产生了流量。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1ptygnjslj218g0ql77y.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h1ptygnjslj218g0ql77y.jpg)
 
 **未来会怎样?**
 

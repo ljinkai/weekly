@@ -17,7 +17,7 @@
 
 目前已经在加速孵化1000个开发者，区块链游戏，市场，DAO,NFT落地和创造者正在构建web3生态系统。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0u9ihiqj313y0l4jv4.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0u9ihiqj313y0l4jv4.jpg)
 
 [Thirdweb官网](https://thirdweb.com/)
 
@@ -27,11 +27,11 @@
 
 **采集收藏**
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0uezxr1j31i00n2gse.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0uezxr1j31i00n2gse.jpg)
 
 **分享协同**
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0uepokqj31im0mggse.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0uepokqj31im0mggse.jpg)
 
 此外，还有分类标记、快速查找、批量命名等很多的细节功能。
 
@@ -47,7 +47,7 @@
 
 Ummm这个笔记工具让你根据时间做笔记，重点是减少上下文切换。就像一个时间轴，你的笔记继续水平增长。线性方法并不意味着你不能有复杂的联系。交叉链接和嵌入允许你将你的想法连接起来，并创建一个强大的相关笔记网络。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0uee7kqj31ia0u07ba.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0uee7kqj31ia0u07ba.jpg)
 
 如何获取想法？
 
@@ -59,7 +59,7 @@ Ummm这个笔记工具让你根据时间做笔记，重点是减少上下文切�
 
 我个人的优势之一是能够快速构建原型，这意味着我可以在代码早期尝试不同的东西。在早期与潜在客户交谈时，这似乎很有帮助。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0udxrj4j30b40b4dg2.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0udxrj4j30b40b4dg2.jpg)
 
 如果感觉总是没有进展？
 
@@ -73,7 +73,7 @@ Ummm这个笔记工具让你根据时间做笔记，重点是减少上下文切�
 
 在观看了数千次用户行为录屏后，有一件事非常清楚:
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0udqoxbj314g0mr41r.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0udqoxbj314g0mr41r.jpg)
 
 人们在PDP(产品详情页)上查看你的产品图片比其他任何东西都多。然而，似乎有一种网页设计趋势正在发展，你展示了你的产品的一张，也许两张图片。
 
@@ -92,11 +92,11 @@ Ummm这个笔记工具让你根据时间做笔记，重点是减少上下文切�
 **让我们来看看两个品牌的比较。**
 Hydrant是一种广受欢迎的水合物，有着优秀的品牌。当你打开他们的PDP上时，你会看到:
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0udh9xej30u00xrdi3.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0udh9xej30u00xrdi3.jpg)
 
 这绝对是一个漂亮的设计。但当我浏览媒体图片库时，我只看到一张额外的图片和它的产品背面:
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0ud7pvsj30u00xrac7.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0ud7pvsj30u00xrac7.jpg)
 
 这个尺寸的包装我都看不清背面。如果我想知道卡路里分解(这是我在补充剂中寻找的第一件事)，现在我必须去寻找它。
 
@@ -104,7 +104,7 @@ Hydrant是一种广受欢迎的水合物，有着优秀的品牌。当你打开�
 
 **记住这个行为转化公式：B=mat**
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0ucvqgbj30u00u0tam.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0ucvqgbj30u00u0tam.jpg)
 
 **我们看看另一个品牌**
 
@@ -112,11 +112,11 @@ Mister Jones是一个保养品品牌。它是专门为女性设计的，有白�
 
 让我们看看他们的PDP:
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0ubytrgj30u00xr40g.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0ubytrgj30u00xr40g.jpg)
 
 这里唯一的区别是他们在页面顶部插入了评论。除此之外，它还是相当标准的。但当我滑动图片滑动时，事情开始变得有趣:
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0ubqtdnj30u00u0414.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0ubqtdnj30u00u0414.jpg)
 
 没错，产品的所有功能的分解。
 
@@ -124,17 +124,17 @@ Mister Jones是一个保养品品牌。它是专门为女性设计的，有白�
 
 然后再看第三张图，你会看到夜间补品对你的作用。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0ubh7gej30u00u00v7.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0ubh7gej30u00u00v7.jpg)
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0ub828sj30u00u041x.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0ub828sj30u00u041x.jpg)
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0uavrfij30u00u00uq.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0uavrfij30u00u00uq.jpg)
 
 很好。这是一个月的早晚补充剂。我应该早上吃两片，晚上吃两片。这听起来很简单。
 
 下一个问题是，为什么是Mister Jones?当然，在最后一张图片中，他们已经覆盖了你:
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0uan4tfj30u00u0jui.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0uan4tfj30u00u0jui.jpg)
 
 你能看到如何传达整个旅程吗?他们在一幅一幅地讲述一个故事。该产品的功能，你应该如何使用它，以及为什么他们的产品值得这个价格，在7张图片中解释。
 
@@ -178,13 +178,13 @@ Mister Jones是一个保养品品牌。它是专门为女性设计的，有白�
 
 例如:productlift，一个帮助你找到相关的社区和影响者的工具
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0uad6i2j30p00eqaao.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0uad6i2j30p00eqaao.jpg)
 
 2、在Reddit和Twitter上分享
 
 看一下收集到的邮件数量。有些产品从未进入下一步，没有看到足够的牵引力，比如：convertrec(一个录制网页录制工具)。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0ua6pbbj30p00dy0ts.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0ua6pbbj30p00dy0ts.jpg)
 
 3、快速构建!
 
@@ -204,7 +204,7 @@ Mister Jones是一个保养品品牌。它是专门为女性设计的，有白�
 
 MVP只用了两天。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0u9ymj5j30p00dmt9n.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0u9ymj5j30p00dmt9n.jpg)
 
 例子#2 - Product Lift
 
@@ -216,7 +216,7 @@ MVP只用了两天。
 
 这就是我如何在不到一周的时间内构建一个简单的社区搜索引擎
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxg0u9pk1lj30p00dydgr.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxg0u9pk1lj30p00dydgr.jpg)
 
 **有趣的部分来了。它们的表现如何，我们的应对措施是什么?**
 

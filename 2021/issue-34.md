@@ -13,7 +13,7 @@
 
 ColorHuddle是一个免费收集11个手工制作的调色板，你可以马上使用。不需要知道设计或颜色理论-只需选择你喜欢的调色板，并应用到你的设计。可以在线实时查看整个网页的效果，像常用的科技蓝、经典黑白、未来灰等。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxo2ntg7gyj30za0l442y.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxo2ntg7gyj30za0l442y.jpg)
 
 [ColorHuddle在线调色预览](https://colorhuddle.co/)
 
@@ -34,7 +34,7 @@ ColorHuddle是一个免费收集11个手工制作的调色板，你可以马上�
 
 目前有iOS商店可以下载使用，每天有免费用量可以体验使用。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxo2nylj5wj31jg0u0qa1.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxo2nylj5wj31jg0u0qa1.jpg)
 
 [雨音记iOS商店](https://apps.apple.com/cn/app/id1593210931)
 
@@ -44,17 +44,17 @@ ColorHuddle是一个免费收集11个手工制作的调色板，你可以马上�
 
 让我感到有意思的是这个浏览器扩展除了可以在桌面端电脑上运行，也可以在iOS、Android的手机端浏览器上运行。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxo2nxccupj31qq0u0grd.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxo2nxccupj31qq0u0grd.jpg)
 
 在iPhone和iPad上安装需要iOS15+的设备，可以安装到Safari浏览器端。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxo2nwylldj31q90u0452.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxo2nwylldj31q90u0452.jpg)
 
 在Android上运行是通过一个Kiwi浏览器来实现扩展的安装。
 
 「Kiwi Browser」是一款基于开源项目Chromium 开发的安卓端浏览器，最大的特色就是支持安装Chrome 扩展，而且自带广告过滤功能。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxo2nwmciaj315v0u0jwe.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxo2nwmciaj315v0u0jwe.jpg)
 
 [closet.tools官网](https://closet.tools/)
 
@@ -62,7 +62,7 @@ ColorHuddle是一个免费收集11个手工制作的调色板，你可以马上�
 
 这篇文章是根据YC创始人多年前的一篇文章整理而成。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxo2nw50hyj30qu0megox.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxo2nw50hyj30qu0megox.jpg)
 
 获得创业点子的方法不是去想创业点子。而是为了寻找问题，最好是你自己的问题。
 
@@ -110,7 +110,7 @@ ColorHuddle是一个免费收集11个手工制作的调色板，你可以马上�
 
 在Dropbox之前，德鲁•休斯顿(Drew Houston)确实有过一个不那么有前途的想法:创办一家SAT备考初创公司。但Dropbox是一个更好的主意，无论是从绝对意义上，还是从与他的技能相匹配的角度来看。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxo2nvqwwcj30oi0ejn02.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxo2nvqwwcj30oi0ejn02.jpg)
 
 **竞争**
 
@@ -138,7 +138,7 @@ ColorHuddle是一个免费收集11个手工制作的调色板，你可以马上�
 
 我叫Tony Dinh，两个月前，我收到了一份报价，以4万美元的现金价格收购我的SaaS产品(名称:Black Magic)。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxo2nveabmj310q0u0adq.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxo2nveabmj310q0u0adq.jpg)
 
 "Black Magic" 当时的MRR约为322美元。这是 > 10x ARR -一个非常好的交易。
 
@@ -146,7 +146,7 @@ ColorHuddle是一个免费收集11个手工制作的调色板，你可以马上�
 
 现在，60天后，Black Magic的月收入为2164美元。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxo2nuxaz6j30x70pxgn4.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxo2nuxaz6j30x70pxgn4.jpg)
 
 今天，我想和大家分享一下我是如何做到的。
 
@@ -155,7 +155,7 @@ ColorHuddle是一个免费收集11个手工制作的调色板，你可以马上�
 **一个快速的背景介绍**
 之前，Black Magic的主要功能是帮助人们以一种特殊的方式“装饰”他们的头像和横幅。例如，我的个人资料图片显示了一个自动更新的进度条:
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxo2nuiwxaj30ww0f0q52.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxo2nuiwxaj30ww0f0q52.jpg)
 
 但主要是为了好玩。我没有解决任何主要的痛点。它更像是一个帮助我扩大Twitter账户的工具。
 
@@ -191,7 +191,7 @@ MVP只有1或2个功能，我发布了一个测试版，然后邀请我的一些
 
 我的推特，展示了扩展的第一个版本
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxo2nu5meyj30u00v8jv3.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxo2nu5meyj30u00v8jv3.jpg)
 
 我启动了一个仅限邀请的测试程序，人们可以免费尝试扩展，并邀请他们的朋友尝试它。
 

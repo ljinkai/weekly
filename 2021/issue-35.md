@@ -19,7 +19,7 @@
 
 Cal.com在2021年12月获得了740万美金的种子轮投资。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxw94tpm9qj311j0l4mza.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxw94tpm9qj311j0l4mza.jpg)
 
 [Cal.com官网](https://cal.com/)
 
@@ -27,7 +27,7 @@ Cal.com在2021年12月获得了740万美金的种子轮投资。
 
 Jitter主要是动画的设计, 像Figma:它可以轻松地为你的视频、网站或应用程序创建动画，所有这些都可以在浏览器中完成。可以将设计导出成视频或GIF. 还有一些现成的魔棒可供选择。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxw94vsen2j30zk0m8tam.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxw94vsen2j30zk0m8tam.jpg)
 
 [Jitter官网](https://jitter.video/)
 
@@ -35,13 +35,13 @@ Jitter主要是动画的设计, 像Figma:它可以轻松地为你的视频、网
 
 Peter Levels建议大家开始用英语发推，尤其是那些非英语母语的人。我觉得非常有道理，平时我也看Twitter，发现上面很多有价值的内容，我们做产品可以瞄准全球市场，这样英语就是必经之路，在Twitter上积累你的粉丝，这是一个有复利的事情。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxw94vljvyj30os0ga0uh.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxw94vljvyj30os0ga0uh.jpg)
 
 你会发现国外市场更加的广阔，而且国外用户有更好的付费习惯，做内容推广也没有那么多的限制。
 改用英语意味着你要在6个月的时间里疏远你目前的国内听众，直到你开始有更多的国际英语听众。这将是一个艰难的过程，但之后会有增长!
 2022年从改变开始吧！
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxw94vfi7aj30p00h1ab6.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxw94vfi7aj30p00h1ab6.jpg)
 
 [Levels的帖子](https://twitter.com/levelsio/status/1474094081500319758)
 
@@ -52,19 +52,19 @@ Peter Levels建议大家开始用英语发推，尤其是那些非英语母语�
 产品实现主要是3步：
 1、打开插件，开启Record
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxw94v722mj31da0qqjwv.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxw94v722mj31da0qqjwv.jpg)
 
 2、配置操作步骤，在页面上编辑操作流程
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxw94uxcgaj30of0d9wgt.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxw94uxcgaj30of0d9wgt.jpg)
 
 3、结束录制，自动化运行，也可以将操作在云端运行
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxw94uq39qj31cy0qgwk3.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxw94uq39qj31cy0qgwk3.jpg)
 
 目前这个插件产品能实现月收入2千美金
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxw94ufzr0j30u01sz44l.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxw94ufzr0j30u01sz44l.jpg)
 
 [browserflow官网](https://browserflow.app/)
 
@@ -74,7 +74,7 @@ Peter Levels建议大家开始用英语发推，尤其是那些非英语母语�
 
 当从我的代理业务(有30名员工)切换到我的SaaS业务(没有员工)后，我几乎赚到了同样的利润(每月32K美元)，但没有了所有的压力、头痛、责任、组织任务这些。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxw94u3i63j30dw09ztaj.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxw94u3i63j30dw09ztaj.jpg)
 
 选择正确的商业模式和原则是对作为创始人的职业生涯影响最大最重要的一步。我和我的联合创始人经常讨论新的商业想法，我意识到，我们需要一个系统的方法来迅速放弃不合适的想法。
 
@@ -99,7 +99,7 @@ Peter Levels建议大家开始用英语发推，尤其是那些非英语母语�
 
 只要不是这样，我宁愿有一个产品创意，可以通过搜索引擎优化、社交媒体和付费广告进行营销。
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gxw94twu7gj30dc05kgma.jpg)
+![](https://snimg.jamyido.top/large/008i3skNgy1gxw94twu7gj30dc05kgma.jpg)
 
 ❤️ 6、我可以通过产品证明自己吗?
 很有可能你会在完全绝望和悲观的情况下废寝忘食地致力于自己的产品。为了生存下来，你需要与产品建立联系。当你告诉别人你的想法时，你应该感到自豪。如果纯粹是为了钱，你会在低谷时放弃。有动力通常能让我的工作效率提高到惊人的水平。这很重要。看到你的业务不断取得进展，可以减少在某些时候放弃的风险，因为你可能会感到陷入困境并变得悲观。

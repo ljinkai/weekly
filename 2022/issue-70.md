@@ -12,7 +12,7 @@
 文本到图像生成功能，通过一段文字就可以创建令人难以置信的艺术和图像。
 还可以转换照片，如剪纸，删除背景和对象，等等。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyfqaxtj20kf0c8dhe.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyfqaxtj20kf0c8dhe.jpg)
 
 [Photoleap官网](https://www.photoleapapp.com/)
 
@@ -24,17 +24,17 @@ Crawlee是一个开源的Node.js代码库，有6K的Star，可以很方便的集
 
 即使使用默认配置，爬虫程序也会看起来像人一样。Crawlee为您提供了抓取网络链接、抓取数据并将其存储到磁盘或云的工具，同时保持灵活可配置，以满足项目需求。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdylegt1j21tw0sqq7j.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdylegt1j21tw0sqq7j.jpg)
 
 [Crawlee官网](https://crawlee.dev/)
 
 ## 3、一年内将Notionform的月收入从0提升到1万美元
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyl2vd5j215o0dwq7e.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyl2vd5j215o0dwq7e.jpg)
 
 我的名字是Julien Nahum ，是NotionForms的创始人，一个Notion上的表单构建器。在过去的一年里，我一直在独自经营SaaS。最近它达到了1万美元的MRR(每月经常性收入)里程碑。我想我应该为他们写一篇的总结，希望这能帮助和激励至少一个人。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdykl9sej219u0n5wgb.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdykl9sej219u0n5wgb.jpg)
 
 ### 我是如何成为一个“独立开发者”的
 
@@ -54,13 +54,13 @@ Twitter上最著名的独立黑客之一是Peter Levels。他发起了一个名�
 
 找到要构建的东西并不需要很长时间。五年前，我在巴黎的一家创业公司实习。在这家初创公司，他们使用Airtable，一种无代码的工具来创建协作数据库。非技术人员的大多数业务流程都依赖于这个工具。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdykfq5yj219u0od40z.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdykfq5yj219u0od40z.jpg)
 
 最酷的部分是，通过Airtable，他们能够在几秒钟内创建。这些表单将自动为其数据库表中的每一列包含一个字段。每个表单提交都会自动进入Airtable数据库，这非常有用。
 
 因为Notion的数据库和Airtable的非常相似，所以它们让我想起了这个表单功能。所以我5年前的实习给了我这个项目的灵感!
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyk85gwj219u0mxtcn.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyk85gwj219u0mxtcn.jpg)
 
 ### 构建MVP
 
@@ -70,17 +70,17 @@ Twitter上最著名的独立黑客之一是Peter Levels。他发起了一个名�
 
 我决定在Twitter上分享我的进步。只要我有视觉上的东西可以展示，我就会在推特上发布它。这条推文被转发了4次，获得了11个赞。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyjzb7cj20jq0q4q4w.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyjzb7cj20jq0q4q4w.jpg)
 
 最后，经过4天的编码和2天的发布，我完成了MVP的工作，并准备与世界分享!我非常兴奋，在推特上分享了我的作品。我以为它会成功发布，至少会有10个赞!不幸的是，我的观众并不支持我。我别无选择，只能专注于一件事:获取首批用户。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyjv1yuj20ki0raq55.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyjv1yuj20ki0raq55.jpg)
 
 ### 获取第一批用户
 
 用户获取总是最困难的。我经常在社交媒体上看到人们开发产品并询问如何获得早期用户的帖子。我也不确定，所以我决定从社交媒体开始。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyjq6qmj219u0txdj4.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyjq6qmj219u0txdj4.jpg)
 
 1、Reddit
 
@@ -88,24 +88,24 @@ Notion 在reddit上有一个非常活跃的专门版块，所以我决定在那�
 
 两个月后，另一个人在Reddit上发布了一段他们如何使用NotionForms的视频。这篇文章变得非常受欢迎(超过376个赞!)，我清楚地看到了用户注册数量的激增。我发现网上的一些陌生人比我更擅长推销我的产品!
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyjiwavj20zc0u0wgg.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyjiwavj20zc0u0wgg.jpg)
 
 2、Facebook
 这是一个更难发行的市场，因为你面临着所谓的“鸡和蛋的问题”。我需要找到销售产品的用户，以及购买产品的用户。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyjd5l6j20u0137q6v.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyjd5l6j20u0137q6v.jpg)
 
 我在Facebook上找到了几个专注于Notion的群组。我加入了他们所有人，并发表了同一篇文章。在最大的“Notion”小组中，人们对我的帖子反应非常积极。我获得了111个赞(包括我自己的)，还有几十个早期用户。
 
 3、Product Hunt
 ProductHunt是一个网站，产品制造商每天在上面列出他们的新产品。用户可以投票给他们最喜欢的产品。在我公开发布第一个版本的2天后，就有人盯上了NotionForms !我试着让人们为这个发布投票，但是因为它完全是随机的，所以做得并不好(只有27个赞成票)。但这是我第一次听到别人谈论我的产品，所以它给了我很大的激励!
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyiwanfj20pi0nwjtz.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyiwanfj20pi0nwjtz.jpg)
 
 4、Twitter
 除了我在Twitter上尝试的 buildInPublic之外，我还尝试直接分享我的产品。我开始关注其他更受欢迎的人创建与Notion相关的工具，我开始更频繁地与他们的推文互动。我甚至试图直接寻求与其他流行的开发者的合作。这些“著名”的开发者收到了许多类似的请求，所以坚持不懈地为他们和他们的用户提供一些有价值的内容是最好的接触方式。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyirnhrj20pi0giq4w.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyirnhrj20pi0giq4w.jpg)
 
 有趣的是，我现在经常和这些“网友”互动。我在现实生活中从未见过他们，但我们偶尔会聊天，互相支持。
 
@@ -119,7 +119,7 @@ ProductHunt是一个网站，产品制造商每天在上面列出他们的新产
 
 当时我已经在这个项目上花了一个月的时间(兼职)，它仍然是一个免费的产品——因此没有赚到任何钱。我决定在上面列出NotionForms，看看我能得到什么。当有人出价6000美元购买它时，我认为这将是一个好主意，出售🤦‍♂️
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyiol9ej20ku0r6jtk.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyiol9ej20ku0r6jtk.jpg)
 
 我们起草了一份意向书，TinyAcquisition的创始人Stephen Campbell帮助我们推动了这次收购。当我们接近完成交易时，我开始怀疑很多。为什么我在一个月后就放弃了一个获得关注和良好反馈的项目?为什么这个网上的陌生人愿意付我六千块买它?要么这家伙是个傻瓜，要么我是个瞎子。
 然后我想起了我的前任老板曾经说过的话:
@@ -130,7 +130,7 @@ ProductHunt是一个网站，产品制造商每天在上面列出他们的新产
 
 所以我最终决定不卖了。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyiiiwwj219u0lk0wh.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyiiiwwj219u0lk0wh.jpg)
 
 ### 添加功能和确定优先级
 
@@ -150,7 +150,7 @@ ProductHunt是一个网站，产品制造商每天在上面列出他们的新产
 
 以下是我在发布后的一个月发布的一些功能示例:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyi8wfsj20x00sadkv.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyi8wfsj20x00sadkv.jpg)
 
 ### 变现
 
@@ -164,7 +164,7 @@ ProductHunt是一个网站，产品制造商每天在上面列出他们的新产
 
 我查看了其他表单构建器的价格:平均起价在30美元左右。我的产品是独特的，因为如果你是一个Notion用户，它是最容易使用的，但同时，它提供的功能没有Typeform提供的那么多。所以我随机决定将平均价格除以2，定价15美元。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyi1q6rj20xg0p2wi9.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyi1q6rj20xg0p2wi9.jpg)
 
 **为发布做准备**
 
@@ -175,12 +175,12 @@ ProductHunt是一个网站，产品制造商每天在上面列出他们的新产
 
 我很高兴。我的一个法国摄影师从第一天起就一直在使用这个产品，他购买了一个年度订阅。那时，他定期在Facebook上给我发送反馈和功能请求，所以当我看到他订阅了我给他发送了一个感谢消息。令我惊讶的是，他解释说他甚至不需要Pro的功能，只是想支持我，因为我提供的“支持质量”。这让我非常感动!
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyhw1ijj21530u00vu.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyhw1ijj21530u00vu.jpg)
 
 回顾过去，我想我在从事NotionForms工作时的第一种“神奇的感觉”是当人们开始使用它的时候。看到我所创造的有用的东西，我受到了很大的激励。但第二个“神奇的感觉”绝对是当我获得第一个付费订阅时。
 以下是接下来几天的情况:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyhhgpej219u0jpwgf.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyhhgpej219u0jpwgf.jpg)
 
 ### 关于折扣
 
@@ -188,37 +188,37 @@ ProductHunt是一个网站，产品制造商每天在上面列出他们的新产
 
 当你尝试定价时，不要对自己太苛刻。无论你做什么，你总是会在网上惹到别人:
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyha87yj20kw0lewg4.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyha87yj20kw0lewg4.jpg)
 
 ### 增长机器
 
 我从来没有尝试过任何NotionForms的付费营销渠道，也没有一直在制作内容。然而，在过去的12个月里，流量几乎每个月都在增长。在过去的一年里，谷歌搜索结果的NotionForms页面上有超过43k次点击，超过33.6万人访问了这个网站。以下是它的工作原理(或者至少我认为是这样的)。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyh5kkmj219u0mp76a.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyh5kkmj219u0mp76a.jpg)
 
 **病毒式循环**
 
 NotionForms是一个免费增值产品。它可以免费使用，没有任何限制:你可以构建无限的表单，并接收无限数量的提交，而无需支付任何费用。免费版本和付费版本的主要区别之一是，在每个表单下方都有一个指向NotionForms的链接。这个链接提供了两个巨大的好处。第一个是，当用户共享他们的表单时，用户会看到这个，并发现NotionForms。其中一些应答者稍后将使用NotionForms创建他们的表单并共享它们。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyh1b0fj219u0ijt9i.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyh1b0fj219u0ijt9i.jpg)
 
 这个链接的第二个好处是它创建了指向NotionForms网站的反向链接。反向链接是从一个站点指向另一个站点的链接。有很多这样的反向链接可以创建一个强大的域名权威(或域名评级)。对于搜索引擎来说，越多的网站引用你的网站，他们就越认为你的网站提供了有价值的内容，因此他们就越会推荐你的网站。所以我们又有了一个病毒式循环:使用NotionForms的人越多，它出现在谷歌搜索结果中的次数就越多，为我们带来更多用户。因为它是一个表单构建器，所以NotionForms内置了一个病毒式循环。
 
 Notion拥有一个非常活跃的社区，能够产生大量的内容。多亏了这一点，很多人创建了关于NotionForms的博客文章和视频。我联系了他们中的一些人，问他们是否有兴趣合作。我提出免费订阅，以换取一段视频。当我通过这种方式联系他们时，我发现得到回应的最好方法就是直接告诉他们你想为他们提供免费订阅服务。我还发现了一些发布几个月后的视频，我没有做任何事情!
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdygwvowj20zk0mc0ww.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdygwvowj20zk0mc0ww.jpg)
 
 ### 流量
 
 我们可以看到两个主要渠道是SEO和口碑。这与所描述的“病毒循环”的好处相关联。看到这个产品几乎在全球各地都被使用，这也很酷!我用我的旧Macbook创造了一个产品，被全世界33万人使用!
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyglxhcj219u0gzq44.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyglxhcj219u0gzq44.jpg)
 
 我还认为提供优秀的客户支持与提供优秀的产品同样重要。用户能够很容易地联系到我，我倾听他们，因为我是一个人，所以我能够很快地采取行动。用户感到参与，因为他们参与了!没有比快乐的顾客更好的推销员了。当人们寻找表单构建器时，用户经常在Twitter上提到NotionForms。
 
 **客户支持**
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdygfzxsj20n80mkmz3.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdygfzxsj20n80mkmz3.jpg)
 
 如前所述，我在客户支持方面投入了大量时间。以下是我为开发NotionForms的客户支持所做的一些事情:
 Facebook群组:我创建了一个专门的Facebook群组。我邀请所有新用户加入。它不是很活跃，但仍然是一个很好的沟通渠道。每次我们发布一个重要的新特性时，我都会发布一篇文章，上面有一张说明该特性的图片，以及相关帮助页面的链接。时不时地，用户会问一些问题。
@@ -237,7 +237,7 @@ Twitter:我为NotionForms创建了一个Twitter账户，在那里我只发布关
 
 **推出另一项付费计划**
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdygazynj219u0fjmy5.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdygazynj219u0fjmy5.jpg)
 
 Notion 是一个很棒的协作工具。你可以实时看到你的队友的变化，并通过评论与他们交流。很快，NotionForms的用户就会询问如何协作他们的表单。在此之前，人们只能创建一个单独的账户，这并不理想。用户想要的另一件事是能够上传更大的文件(Pro版本每个文件的限制是5mb)。
 
@@ -255,7 +255,7 @@ Notion 是一个很棒的协作工具。你可以实时看到你的队友的变�
 
 在推出了NotionForms之后，我没有好好地休假。我确实旅行过，但总是带着电脑，密切关注着一切。去年2月，我决定去斯里兰卡待两周，在那里我大部分时间都无法可靠地上网。我压力很大，但我相信这对我非常有帮助。首先，它迫使我在离开之前投入更多时间使产品尽可能稳定。在我离开前一周我没有做任何部署。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyg6unvj20n00rwn30.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyg6unvj20n00rwn30.jpg)
 
 而且，能抽出一些真正的时间来思考SaaS之外的事情，感觉真的很棒!虽然我几乎每次有机会都会去浏览网站，但退一步让我进行了一些自我反思，我有了很多想法。
 最后，多亏了这次斯里兰卡之旅，我收到了迄今为止最受欢迎的推文!
@@ -281,7 +281,7 @@ Notion 是一个很棒的协作工具。你可以实时看到你的队友的变�
 
 7月1日，一年多之后，NotionForms的月销售收入达到了1万美元。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h5rdyfwuzhj20nc0r640n.jpg)
+![](https://snimg.jamyido.top/large/e6c9d24ely1h5rdyfwuzhj20nc0r640n.jpg)
 
 我认为NotionForms很快就达到了“产品/市场匹配”。幸运的是，我对这个利基市场一无所知的产品想法很好。我自己也体验过这种产品的需求，我很快就能通过构建MVP来验证这个想法。产品主要是推销自己，所以我今年的主要工作是保持专注，保持动力，仔细倾听用户的意见。如果有一件事是我不后悔的，那就是我在提供优质客户支持上投入的时间。
 
