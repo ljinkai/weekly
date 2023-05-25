@@ -4,10 +4,10 @@
 
 **目录**
 - `1、Fast GPT: 构建自己的聊天知识库`
-- `Flowise: 轻松构建LLMs Ap`
-- `2、Typebot: 可视化构建高级聊天机器人`
-- `3、looseleaf.ai: 在发布后48小时内以2万美元的价格售出`
-- `4、Leave Me Alone：取消订阅邮件工具从每月500美元到每月1万美元`
+- `2、Flowise: 轻松构建LLMs Ap`
+- `3、Typebot: 可视化构建高级聊天机器人`
+- `4、looseleaf.ai: 在发布后48小时内以2万美元的价格售出`
+- `5、Leave Me Alone：取消订阅邮件工具从每月500美元到每月1万美元`
 
 ## 1、Fast GPT: 构建自己的聊天知识库
 
@@ -31,7 +31,7 @@ FastGpt 项目完全开源，可随意私有化部署。允许你使用自己的
 
 开源项目地址：[https://github.com/c121914yu/FastGPT](https://github.com/c121914yu/FastGPT)
 
-## **Flowise:** 轻松构建LLMs Ap
+## 2、Flowise: 轻松构建LLMs Ap
 
 开源UI可视化工具，拖放即可实现。使用LangchainJS构建定制LLM流程，使用Node Typescript/Javascript编写。
 
@@ -43,7 +43,7 @@ FastGpt 项目完全开源，可随意私有化部署。允许你使用自己的
 
 项目开源地址：[https://github.com/FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 
-## 2、Typebot: 可视化构建高级聊天机器人
+## 3、Typebot: 可视化构建高级聊天机器人
 
 Typebot是Landbot的开源替代品。可视化构建高级聊天机器人。Typebot为你提供强大的独特的聊天体验，并开始像魔术一样收集用户信息。允许你将它嵌入到web/移动应用程序的任何地方。
 
@@ -57,7 +57,7 @@ Typebot是完全开源的，允许你自托管你自己的版本。在可用特�
 
 Typebot开源代码地址：[https://github.com/baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io)
 
-## 3、looseleaf.ai: 在发布后48小时内以2万美元的价格售出
+## 4、looseleaf.ai: 在发布后48小时内以2万美元的价格售出
 
 Josh Schneider 用@OpenAI和@LangChainAI一起创造了一个应用。Looseleaf可以与任何文档进行聊天。
 
@@ -69,7 +69,7 @@ Damon Chen是这款应用的买家，现在可以通过 [pdf.ai](http://pdf.ai) 
 
 ![](https://qiniu.gafata.com/ezindie/2023052506.png?imageslim)
 
-## 4、Leave Me Alone：取消订阅邮件工具从每月500美元到每月1万美元
+## 5、Leave Me Alone：取消订阅邮件工具从每月500美元到每月1万美元
 
 Hello, 我是Danielle，一个独立开发者和全职数字游民。
 
