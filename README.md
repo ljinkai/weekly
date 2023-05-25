@@ -5,8 +5,9 @@
 
 ## 2023
 
-*  [第 87 期: 靠写简历如何每年赚24万美元？ ](https://github.com/ljinkai/weekly/blob/main/2022/issue-87.md)
-*  [第 86 期: 月收入4000美元的日程规划器 ](https://github.com/ljinkai/weekly/blob/main/2022/issue-86.md)
+*  [第 88 期: 取消邮件订阅工具每月收入1万美元 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-87.md)
+*  [第 87 期: 靠写简历如何每年赚24万美元？ ](https://github.com/ljinkai/weekly/blob/main/2023/issue-87.md)
+*  [第 86 期: 月收入4000美元的日程规划器 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-86.md)
 
 ## 2022
 
