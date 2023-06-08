@@ -5,7 +5,11 @@
 
 ## 2023
 
+### 六月
+*  [第 90 期: 靠自学开发了一个36万美元/年的ChatGPT应用 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-90.md)
 *  [第 89 期: 一个 AI 小工具，两个月内赚7.3万美元 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-89.md)
+
+### 五月
 *  [第 88 期: 取消邮件订阅工具每月收入1万美元 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-88.md)
 *  [第 87 期: 靠写简历如何每年赚24万美元？ ](https://github.com/ljinkai/weekly/blob/main/2023/issue-87.md)
 *  [第 86 期: 月收入4000美元的日程规划器 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-86.md)
