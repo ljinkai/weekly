@@ -71,8 +71,6 @@ ControlNet for QR Code 这款神奇的 AI 技术可以将风格化的图像转�
 
 ![](https://qiniu.gafata.com/ezindie/2023615214529429.png?imageslim)
 
-[https://mail.google.com/mail/u/0/#inbox/FMfcgzGsnBbvnWDfCDjZkdRlPhhSlZMV](https://mail.google.com/mail/u/0/#inbox/FMfcgzGsnBbvnWDfCDjZkdRlPhhSlZMV)
-
 ## 5、只有10个页面的网站，400万访问每月收入5000美元
 
 4年前，Joseph Maxim在ProductHunt上发起的第一个#buildinpublic项目，现在谷歌上获得了每年4500万次的展示次数，并从展示广告中带来了每月5000美元收入。
