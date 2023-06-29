@@ -8,7 +8,7 @@
 ## 2023
 
 ### 六月
-*  [第 93 期: 创建一个年收入350万美元的小工具，以1000万至1500万美元的价格出售 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-93.md)
+*  [第 93 期: 有意思的迷你砖块，每月赚1.7万美元 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-93.md)
 *  [第 92 期: 创建一个年收入350万美元的小工具，以1000万至1500万美元的价格出售 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-92.md)
 *  [第 91 期: 只有10个页面的网站，每月收入5000美元 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-91.md)
 *  [第 90 期: 靠自学开发了一个36万美元/年的ChatGPT应用 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-90.md)
