@@ -1,11 +1,14 @@
 # 独立开发变现周刊
 分享独立开发、产品变现相关内容，每周五发布
 
-[「小产品变现训练营1期」正在进行中...](https://www.ezindie.com/training-camp/number-1)
+[「小产品变现训练营2期」正在招募中..](https://www.ezindie.com/training-camp/number-2)
 
 欢迎投稿，推荐或自荐
 
 ## 2023
+
+### 七月
+*  [第 94 期: 一个23岁小伙靠卖相框推文赚30万美元 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-94.md)
 
 ### 六月
 *  [第 93 期: 有意思的迷你砖块，每月赚1.7万美元 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-93.md)
