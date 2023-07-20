@@ -8,6 +8,7 @@
 ## 2023
 
 ### 七月
+*  [第 96 期: 一个课程学习网站，月收入2.6万美元 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-96.md)
 *  [第 95 期: 一个短链生成浏览器插件，月收入2.6K美金 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-95.md)
 *  [第 94 期: 一个23岁小伙靠卖相框推文赚30万美元 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-94.md)
 
