@@ -8,6 +8,9 @@
 ## 2023
 
 ### 七月
+*  [第 98 期: 一个邮件订阅SaaS工具，盈利1.5万美金/月 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-98.md)
+
+### 七月
 *  [第 97 期: 一个AI域名生成网站，月收入1K美金 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-97.md)
 *  [第 96 期: 一个课程学习网站，月收入2.6万美元 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-96.md)
 *  [第 95 期: 一个短链生成浏览器插件，月收入2.6K美金 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-95.md)
