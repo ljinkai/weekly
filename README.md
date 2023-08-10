@@ -8,6 +8,7 @@
 ## 2023
 
 ### 七月
+*  [第 99 期: 通过二维码建立一个月收入30万美元的产品 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-99.md)
 *  [第 98 期: 一个邮件订阅SaaS工具，盈利1.5万美金/月 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-98.md)
 
 ### 七月
