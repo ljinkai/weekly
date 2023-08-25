@@ -7,8 +7,9 @@
 
 ## 2023
 
-### 七月
+### 八月
 
+*  [第 101 期: 年收入240万美元的聊天产品](https://github.com/ljinkai/weekly/blob/main/2023/issue-101.md)
 *  [第 100 期: 如何将视频编辑工具发展到10万用户和2万美元月收入？](https://github.com/ljinkai/weekly/blob/main/2023/issue-100.md)
 *  [第 99 期: 通过二维码建立一个月收入30万美元的产品 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-99.md)
 *  [第 98 期: 一个邮件订阅SaaS工具，盈利1.5万美金/月 ](https://github.com/ljinkai/weekly/blob/main/2023/issue-98.md)
