@@ -7,6 +7,9 @@
 
 ## 2023
 
+### 九月
+*  [第 102 期: 一个副业项目在线支付工具，交易金额超过100万美元](https://github.com/ljinkai/weekly/blob/main/2023/issue-102.md)
+
 ### 八月
 
 *  [第 101 期: 年收入240万美元的聊天产品](https://github.com/ljinkai/weekly/blob/main/2023/issue-101.md)
