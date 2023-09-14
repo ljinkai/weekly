@@ -187,3 +187,20 @@ ASO是目前KTool表现最好的渠道。它不需要我做任何事情就能不
 4、创业是令人兴奋的，但它可能是你职业生涯中最具挑战性的事情。加入一个支持性社区，如Indie Hacker或Twitter创客社区。
 
 “不要把所有的时间都花在产品和开发上，至少花50%的时间在销售和市场营销上。”
+
+---
+<center>
+本内容开源，欢迎推荐或自荐：
+
+往期内容合集: [https://www.ezindie.com/weekly](https://www.ezindie.com/weekly)
+
+订阅Telegram频道：[https://t.me/ezindie](https://www.ezindie.com/weekly)
+
+B站视频频道: [https://space.bilibili.com/395127673](https://space.bilibili.com/395127673)
+
+微信公众号：凯凯而谈
+
+![](http://qiniu.gafata.com/2019-03-17-web-bear.jpg?imageView2/2/w/200)
+
+扫码订阅
+</center>
