@@ -8,6 +8,7 @@
 ## 2023
 
 ### 九月
+*  [第 104 期: 开发月收入1000美金的Kindle小工具](https://github.com/ljinkai/weekly/blob/main/2023/issue-103.md)
 *  [第 103 期: 一个插件Notion2Sheets，月收入5000美元](https://github.com/ljinkai/weekly/blob/main/2023/issue-103.md)
 *  [第 102 期: 一个副业项目在线支付工具，交易金额超过100万美元](https://github.com/ljinkai/weekly/blob/main/2023/issue-102.md)
 
