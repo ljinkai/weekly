@@ -8,6 +8,8 @@
 ## 2023
 
 ### 九月
+
+*  [第 106 期: 个人独立开发之旅，2年内从0到月收入4.5万美元](https://github.com/ljinkai/weekly/blob/main/2023/issue-106.md)
 *  [第 105 期: 开发一个年收入120万美元的拍照工具](https://github.com/ljinkai/weekly/blob/main/2023/issue-105.md)
 *  [第 104 期: 开发月收入1000美金的Kindle小工具](https://github.com/ljinkai/weekly/blob/main/2023/issue-104.md)
 *  [第 103 期: 一个插件Notion2Sheets，月收入5000美元](https://github.com/ljinkai/weekly/blob/main/2023/issue-103.md)
