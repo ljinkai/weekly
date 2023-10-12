@@ -7,6 +7,10 @@
 
 ## 2023
 
+### 十月
+
+*  [第 107 期: 一个AI播客工具，月收入1.2万美金](https://github.com/ljinkai/weekly/blob/main/2023/issue-107.md)
+
 ### 九月
 
 *  [第 106 期: 个人独立开发之旅，2年内从0到月收入4.5万美元](https://github.com/ljinkai/weekly/blob/main/2023/issue-106.md)
