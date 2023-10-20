@@ -9,6 +9,8 @@
 
 ### 十月
 
+
+*  [第 108 期: 一个AI网站聊天机器人，月收入1.5万美元](https://github.com/ljinkai/weekly/blob/main/2023/issue-108.md)
 *  [第 107 期: 一个AI播客工具，月收入1.2万美金](https://github.com/ljinkai/weekly/blob/main/2023/issue-107.md)
 
 ### 九月
