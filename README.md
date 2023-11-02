@@ -7,10 +7,13 @@
 
 ## 2023
 
+### 十一月
+
+*  [第 110 期: 一个副业产品24小时内获得12万美元投资](https://github.com/ljinkai/weekly/blob/main/2023/issue-110.md)
+
 ### 十月
 
-*  [第 109 期: 通过公开构建，赚到了5万美元
-](https://github.com/ljinkai/weekly/blob/main/2023/issue-109.md)
+*  [第 109 期: 通过公开构建，赚到了5万美元](https://github.com/ljinkai/weekly/blob/main/2023/issue-109.md)
 *  [第 108 期: 一个AI网站聊天机器人，月收入1.5万美元](https://github.com/ljinkai/weekly/blob/main/2023/issue-108.md)
 *  [第 107 期: 一个AI播客工具，月收入1.2万美金](https://github.com/ljinkai/weekly/blob/main/2023/issue-107.md)
 
