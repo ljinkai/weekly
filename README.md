@@ -9,6 +9,7 @@
 
 ### 十一月
 
+*  [第 111 期: AI Excel公式生成器，月收入2万美元](https://github.com/ljinkai/weekly/blob/main/2023/issue-111.md)
 *  [第 110 期: 一个副业产品24小时内获得12万美元投资](https://github.com/ljinkai/weekly/blob/main/2023/issue-110.md)
 
 ### 十月
