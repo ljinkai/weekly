@@ -9,6 +9,7 @@
 
 ### 十一月
 
+*  [第 113 期: 10天内建立了一个SaaS，摆脱了朝九晚五的生活](https://github.com/ljinkai/weekly/blob/main/2023/issue-113.md)
 *  [第 112 期: 基于Shopify开发月收入2.9万美元的WhatsApp插件](https://github.com/ljinkai/weekly/blob/main/2023/issue-112.md)
 *  [第 111 期: AI Excel公式生成器，月收入2万美元](https://github.com/ljinkai/weekly/blob/main/2023/issue-111.md)
 *  [第 110 期: 一个副业产品24小时内获得12万美元投资](https://github.com/ljinkai/weekly/blob/main/2023/issue-110.md)
