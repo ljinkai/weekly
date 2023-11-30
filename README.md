@@ -7,6 +7,10 @@
 
 ## 2023
 
+### 十二月
+
+*  [第 114 期: 一个简单截图API，月收入2千美金](https://github.com/ljinkai/weekly/blob/main/2023/issue-114.md)
+
 ### 十一月
 
 *  [第 113 期: 10天内建立了一个SaaS，摆脱了朝九晚五的生活](https://github.com/ljinkai/weekly/blob/main/2023/issue-113.md)
