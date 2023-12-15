@@ -9,6 +9,7 @@
 
 ### 十二月
 
+*  [第 116 期: 一个会议AI 浏览器扩展插件，月收入1.5千美金](https://github.com/ljinkai/weekly/blob/main/2023/issue-116.md)
 *  [第 115 期: 开发一个健身管理软件，月收入6万美元](https://github.com/ljinkai/weekly/blob/main/2023/issue-115.md)
 *  [第 114 期: 一个简单截图API，月收入2千美金](https://github.com/ljinkai/weekly/blob/main/2023/issue-114.md)
 
