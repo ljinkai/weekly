@@ -1,7 +1,7 @@
 # 独立开发变现周刊
 分享独立开发、产品变现相关内容，每周五发布
 
-[「小产品变现训练营2期」正在进行中..](https://www.ezindie.com/training-camp/number-2)
+[「小产品变现训练营3期」正在早鸟报名中.](https://www.ezindie.com/training-camp/number-3)
 
 欢迎投稿，推荐或自荐
 
@@ -9,6 +9,7 @@
 
 ### 十二月
 
+*  [第 117 期: 靠卖Notion模版赚了210万美元](https://github.com/ljinkai/weekly/blob/main/2023/issue-117.md)
 *  [第 116 期: 一个会议AI 浏览器扩展插件，月收入1.5千美金](https://github.com/ljinkai/weekly/blob/main/2023/issue-116.md)
 *  [第 115 期: 开发一个健身管理软件，月收入6万美元](https://github.com/ljinkai/weekly/blob/main/2023/issue-115.md)
 *  [第 114 期: 一个简单截图API，月收入2千美金](https://github.com/ljinkai/weekly/blob/main/2023/issue-114.md)
