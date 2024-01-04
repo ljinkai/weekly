@@ -9,7 +9,7 @@
 
 ### 一月
 
-*  [第 119 期: 一个自学开发者创建一个月收入12.5万美元的软件公司](https://github.com/ljinkai/weekly/blob/main/2023/issue-119.md)
+*  [第 119 期: 一个自学开发者创建一个月收入12.5万美元的软件公司](https://github.com/ljinkai/weekly/blob/main/2024/issue-119.md)
 
 ## 2023
 
