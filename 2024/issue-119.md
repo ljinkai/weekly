@@ -16,9 +16,9 @@
 ![](https://qiniu.gafata.com/ezindie/202414231925619.png?imageslim)
 
 生成方式也非常简单
-1、填写数据
-2、配置参数
-3、选择模版
+- 1、填写数据
+- 2、配置参数
+- 3、选择模版
 
 ![](https://qiniu.gafata.com/ezindie/202414231925623.png?imageslim)
 
