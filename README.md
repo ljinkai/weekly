@@ -9,6 +9,7 @@
 
 ### 一月
 
+*  [第 121 期: 发布个人服务的SaaS产品，年收入160万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-121.md)
 *  [第 120 期: 帮助App监测竞争对手，每月盈利8000美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-120.md)
 *  [第 119 期: 一个自学开发者创建一个月收入12.5万美元的软件公司](https://github.com/ljinkai/weekly/blob/main/2024/issue-119.md)
 
