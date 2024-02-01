@@ -7,6 +7,10 @@
 
 ## 2024
 
+### 二月
+
+*  [第 122 期: 一个文字生成视频在线SaaS工具，年收入7.5万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-122.md)
+
 ### 一月
 
 *  [第 121 期: 发布个人服务的SaaS产品，年收入160万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-121.md)
