@@ -9,6 +9,7 @@
 
 ### 二月
 
+*  [第 123 期: 一个邮件模板编辑工具月收入40万美金](https://github.com/ljinkai/weekly/blob/main/2024/issue-123.md)
 *  [第 122 期: 一个文字生成视频在线SaaS工具，年收入7.5万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-122.md)
 
 ### 一月
