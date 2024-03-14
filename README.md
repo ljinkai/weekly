@@ -7,8 +7,9 @@
 
 ## 2024
 
-### 4月
+### 三月
 
+*  [第 126 期: 治愈恐慌的App月入8.3万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-126.md)
 *  [第 125 期: 个人Notion如何每月收入3万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-125.md)
 *  [第 124 期: 从100到3万美元，邮件订阅的低成本高收益秘诀](https://github.com/ljinkai/weekly/blob/main/2024/issue-124.md)
 
