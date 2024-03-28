@@ -9,6 +9,7 @@
 
 ### 三月
 
+*  [第 128 期: 一个互动问答工具年收入300万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-128.md)
 *  [第 127 期: 失败了三次，25岁开发月入5万美元的Shopify插件](https://github.com/ljinkai/weekly/blob/main/2024/issue-127.md)
 *  [第 126 期: 治愈恐慌的App月入8.3万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-126.md)
 *  [第 125 期: 个人Notion如何每月收入3万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-125.md)
