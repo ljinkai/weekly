@@ -7,6 +7,10 @@
 
 ## 2024
 
+### 四月
+
+*  [第 129 期: 一周内构建的Tailwind CSS插件，每年收入3万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-129.md)
+
 ### 三月
 
 *  [第 128 期: 一个互动问答工具年收入300万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-128.md)
