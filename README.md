@@ -9,6 +9,7 @@
 
 ### 四月
 
+*  [第 131 期: 3周内打造的产品赚了6万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-131.md)
 *  [第 130 期: 建立一个月收入8000美元的在线计时器](https://github.com/ljinkai/weekly/blob/main/2024/issue-130.md)
 *  [第 129 期: 一周内构建的Tailwind CSS插件，每年收入3万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-129.md)
 
