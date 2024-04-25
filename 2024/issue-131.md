@@ -32,7 +32,7 @@ LLM Scraper 是一个基于TypeScript的开源项目库，它利用LLMs将网页
 
 ## 2、AsPoem: 开源中国诗词学习网站
 
-这是一个本周刊读者自荐的开源项目，一个现代化诗词学习网站，诗词内容丰富，阅读体验很好。约3000首诗词。Github上有1.7K的Star。支持网站和手机浏览。
+这是一个本周刊读者（by @meetqy​）自荐的开源项目，一个现代化诗词学习网站，诗词内容丰富，阅读体验很好。约3000首诗词。Github上有1.7K的Star。支持网站和手机浏览。
 
 ![](https://qiniu.gafata.com/ezindie/2024425221921481.png?imageslim)
 
