@@ -7,6 +7,10 @@
 
 ## 2024
 
+### 五月
+
+*  [第 132 期: 一个年收入1200万美元的在线Logo制作器](https://github.com/ljinkai/weekly/blob/main/2024/issue-132.md)
+
 ### 四月
 
 *  [第 131 期: 3周内打造的产品赚了6万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-131.md)
