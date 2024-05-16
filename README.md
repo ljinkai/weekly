@@ -1,7 +1,7 @@
 # 独立开发变现周刊
 分享独立开发、产品变现相关内容，每周五发布
 
-[「小产品变现训练营3期」正在报名中.](https://www.ezindie.com/training-camp/number-3)
+[「小产品变现训练营4期」早鸟报名中](https://www.ezindie.com/training-camp)
 
 欢迎投稿，推荐或自荐
 
@@ -9,6 +9,7 @@
 
 ### 五月
 
+*  [第 133 期: 副业项目10个月赚了10万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-133.md)
 *  [第 132 期: 一个年收入1200万美元的在线Logo制作器](https://github.com/ljinkai/weekly/blob/main/2024/issue-132.md)
 
 ### 四月
