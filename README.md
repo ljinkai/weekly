@@ -1,7 +1,7 @@
 # 独立开发变现周刊
 分享独立开发、产品变现相关内容，每周五发布
 
-[「小产品变现训练营4期」早鸟报名中](https://www.ezindie.com/training-camp)
+[「小产品变现训练营4期」早鸟报名中](https://www.ezindie.com/training-camp/number-4)
 
 欢迎投稿，推荐或自荐
 
