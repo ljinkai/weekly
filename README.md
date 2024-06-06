@@ -9,6 +9,10 @@
 
 ### 五月
 
+*  [第 136 期: 开发一个每年赚10万美元的网站拦截器](https://github.com/ljinkai/weekly/blob/main/2024/issue-136.md)
+
+### 五月
+
 *  [第 135 期: 简单的网页托管小工具  月收入1.5万美金](https://github.com/ljinkai/weekly/blob/main/2024/issue-135.md)
 *  [第 134 期: 视频图片压缩工具月收入2.5K美金](https://github.com/ljinkai/weekly/blob/main/2024/issue-134.md)
 *  [第 133 期: 副业项目10个月赚了10万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-133.md)
