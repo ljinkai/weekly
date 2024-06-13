@@ -7,8 +7,9 @@
 
 ## 2024
 
-### 五月
+### 六月
 
+*  [第 137 期: 在线写作课程年收入30万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-137.md)
 *  [第 136 期: 开发一个每年赚10万美元的网站拦截器](https://github.com/ljinkai/weekly/blob/main/2024/issue-136.md)
 
 ### 五月
