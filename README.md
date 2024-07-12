@@ -7,9 +7,10 @@
 
 ## 2024
 
-### 六月
+### 七月
 
-*  [第 40 期: 一个播客嘉宾预订平台月收入22万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-140.md)
+*  [第 141 期: 一个MVP开发服务收入6.5万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-141.md)
+*  [第 140 期: 一个播客嘉宾预订平台月收入22万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-140.md)
 
 ### 六月
 
