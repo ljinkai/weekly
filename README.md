@@ -9,6 +9,7 @@
 
 ### 七月
 
+*  [第 142 期: 一个 AI 个人穿搭App年收入300万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-141.md)
 *  [第 141 期: 一个MVP开发服务收入6.5万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-141.md)
 *  [第 140 期: 一个播客嘉宾预订平台月收入22万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-140.md)
 
