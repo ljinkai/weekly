@@ -9,6 +9,7 @@
 
 ### 八月
 
+*  [第 145 期: 世界上最好的简历生成器，年收入 250 万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-145.md)
 *  [第 144 期: 一个在线签名工具年收入24万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-144.md)
 *  [第 143 期: 一个每年收入30万美元的AI业务，成本不到50美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-143.md)
 
