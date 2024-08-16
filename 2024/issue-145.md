@@ -3,13 +3,13 @@
 分享独立开发、产品变现相关内容，每周五发布。
 
 **目录**
-- `1、BroadcastChannel：将elegram 频道转为微站点`
+- `1、BroadcastChannel：将Telegram 频道转为微站点`
 - `2、Lottielab: 一个Lottie 动画编辑器`
 - `3、【粉丝投稿】StaySleep - 熬夜热力图、睡眠监测与睡眠记录`
 - `4、AI2SQL：从零到年收入10万美元的AI SQL工具`
 - `5、世界上最好的简历生成器，年收入 250 万美元`
 
-## 1、BroadcastChannel：将elegram 频道转为微站点
+## 1、BroadcastChannel：将Telegram 频道转为微站点
 
 ![](https://qiniu.gafata.com/ezindie/202481521551578.png?imageslim)
 
