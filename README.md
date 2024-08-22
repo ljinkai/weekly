@@ -3,12 +3,13 @@
 
 [「小产品变现训练营4期」早鸟报名中](https://www.ezindie.com/training-camp/number-4)
 
-欢迎投稿，推荐或自荐
+欢迎投稿，[推荐或自荐](https://github.com/ljinkai/weekly/issues)
 
 ## 2024
 
 ### 八月
 
+*  [第 146 期: 一个月收入8千美金的网红分析工具](https://github.com/ljinkai/weekly/blob/main/2024/issue-146.md)
 *  [第 145 期: 世界上最好的简历生成器，年收入 250 万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-145.md)
 *  [第 144 期: 一个在线签名工具年收入24万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-144.md)
 *  [第 143 期: 一个每年收入30万美元的AI业务，成本不到50美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-143.md)
