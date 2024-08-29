@@ -9,6 +9,7 @@
 
 ### 八月
 
+*  [第 147 期: 月收入12万美元的浏览器截图扩展](https://github.com/ljinkai/weekly/blob/main/2024/issue-147.md)
 *  [第 146 期: 一个月收入8千美金的网红分析工具](https://github.com/ljinkai/weekly/blob/main/2024/issue-146.md)
 *  [第 145 期: 世界上最好的简历生成器，年收入 250 万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-145.md)
 *  [第 144 期: 一个在线签名工具年收入24万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-144.md)
