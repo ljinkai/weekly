@@ -7,6 +7,10 @@
 
 ## 2024
 
+### 九月
+
+*  [第 148 期: 一个年收入18万美元的编程学习社区](https://github.com/ljinkai/weekly/blob/main/2024/issue-148.md)
+
 ### 八月
 
 *  [第 147 期: 月收入12万美元的浏览器截图扩展](https://github.com/ljinkai/weekly/blob/main/2024/issue-147.md)
