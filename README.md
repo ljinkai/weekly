@@ -9,6 +9,7 @@
 
 ### 九月
 
+*  [第 149 期: 每月收入100万美元的 AI 写作 SaaS](https://github.com/ljinkai/weekly/blob/main/2024/issue-149.md)
 *  [第 148 期: 一个年收入18万美元的编程学习社区](https://github.com/ljinkai/weekly/blob/main/2024/issue-148.md)
 
 ### 八月
