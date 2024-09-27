@@ -9,6 +9,7 @@
 
 ### 九月
 
+*  [第 151 期: 一个年收入1800万美元的支付业务](https://github.com/ljinkai/weekly/blob/main/2024/issue-151.md)
 *  [第 150 期: 通过4个SaaS赚取40万欧元](https://github.com/ljinkai/weekly/blob/main/2024/issue-150.md)
 *  [第 149 期: 每月收入100万美元的 AI 写作 SaaS](https://github.com/ljinkai/weekly/blob/main/2024/issue-149.md)
 *  [第 148 期: 一个年收入18万美元的编程学习社区](https://github.com/ljinkai/weekly/blob/main/2024/issue-148.md)
