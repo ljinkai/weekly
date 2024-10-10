@@ -7,6 +7,10 @@
 
 ## 2024
 
+### 十月
+
+*  [第 152 期: 一个年收入18万美金的设计工具](https://github.com/ljinkai/weekly/blob/main/2024/issue-151.md)
+
 ### 九月
 
 *  [第 151 期: 一个年收入1800万美元的支付业务](https://github.com/ljinkai/weekly/blob/main/2024/issue-151.md)
