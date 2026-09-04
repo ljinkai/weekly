@@ -5,6 +5,12 @@
 
 欢迎投稿，[推荐或自荐](https://github.com/ljinkai/weekly/issues)
 
+## 2026
+
+### 九月
+
+* [第 155 期: 不美化失败，把‘持续交付’当作小产品核心成果](https://github.com/ljinkai/weekly/blob/main/2026/issue-155.md)
+
 ## 2024
 
 ### 十月
