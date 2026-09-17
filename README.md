@@ -11,6 +11,8 @@
 
 
 
+
+* [第 157 期: 开源驱动25k美元月收入](https://github.com/ljinkai/weekly/blob/main/2026/issue-157.md)
 * [第 156 期: 单渠道突破法实现400万美元年收](https://github.com/ljinkai/weekly/blob/main/2026/issue-156.md)
 * [第 155 期: 不美化失败，把‘持续交付’当作小产品核心成果](https://github.com/ljinkai/weekly/blob/main/2026/issue-155.md)
 
