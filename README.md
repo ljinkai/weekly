@@ -1,14 +1,32 @@
 # 独立开发变现周刊
 分享独立开发、产品变现相关内容，每周五发布
 
-<!-- [「小产品变现训练营4期」早鸟报名中](https://www.ezindie.com/training-camp/number-4) -->
+<!-- [「小产品变现训练营4期」 门票正式开售](https://www.ezindie.com/training-camp/number-4) -->
 
 欢迎投稿，[推荐或自荐](https://github.com/ljinkai/weekly/issues)
 
-## 2024
+## 2026
 
 ### 九月
 
+
+
+
+* [第 157 期: 开源驱动25k美元月收入](https://github.com/ljinkai/weekly/blob/main/2026/issue-157.md)
+* [第 156 期: 单渠道突破法实现400万美元年收](https://github.com/ljinkai/weekly/blob/main/2026/issue-156.md)
+* [第 155 期: 不美化失败，把‘持续交付’当作小产品核心成果](https://github.com/ljinkai/weekly/blob/main/2026/issue-155.md)
+
+## 2024
+
+### 十月
+
+*  [第 154 期: 月收入2.5万美金社交媒体主页工具](https://github.com/ljinkai/weekly/blob/main/2024/issue-154.md)
+*  [第 153 期: 一个网站UI组件库每月收入8万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-153.md)
+*  [第 152 期: 一个年收入18万美金的设计工具](https://github.com/ljinkai/weekly/blob/main/2024/issue-152.md)
+
+### 九月
+
+*  [第 151 期: 一个年收入1800万美元的支付业务](https://github.com/ljinkai/weekly/blob/main/2024/issue-151.md)
 *  [第 150 期: 通过4个SaaS赚取40万欧元](https://github.com/ljinkai/weekly/blob/main/2024/issue-150.md)
 *  [第 149 期: 每月收入100万美元的 AI 写作 SaaS](https://github.com/ljinkai/weekly/blob/main/2024/issue-149.md)
 *  [第 148 期: 一个年收入18万美元的编程学习社区](https://github.com/ljinkai/weekly/blob/main/2024/issue-148.md)
