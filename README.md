@@ -7,6 +7,10 @@
 
 ## 2026
 
+
+### 十月
+
+* [第 160 期: ChatGPT插件单周新增50万美元](https://github.com/ljinkai/weekly/blob/main/2026/issue-160.md)
 ### 九月
 
 
