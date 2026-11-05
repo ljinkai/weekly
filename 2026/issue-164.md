@@ -32,7 +32,7 @@ Supply 是面向 AI 建站用户的网站模板与交互组件库。用户可在
 
 ## 2、独立开发eSIM细分App：4个月27k美元退出，96%流量来自SEO
 
-独立开发者thegokhankinay于2026年6月上线系列地域化eSIM移动应用（如Europe eSIM、Japan eSIM），4个月后以27,000美元在TrustMRR完成出售。全程AI辅助、零团队，96%收入源于App Store自然搜索流量，精准卡位长尾关键词。
+*@thegokhankinay · 2026/11/02*
 
 产品：RedSim 是一款旅行 eSIM 应用，覆盖 200 多个国家或地区，支持购买、激活、热点共享及退款。核心卖点是价格较低、安装便捷、全天候人工客服，以及每次消费返还 25%、邀请好友返佣等奖励机制。
 
@@ -40,15 +40,15 @@ Supply 是面向 AI 建站用户的网站模板与交互组件库。用户可在
 
 参考价值：产品上线约 4 个月即以 2.7 万美元出售，96% 收入来自自然流量，说明独立开发者可通过 AI 降低开发成本，再借助细分市场搜索词获得低成本获客。类似机会通常来自品类成熟但需求明确、竞争者定位模糊的垂直场景。
 
-![](https://qiniu.gafata.com/screenshots/1793718553197_8f6b9bfdfdab3b07.png)
+![](https://qiniu.gafata.com/weekly/translation-cards/1eba6e400e294888be30b1f2b40592ce.png)
 
 ![](https://qiniu.gafata.com/weekly/extras/928b6b859fb541b494db1213eeb0c245.png)
 
-[独立开发eSIM细分App官网](https://x.com/thegokhankinay/status/2117362794974654788)
+[查看原推文（@thegokhankinay · 2026/11/02）](https://x.com/thegokhankinay/status/2117362794974654788)
 
 ## 3、独立开发一周获202客户：冷启动真实增长快照
 
-独立开发者DanKulkov在推文中分享产品上线一周即获得202名付费客户，直呼“生活太疯狂”，并致谢用户支持。虽未披露具体产品名称与MRR，但数字清晰、时效性强，体现早期验证的爆发力。
+*@DanKulkov · 2026/11/03*
 
 产品：Wow Keywords 是一款面向独立开发者的桌面端 ASO 工具，支持 Mac 和 Windows。它覆盖 App Store 与 Google Play，可进行关键词研究、竞品和市场分析、商店页面诊断，并利用 AI 重写标题、描述、关键词和截图文案，支持 50 种语言及多国家定价建议。还可生成截图、导出 fastlane 文件、提交 App Store Connect 草稿，并提供 MCP 接口，让 Claude Code、Codex、Cursor 等 AI Agent 自动执行优化流程。
 
@@ -58,11 +58,11 @@ Supply 是面向 AI 建站用户的网站模板与交互组件库。用户可在
 
 值得关注：产品正在从普通桌面工具升级为“ASO 操作平台”，MCP 是重要差异点——既服务独立开发者，也为 AI Agent 工具生态提供了新的垂直入口。后续关键在于关键词数据质量、多语言本地化准确度，以及自动上传流程能否真正降低获客成本。
 
-![](https://qiniu.gafata.com/screenshots/1793718571016_8335016d0727cc5d.png)
+![](https://qiniu.gafata.com/weekly/translation-cards/165c8548b2954b86bb0daf0eddc5333c.png)
 
 ![](https://qiniu.gafata.com/weekly/extras/7fca1a83b3b541c08ae9b4f3ba9a098d.png)
 
-[独立开发一周获202客户官网](https://x.com/DanKulkov/status/2117425308072820769)
+[查看原推文（@DanKulkov · 2026/11/03）](https://x.com/DanKulkov/status/2117425308072820769)
 
 ## 4、Directify达5万美元年收入的独立SaaS
 
@@ -104,24 +104,15 @@ Cedric AI 是一款在 Product Hunt 上线的新型 AI 代理产品，可自动�
 
 *@c_emile_c · 2026/11/03*
 
-我是Emile，28岁，前Citadel量化分析师，正在打造一款能提升你转化率的产品。
-推出RoutingCat——一款以智能体（agent）为核心的命令行工具，专为自动优化转化率而设计。
-在你的SaaS产品/落地页/代理业务上只需输入一条提示词，你的智能体几分钟内即可尝试多种变体。RoutingCat在后台持续学习，自动将访客路由至其响应最佳的变体。在Vercel上，决策全程在服务端完成，耗时仅为毫秒级的一小部分，无任何闪烁或浏览器脚本加载。
-你的Claude代码已具备参数化一切并分析结果的能力。你自带AI，我们为其提供命令行接口（CLI）及各项技能。
-哦！额外福利：它还支持完整的归因分析，让你清晰看到转化用户来自哪些渠道——广告、社交媒体、搜索引擎等。
-安装仅需在你的项目中执行一条提示命令，例如：“使用npx routingcat init安装RoutingCat，再通过routingcat skill完成后续配置。”
-欢迎私信！
-https://t.co/z8AOAXY1O7
-
 产品：RoutingCat 是一款面向 SaaS、落地页和代理业务的 AI 转化率优化工具。它通过 CLI 和 Claude Code 等智能体接入网站，自动生成并测试文案、图片、CTA、页面结构等变体，再用机器学习把每位访客实时路由到更可能转化的版本。
 
 逻辑：不是传统 A/B 测试把流量平均分组，而是根据历史数据持续学习，为不同访客分配更合适的页面。官方强调支持多位置同时实验、对照组分析、自动归因，并可通过 Vercel 在服务端完成路由，延迟低且不会产生页面闪烁。
 
 亮点：安装和迭代门槛低，开发者只需描述目标，智能体即可完成配置、生成、分析和上线；还能追踪广告、社交、搜索等渠道的转化来源。
 
-<p class="weekly-x-shot-wrap" style="text-align:center;margin:0 0 16px;"><img class="weekly-x-shot" src="https://qiniu.gafata.com/screenshots/1793802835991_59e61703cc981484.png" alt="" style="max-width:360px;width:auto;height:auto;display:inline-block;vertical-align:middle;border-radius:8px;border:1px solid #d0d7de;box-shadow:0 1px 4px rgba(0,0,0,.08);" /></p>
+![](https://qiniu.gafata.com/weekly/translation-cards/3ef15227d5944144bcc8abe17a40d3e3.png)
 
-<p class="weekly-x-shot-wrap" style="text-align:center;margin:0 0 16px;"><img class="weekly-x-shot" src="https://qiniu.gafata.com/weekly/extras/fa914c77dd5540a596cb9b08285124a5.png" alt="" style="max-width:360px;width:auto;height:auto;display:inline-block;vertical-align:middle;border-radius:8px;border:1px solid #d0d7de;box-shadow:0 1px 4px rgba(0,0,0,.08);" /></p>
+![](https://qiniu.gafata.com/weekly/extras/fa914c77dd5540a596cb9b08285124a5.png)
 
 [查看原推文（@c_emile_c · 2026/11/03）](https://x.com/c_emile_c/status/2117720852821385417)
 
