@@ -8,6 +8,10 @@
 ## 2026
 
 
+
+### 十一月
+
+* [第 164 期: Directify达5万美元年收入的独立SaaS](https://github.com/ljinkai/weekly/blob/main/2026/issue-164.md)
 ### 十月
 
 
