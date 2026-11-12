@@ -161,7 +161,7 @@ sure 是一个开源的个人财务应用，强调本地数据存储、端到端
 
 契合中文独立开发者对隐私与可控性的强需求，技术选型务实（Rust/Tauri/WASM），且明确规避云端财务数据上传——这在当前国产记账工具普遍上云的背景下尤为稀缺。
 
-![](https://qiniu.gafata.com/weekly/screenshots/886215cbeb8040168f8a0e9514af78a6.webp)
+![](https://qiniu.gafata.com/weekly/screenshots/f786f35c55384e71accbb3dbedfc9d70.png)
 
 [GitHub（we-promise/sure）](https://github.com/we-promise/sure)
 
