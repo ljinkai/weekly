@@ -14,6 +14,8 @@
 
 
 
+
+* [第 166 期: 开源AI创业系统，11周创收110万美元](https://github.com/ljinkai/weekly/blob/main/2026/issue-166.md)
 * [第 165 期: AI视频代运营：月入3.8万美元](https://github.com/ljinkai/weekly/blob/main/2026/issue-165.md)
 * [第 164 期: Directify达5万美元年收入的独立SaaS](https://github.com/ljinkai/weekly/blob/main/2026/issue-164.md)
 ### 十月
